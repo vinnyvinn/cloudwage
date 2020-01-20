@@ -1,0 +1,3114 @@
+# Webalizer V2.23-08 Incremental Data - 05/19/2019 14:11:15
+2019 5 19 14 11 15
+6533 4532 634 132 108 261 82200080 3066 1069 0
+32 3 208 1 19
+187 92 1952703 57 136 65
+833 700 10378503 61 414 66
+178 92 1525703 55 125 60
+338 265 4316642 47 117 47
+408 355 5737353 30 82 33
+413 309 5416493 51 145 58
+340 243 4391506 64 152 66
+590 514 8527864 54 145 57
+137 99 1719704 24 54 22
+220 112 2481433 53 135 52
+357 266 5019606 40 117 40
+221 68 2232983 31 165 30
+462 243 5413941 65 274 74
+675 485 8890079 98 300 111
+343 156 3909567 102 273 105
+292 135 3361463 92 216 83
+317 293 4863660 22 48 21
+152 80 1384232 54 108 52
+70 25 676645 32 60 27
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+137 41 1581409 132
+133 46 1270467 111
+140 73 1515108 102
+296 231 4326027 98
+198 108 2326613 119
+191 93 1777281 148
+111 65 1137264 73
+396 329 5756445 102
+283 218 3750611 103
+349 303 4952032 73
+642 456 7744226 266
+630 539 8367768 283
+658 562 9288721 165
+320 239 3866933 135
+336 192 3993516 237
+136 65 1496378 95
+90 36 1042919 75
+297 219 3547631 115
+154 91 2047870 70
+143 69 1531213 99
+138 42 1347564 122
+381 303 5162980 123
+252 172 3098570 118
+122 40 1270534 102
+0
+0
+0
+4532
+0
+0
+0
+0
+0
+0
+0
+232
+894
+0
+16
+0
+0
+0
+0
+0
+0
+332
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+526
+0
+0
+0
+0
+0
+# -urls- 
+/users
+0 1 3615890447148318720 8340 0 0
+/plugins/moment.min.js
+0 3 127978989039920 33387 0 0
+/employees/23
+0 2 3688501970886197248 18746 0 0
+/plugins/datatables/media/js/jquery.dataTables.min.js
+0 3 3330193332854929198 78669 0 0
+/payroll-generate
+0 2 0 21000 0 0
+/allowances/create
+0 1 0 11339 0 0
+/admin/pages/scripts/login.js
+0 104 0 148512 0 0
+/employees
+0 16 0 132040 0 0
+/payroll-pdf/322
+0 1 0 32199 0 0
+/users/2/edit
+0 1 0 10302 0 0
+/payroll-pdfs
+0 1 0 5828 0 0
+/plugins/simple-line-icons/fonts/Simple-Line-Icons.eot
+0 19 0 399342 0 0
+/images/XKRp4oTpIv1515409809png
+0 3 0 19608 0 0
+/admin/layout4/img/sidebar-toggle-light.png
+0 2 0 1930 0 0
+/admin/layout4/scripts/layout.js
+0 117 0 409266 0 0
+/admin/layout4/css/custom.css
+0 103 0 18849 0 0
+/advances/01-2019
+0 3 0 24457 0 0
+/plugins/bootstrap-modal/css/bootstrap-modal.css
+0 3 0 3558 0 0
+/employee-types
+0 1 0 8243 0 0
+/payment-methods
+0 7 0 58841 1 0
+/plugins/fullcalendar/fullcalendar.min.css
+0 3 0 7464 0 0
+/admin/layout4/scripts/demo.js
+0 102 0 215424 0 0
+/payroll-pdf/323
+0 1 0 32231 0 0
+/payroll
+0 26 0 235462 0 0
+/css/plugins.css
+0 101 0 872337 0 0
+/img/syncfusion-icons.png
+0 21 0 171003 0 0
+/advances
+0 6 0 49350 0 0
+/payroll-report
+0 4 0 32147 0 0
+/assignments
+0 1 0 8031 0 0
+/plugins/bootstrap-toastr/toastr.min.css
+0 3 0 7965 0 0
+/admin/pages/scripts/tasks.js
+0 3 3543831775073599488 717 0 0
+/img/portlet-remove-icon-white.png
+0 3 4050475716699029760 780 0 0
+/plugins/simple-line-icons/simple-line-icons.min.css
+0 102 89 220422 0 0
+/admin/layout4/scripts/quick-sidebar.js
+0 3 7939342997000381184 4398 0 0
+/plugins/font-awesome/fonts/fontawesome-webfont.woff
+0 2 25992515278681902 143016 0 0
+/plugins/jquery.blockui.min.js
+0 102 3832061034533814272 359550 0 0
+/payroll-print
+0 2 7146761140724197740 1082 0 0
+/plugins/uniform/jquery.uniform.min.js
+0 101 7310315698623311727 306535 0 0
+/employee-allowances/37/edit
+0 2 0 16096 0 0
+/plugins/font-awesome/fonts/fontawesome-webfont.ttf
+0 22 0 2686024 0 0
+/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js
+0 3 0 26304 0 0
+/plugins/jquery-validation/js/jquery.validate.min.js
+0 102 0 694110 0 0
+/shifts
+0 1 0 8118 0 0
+/favicon.ico
+0 76 0 0 0 0
+/plugins/uniform/css/uniform.default.css
+0 101 0 222503 0 0
+/plugins/respond.min.js
+0 104 0 214032 0 0
+/payroll/0
+0 11 0 94279 0 0
+/allowances/1/edit
+0 4 0 45797 0 0
+/plugins/select2/select2x2.png
+0 2 0 1898 0 0
+/plugins/datatables/media/images/sort_asc.png
+0 2 0 2236 0 0
+/advances/create
+0 3 0 24955 0 0
+/payroll/324
+0 2 0 16179 0 0
+/contracts
+0 1 0 8193 0 0
+/plugins/jquery-ui/jquery-ui.min.css
+0 3 0 22614 0 0
+/admin/
+0 1 0 357 1 0
+/payroll/323
+0 2 0 16167 0 0
+/tax/p10b
+0 2 0 55354 0 0
+/plugins/excanvas.min.js
+0 103 0 779401 0 0
+/plugins/font-awesome/fonts/fontawesome-webfont.svg
+0 1 0 94226 0 0
+/eft
+0 1 0 8029 0 0
+/plugins/datatables/plugins/bootstrap/dataTables.bootstrap.js
+0 3 0 9204 0 0
+/loans
+0 2 0 15831 0 0
+/plugins/datatables/plugins/bootstrap/dataTables.bootstrap.css
+0 3 0 3996 0 0
+/plugins/bootstrap/js/bootstrap.min.js
+0 102 398584771073 993990 0 0
+/plugins/bootstrap-toastr/toastr.min.js
+0 3 384296223233 4326 0 0
+/js/fullcalendar.min.js
+0 3 6485521254776910638 92712 0 0
+/css/style.css
+0 97 7958825012581069409 56939 0 0
+/plugins/datatables/media/images/sort_both.png
+0 2 8026310012822171240 2272 0 0
+/plugins/jquery-migrate.min.js
+0 104 3543549170456671538 318552 0 0
+/admin/pages/css/tasks.css
+0 3 7958824813261225984 1797 0 0
+/plugins/jquery.min.js
+0 103 3978702870285921846 3427840 0 0
+/work-plans
+0 1 0 8213 0 0
+/login
+0 818 0 5163398 75 128
+/employees/create
+0 6 0 70509 0 0
+/profile
+0 2 0 14859 0 0
+/policies
+0 3 0 26228 0 0
+/img/syncfusion-icons-white.png
+0 80 0 444000 0 0
+/plugins/bootstrap-hover-dropdown/bootstrap-hover-dropdown.min.js
+0 3 0 2061 0 0
+/css/components-rounded.css
+0 100 0 4246900 0 0
+/js/scripts.js
+0 3 0 4722 0 0
+/payroll-pdf/325
+0 1 0 32204 0 0
+/plugins/bootstrap/css/bootstrap.min.css
+0 100 0 1988300 0 0
+/_debugbar/assets/javascript
+0 104 0 11664952 11 14
+/payroll/322
+0 2 0 16188 0 0
+/payroll-pdf/324
+0 1 0 32199 0 0
+/scripts/metronic.js
+0 102 0 851292 0 0
+/loans/create
+0 1 0 9344 0 0
+/departments
+0 1 0 1139 0 0
+/tax
+0 10 0 81263 0 0
+/plugins/jquery.sparkline.min.js
+0 3 0 39060 0 0
+/img/remove-icon-small.png
+0 21 0 4053 0 0
+/payment-methods/2
+0 1 0 8146 0 0
+/_debugbar/open
+0 2 0 6957 0 0
+/plugins/uniform/images/sprite.png
+0 2 0 63630 0 0
+/admin/layout4/css/themes/default.css
+0 97 0 237747 0 0
+/admin/pages/css/login3.css
+0 100 0 90000 0 0
+/allowances/1
+0 17 0 150436 0 0
+/grades
+0 1 0 8401 0 0
+/cpanel
+0 3 1657661354724111150 101745 2 2
+/payroll-pdf/326
+0 2 7958825012581069409 64403 0 0
+/payroll/create
+0 10 8317304086823174144 89504 0 0
+/_debugbar/assets/stylesheets
+0 96 7380403000365285376 10631712 5 9
+/
+0 48 12682477606263469874 571397 827 79
+/plugins/font-awesome/fonts/fontawesome-webfont.woff2
+0 47 16213293121363916082 2668660 0 0
+/plugins/bootstrap-daterangepicker/daterangepicker-bs3.css
+0 3 8101816748794064949 4101 0 0
+/plugins/simple-line-icons/fonts/Simple-Line-Icons.woff
+0 3 0 177972 0 0
+/employee-allowances/create
+0 2 0 18635 0 0
+/admin/layout4/css/layout.css
+0 99 0 858033 0 0
+/plugins/jquery-ui/jquery-ui.min.js
+0 3 0 191013 0 0
+/plugins/jquery-slimscroll/jquery.slimscroll.min.js
+0 3 0 6108 0 0
+/allowances
+0 11 0 94302 0 0
+/plugins/morris/morris.css
+0 3 0 756 0 0
+/payroll/326
+0 1 0 8135 0 0
+/tax/p10a
+0 2 0 52600 0 0
+/plugins/select2/select2.css
+0 100 0 322200 0 0
+/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot
+0 19 0 380950 0 0
+/payroll/325
+0 2 0 16171 0 0
+/robots.txt
+0 106 0 2544 0 0
+/css/fullcalendar.min.css
+0 3 0 8706 0 0
+/plugins/bootstrap-switch/css/bootstrap-switch.min.css
+0 100 0 141100 0 0
+/employees/23/edit
+0 1 0 8813 0 0
+/plugins/bootstrap-switch/js/bootstrap-switch.min.js
+0 3 0 10032 0 0
+/plugins/select2/select2.min.js
+0 103 0 1885003 0 0
+/plugins/bootstrap-modal/css/bootstrap-modal-bs3patch.css
+0 3 0 1185 0 0
+/tax/p9
+0 3 0 212430 0 0
+/print-payslips
+0 1 0 7984 0 0
+/plugins/font-awesome/fonts/fontawesome-webfont.eot
+0 25 0 1518600 0 0
+/plugins/jquery.cokie.min.js
+0 101 0 78174 0 0
+/deductions
+0 1 0 8241 0 0
+/payment-structures
+0 1 0 8152 0 0
+/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.min.css
+0 3 0 8220 0 0
+/plugins/font-awesome/css/font-awesome.min.css
+0 102 96828312715569 555186 0 0
+# End Of Table - urls
+# -sites- (monthly)
+185.220.101.15
+0 2 1 5953 1 1557320532
+/login
+crawl-66-249-66-86.googlebot.com
+0 52 19 425906 30 1558171478
+/login
+bzq-62-219-3-48.dcenter.bezeqint.net
+0 2 1 6013 1 1556674215
+/login
+host-73-176.239-178.enter.it
+0 1 0 0 1 1556991603
+/
+64.74.215.174
+0 17 16 221630 1 1557316820
+/_debugbar/assets/javascript
+133-75-15-51.rev.cloud.scaleway.com
+0 1 0 28177 1 1557261674
+-
+tor10.quintex.com
+0 3 1 34172 1 1557786449
+-
+msnbot-40-77-167-121.search.msn.com
+0 7 7 239371 0 0
+-
+toreador.webenlet.hu
+0 3 1 34058 1 1557673344
+-
+185.220.101.70
+0 6 2 68331 2 1558016266
+-
+tor-exit-anonymizer-06.appliedprivacy.net
+0 8 3 73906 3 1557809191
+-
+185.220.101.0
+0 13 4 164806 5 1558253632
+-
+177-200-72-214.static.skysever.com.br
+0 2 0 21058 1 1556999523
+-
+185.220.101.45
+0 6 2 68291 2 1557966472
+-
+fetcher7-6.go.mail.ru
+0 1 0 20072 0 0
+-
+185.220.101.13
+0 3 1 33996 1 1556826330
+-
+msnbot-40-77-167-46.search.msn.com
+0 1 0 20244 1 1556864231
+-
+123.125.67.227
+0 1 0 239 0 0
+-
+185.195.237.117
+0 3 1 34209 1 1556756738
+-
+no-reverse.onlinesystemen.nl
+0 11 4 97853 2 1557975739
+-
+ec2-34-219-254-86.us-west-2.compute.amazonaws.com
+0 2 1 21665 1 1557315692
+/login
+msnbot-157-55-39-36.search.msn.com
+0 2 1 263 0 0
+-
+185.220.101.68
+0 6 2 68429 2 1558237601
+-
+tor-exit-1.zbau.f3netze.de
+0 15 5 170842 5 1557872601
+-
+178-175-143-166.static.as43289.net
+0 2 1 6387 1 1558158950
+/login
+tor-exit-node.dishfire.cridyn.com
+0 7 2 96403 3 1557665750
+-
+tor.node49a.net
+0 3 1 34176 1 1557164499
+-
+nitrohorse.darkweb.love
+0 2 0 348 2 1557831754
+/
+msnbot-157-55-39-47.search.msn.com
+0 1 1 24 0 0
+-
+msnbot-157-55-39-0.search.msn.com
+0 1 1 24 0 0
+-
+tor-exit2.0day.to
+0 3 1 34173 1 1558012976
+-
+thalassa.exit.torworld.org
+0 6 2 68245 2 1556910204
+-
+2-23-109-78.hosting.ua
+0 9 3 102571 3 1557873441
+-
+185.248.160.231
+0 3 1 34201 1 1556754843
+-
+85.240.239.35.bc.googleusercontent.com
+0 3 2 5435 1 1557456205
+/login
+no-rdns.mykone.info
+0 3 1 34184 1 1557794547
+-
+247.68.10.185.ro.ovo.sc
+0 6 2 68268 2 1557930713
+-
+google-proxy-66-249-88-175.google.com
+0 16 15 238389 1 1557219410
+/_debugbar/assets/javascript
+46.246.65.131
+0 5 1 28355 1 1557001809
+-
+baiduspider-220-181-108-99.crawl.baidu.com
+0 1 1 24 0 0
+-
+197.232.61.223
+0 44 40 599047 1 1557745158
+/_debugbar/assets/javascript
+msnbot-207-46-13-143.search.msn.com
+0 1 1 4639 1 1557901722
+/login
+ec2-34-216-107-232.us-west-2.compute.amazonaws.com
+0 2 1 21674 1 1557315693
+/login
+ec2-54-189-113-37.us-west-2.compute.amazonaws.com
+0 1 0 348 1 1557998937
+/
+tor21.quintex.com
+0 8 3 74430 3 1558158951
+/login
+234.149.66.34.bc.googleusercontent.com
+0 3 2 5449 1 1557452347
+/login
+198.199.122.218
+0 2 0 20895 1 1557442056
+-
+www.miner.dk
+0 6 2 68267 2 1557890936
+-
+msnbot-207-46-13-73.search.msn.com
+0 6 6 23236 0 0
+-
+tor-exit-1.droideka.ovh
+0 6 2 68233 2 1557230170
+-
+tor-exit.r3.darknet.dev
+0 3 1 34141 1 1556804701
+-
+tor-exit-proxy.donategrid.com
+0 5 2 40124 2 1557970458
+/login
+tor18.quintex.com
+0 3 1 34563 2 1558158953
+/login
+static-ip-1861462111.cable.net.co
+0 2 0 20696 1 1556862469
+-
+ns335135.ip-5-196-89.eu
+0 1 0 19760 0 0
+-
+vps1.torrentflame.org
+0 3 1 34145 1 1557792095
+-
+125.166.111.72
+0 2 0 21356 1 1557161364
+-
+fulltextrobot-77-75-76-171.seznam.cz
+0 2 2 4688 1 1557742954
+/login
+185.220.101.62
+0 6 2 68247 2 1557981438
+-
+cerealkiller.darkweb.love
+0 7 2 96018 3 1557984642
+-
+193.9.115.24
+0 5 2 40030 2 1557893496
+/login
+46.165.245.154
+0 19 6 232597 8 1557967810
+-
+65.19.167.132
+0 6 2 68216 2 1558190089
+-
+corpnat-104-132-181-92.corp.google.com
+0 34 33 492616 1 1557431424
+/_debugbar/assets/javascript
+msnbot-207-46-13-49.search.msn.com
+0 1 0 348 1 1556798564
+/
+crawl1.bl.semrush.com
+0 1 1 4612 1 1558047492
+/login
+62.113.196.49
+0 3 1 34158 1 1557846999
+-
+tor-exit-node.heteigenwijsje.nl
+0 4 2 6011 2 1558226475
+/login
+116.193.218.18
+0 1 0 348 1 1557049477
+/
+ns305156.ip-94-23-216.eu
+0 1 1 357 1 1557828219
+/admin/
+239.ip-158-69-192.net
+0 3 1 34055 1 1557953097
+-
+41.215.59.174.accesskenya.com
+0 66 65 775708 1 1556967633
+/profile
+ip194.ip-51-77-177.eu
+0 2 1 5922 1 1557848333
+/login
+193.201.225.45
+0 3 1 34148 1 1557874740
+-
+69.164.111.198
+0 24 1 453164 1 1557430871
+/login
+194.fastweb.ro
+0 3 1 34188 1 1556928476
+-
+somedomain.md
+0 3 1 34133 1 1557849402
+-
+185.165.168.168
+0 3 1 34152 1 1557935286
+-
+197-248-207-206.safaricombusiness.co.ke
+0 405 368 4587557 9 1558010905
+/cpanel
+tor-exit-anonymizer-02.appliedprivacy.net
+0 22 8 205304 6 1558004025
+-
+msnbot-207-46-13-125.search.msn.com
+0 1 0 348 1 1558077775
+/
+lv1.exit.tor.alkyl.eu.org
+0 3 1 34021 1 1556678940
+-
+tor49.quintex.com
+0 3 1 34170 1 1557904510
+-
+ddos-pillow.wrmsr.io
+0 2 1 0 1 1556907622
+/login
+hostedby.lusobits.com
+0 5 1 75832 1 1558175880
+-
+exit-node.cryptoanarchy.org
+0 4 1 62429 2 1557779446
+-
+msnbot-40-77-167-222.search.msn.com
+0 1 0 348 1 1557293816
+/
+185.220.101.27
+0 3 1 34096 1 1557207651
+-
+crawl12.bl.semrush.com
+0 2 1 25608 1 1556871115
+-
+vds-244041.hosted-by-itldc.com
+0 3 1 34177 1 1557954615
+-
+178.175.132.227
+0 3 1 34140 1 1558246294
+-
+59.ip-144-217-166.net
+0 9 3 102129 3 1557779148
+-
+ns3061207.ip-193-70-34.eu
+0 3 1 6219 1 1558216275
+/login
+23.129.64.176
+0 3 1 34045 1 1557231196
+-
+143-74-15-51.rev.cloud.scaleway.com
+0 4 1 62402 2 1557865868
+-
+msnbot-207-46-13-100.search.msn.com
+0 1 0 348 1 1557985431
+/
+tor-readme.shirfire.net
+0 9 3 102015 3 1557833555
+-
+djb.tor-exit.calyxinstitute.org
+0 1 0 28167 1 1557320533
+-
+msnbot-157-55-39-9.search.msn.com
+0 1 0 348 1 1557244898
+/
+anon-4.multisec.no
+0 3 1 34230 1 1557199042
+-
+msnbot-207-46-13-195.search.msn.com
+0 1 0 348 1 1556905143
+/
+5.45.64.76
+0 2 1 5957 1 1556944620
+/login
+61.149.196.99
+0 2 0 19905 1 1558015280
+-
+tor.keff.org
+0 5 2 77404 3 1557994753
+-
+crawl9.bl.semrush.com
+0 1 0 348 1 1558247807
+/
+37-9-113-80.spider.yandex.com
+0 18 14 38539 10 1558219446
+/
+2219czygw.guzel.net.tr
+0 1 0 19763 0 0
+-
+getyourasstomars.darkweb.love
+0 2 1 5959 1 1557707092
+/login
+charon.s.daknob.net
+0 10 3 130362 4 1557972316
+-
+google-proxy-66-249-88-179.google.com
+0 5 5 16839 0 0
+-
+185.220.101.24
+0 6 2 68208 2 1558213756
+-
+tor-exit.gibberfish.org
+0 3 1 34128 1 1557971787
+-
+193.169.255.102
+0 3 1 34230 1 1557644792
+-
+185.220.101.65
+0 6 2 68212 2 1557996582
+-
+exit1.ipredator.se
+0 9 3 102422 3 1557962731
+-
+msnbot-207-46-13-171.search.msn.com
+0 8 8 171957 1 1556985416
+/_debugbar/assets/javascript
+pengy.lsd.cat
+0 3 1 34181 1 1557161392
+-
+163-172-11-200.rev.poneytelecom.eu
+0 2 1 5940 1 1558263312
+/login
+msnbot-40-77-167-97.search.msn.com
+0 1 0 348 1 1557000011
+/
+tor50.quintex.com
+0 5 2 40185 2 1557894722
+/login
+fulltextrobot-77-75-78-162.seznam.cz
+0 2 1 372 1 1556885802
+/
+91.92.133.179
+0 2 0 21063 1 1557256677
+-
+this-is-a-tor-exit-node-hviv114.hviv.nl
+0 9 3 102459 3 1557965274
+-
+95-26-217-203.broadband.corbina.ru
+0 5 2 42167 2 1557318634
+/login
+26.ip-144-217-166.net
+0 3 1 34155 1 1557885553
+-
+193.169.145.202
+0 3 1 34189 1 1557805955
+-
+mail.victoriacourts.co.ke
+0 69 67 988979 1 1557830153
+/_debugbar/assets/javascript
+185.234.219.119
+0 3 1 34200 1 1556897282
+-
+ip83.ip-79-137-109.eu
+0 1 0 19764 0 0
+-
+23.226.211.94
+0 2 1 22436 1 1557745086
+/login
+154.21.177.34
+0 2 0 20680 1 1557505683
+-
+ip-54-36-148-45.a.ahrefs.com
+0 2 1 263 0 0
+-
+jobqueue-listener.jobqueue.netcraft.com-u551c90626dc011e994912a64838d6ab1u-digitalocean-2gb
+0 2 1 15947 1 1556947428
+/login
+46.29.248.238
+0 1 0 28204 1 1557944109
+-
+li743-241.members.linode.com
+0 6 2 68226 2 1557899181
+-
+163-172-76-63.rev.poneytelecom.eu
+0 1 0 20138 0 0
+-
+crawl-66-249-69-46.googlebot.com
+0 1 0 20495 1 1557707307
+-
+msnbot-157-55-39-20.search.msn.com
+0 1 1 24 0 0
+-
+199.249.230.104
+0 3 1 34063 1 1556787198
+-
+msnbot-207-46-13-117.search.msn.com
+0 1 0 20364 1 1558228007
+-
+tor-exit-node.nigger.solutions
+0 2 1 6414 1 1558158954
+/login
+tor24.quintex.com
+0 3 1 34206 1 1557948475
+-
+mailing.secure
+0 3 1 34142 1 1557869626
+-
+api.squired.ro
+0 3 1 33789 1 1557505753
+-
+tor4e3.digitale-gesellschaft.ch
+0 3 1 34042 1 1557791065
+-
+fetcher10-1.go.mail.ru
+0 1 1 24 0 0
+-
+157.230.177.134
+0 15 5 169929 5 1557731731
+-
+185.248.160.52
+0 8 3 74227 3 1557817036
+-
+crawl-66-249-66-84.googlebot.com
+0 293 49 2704589 39 1558186610
+-
+ec2-34-220-45-205.us-west-2.compute.amazonaws.com
+0 1 0 348 1 1557759765
+/
+ip160.ip-151-80-112.eu
+0 1 0 19797 0 0
+-
+61.160.247.137
+0 1 0 19981 0 0
+-
+ip-54-36-148-13.a.ahrefs.com
+0 1 1 24 0 0
+-
+tor-exit.nathan.sx
+0 3 1 33785 1 1557507088
+-
+102.140.198.127
+0 33 33 491751 1 1557264218
+/_debugbar/assets/javascript
+ip-54-36-148-86.a.ahrefs.com
+0 2 1 263 0 0
+-
+46.229.168.162
+0 1 1 24 0 0
+-
+vds-244023.hosted-by-itldc.com
+0 3 1 34205 1 1557874131
+-
+tor26.quintex.com
+0 2 1 5966 1 1558193321
+/login
+msnbot-40-77-188-89.search.msn.com
+0 1 1 122092 0 0
+-
+msnbot-40-77-167-49.search.msn.com
+0 1 0 348 1 1557515192
+/
+185.220.101.54
+0 3 1 34069 1 1557246574
+-
+ip-54-36-148-24.a.ahrefs.com
+0 1 1 24 0 0
+-
+tor-exit-3.zbau.f3netze.de
+0 2 1 0 1 1556907635
+/login
+mail.kfk.co.ke
+0 35 33 493261 1 1557749831
+/_debugbar/assets/javascript
+tor.patatje.eu
+0 3 1 34193 1 1556738617
+-
+wealth.goldenhand.org
+0 3 1 34059 1 1557187014
+-
+185.220.101.1
+0 6 2 67803 2 1557953926
+-
+197.232.61.251
+0 33 33 491753 1 1557240221
+/_debugbar/assets/javascript
+tollana.enn.lu
+0 5 2 34033 2 1557873694
+-
+ip-54-36-148-213.a.ahrefs.com
+0 1 1 24 0 0
+-
+this-is-a-tor-exit-node-hviv120.hviv.nl
+0 6 2 68387 2 1557993573
+-
+this-is-a-tor-exit-node---keywebtor1.artikel5ev.de
+0 5 2 40162 2 1557000676
+-
+tor47.quintex.com
+0 3 1 34211 1 1557307192
+-
+ip-54-36-149-4.a.ahrefs.com
+0 1 1 4532 1 1556753109
+/login
+this-is-a-tor-exit-node-hviv115.hviv.nl
+0 3 1 34086 1 1557931752
+-
+kube-01.dataprovider.com
+0 33 32 492907 1 1557925143
+/_debugbar/assets/javascript
+tor31.quintex.com
+0 3 1 34032 1 1557973055
+-
+vds-249668.hosted-by-itldc.com
+0 6 2 68385 2 1557984116
+-
+kmv.uaservers.net
+0 3 1 34147 1 1556684785
+-
+master-of-disaster.tor-exit.laarnes.nl
+0 1 0 348 1 1557954587
+/
+185.220.101.21
+0 3 1 34199 1 1557761682
+-
+66-68-15-51.rev.cloud.scaleway.com
+0 3 1 34025 1 1557295209
+-
+crawl-66-249-76-142.googlebot.com
+0 8 5 41965 6 1556839303
+/login
+122.246.33.255
+0 2 0 19906 1 1557484522
+-
+google-proxy-66-249-88-177.google.com
+0 9 9 224551 1 1557219410
+/_debugbar/assets/stylesheets
+185.165.169.160
+0 1 0 28101 1 1556881546
+-
+msnbot-207-46-13-219.search.msn.com
+0 7 7 36973 0 0
+-
+greyponyitnyc002.greyponyit.com
+0 3 1 34172 1 1557961532
+-
+157.157.87.22
+0 6 2 68221 2 1558243045
+-
+123.125.67.228
+0 1 1 24 0 0
+-
+178-175-132-229.static.as43289.net
+0 3 1 34182 1 1557803952
+-
+94.100.6.27
+0 3 1 34160 1 1557871210
+-
+185.220.101.57
+0 1 0 348 1 1557814660
+/
+tor-exit.hartvoorinternetvrijheid.nl
+0 8 3 74429 3 1557181749
+-
+rate-limited-proxy-66-249-92-150.google.com
+0 13 10 238654 3 1557247340
+/login
+msnbot-157-55-39-42.search.msn.com
+0 1 1 24 0 0
+-
+185.220.101.5
+0 4 1 62212 2 1557779051
+-
+v28-4.yevps.net
+0 3 1 34187 1 1556856499
+-
+41.90.5.203
+0 78 76 829480 1 1556804662
+/work-plans
+62.102.148.69
+0 3 1 34166 1 1557446781
+-
+baiduspider-123-125-71-47.crawl.baidu.com
+0 1 0 348 1 1557070409
+/
+orwell.xen.prgmr.com
+0 2 1 6012 1 1558165822
+/login
+178-175-135-99.static.as43289.net
+0 3 1 34215 1 1557981116
+-
+msnbot-207-46-13-165.search.msn.com
+0 2 0 20587 2 1557933920
+/
+fr3.tor-exit.anon.af
+0 3 1 34155 1 1557698909
+-
+14-80-15-51.rev.cloud.scaleway.com
+0 2 1 5880 1 1558161372
+/login
+tor-exit-anonymizer-10.appliedprivacy.net
+0 25 9 272634 9 1558225526
+-
+93-80-167-236.broadband.corbina.ru
+0 2 1 20921 1 1557838268
+/login
+spider-33.lipperhey.com
+0 8 4 91767 1 1557819301
+/login
+msnbot-207-46-13-75.search.msn.com
+0 10 9 196737 1 1558003396
+/_debugbar/assets/stylesheets
+185.220.101.33
+0 14 5 142042 5 1557965893
+-
+google-proxy-66-249-88-37.google.com
+0 23 23 180576 0 0
+-
+178-175-132-228.static.as43289.net
+0 9 3 102501 3 1558198527
+-
+fetcher10-7.go.mail.ru
+0 1 0 20055 1 1557578577
+-
+207.102.138.158
+0 66 64 1015262 2 1557322013
+/_debugbar/assets/javascript
+tor20.quintex.com
+0 7 2 96602 3 1557860595
+-
+199.249.230.108
+0 3 1 34217 1 1556791753
+-
+85826.example.com
+0 6 2 68397 2 1557754275
+-
+msnbot-157-55-39-27.search.msn.com
+0 1 1 24 0 0
+-
+46.173.214.3
+0 3 1 34064 1 1557303025
+-
+ec2-52-33-227-187.us-west-2.compute.amazonaws.com
+0 1 0 348 1 1558167986
+/
+tor4.quintex.com
+0 1 0 28091 1 1557867917
+-
+tor22.quintex.com
+0 5 2 40156 2 1557981468
+-
+guestnat-104-132-20-105.corp.google.com
+0 34 33 493032 1 1557118378
+/_debugbar/assets/javascript
+tor36.quintex.com
+0 4 1 62277 2 1557279299
+-
+185.100.87.129
+0 3 1 34077 1 1558008771
+-
+lordnikon.darkweb.love
+0 9 3 102510 3 1557838624
+-
+41.215.89.118.accesskenya.net
+0 38 38 510308 4 1556996400
+/login
+89.144.12.17
+0 3 1 34209 1 1558232480
+-
+185.212.170.188
+0 3 0 60692 1 1557995760
+-
+5.62.154.133
+0 1 0 348 1 1558141791
+/
+tor48.quintex.com
+0 1 0 0 1 1556899011
+/
+manipogo.relay.coldhak.com
+0 10 3 129833 4 1557879367
+-
+185.220.101.29
+0 3 1 33791 1 1557542851
+-
+tor-exit.tfgit.com
+0 6 2 67973 2 1557598657
+-
+211.55.19.11
+0 2 1 14619 1 1557317942
+/login
+ip-54-36-148-84.a.ahrefs.com
+0 1 1 24 0 0
+-
+atomator.salazzo.net
+0 3 1 33993 1 1556825923
+-
+95.211.246.234
+0 5 4 15172 1 1556897466
+/login
+38.100.53.77
+0 1 0 229 1 1557845385
+/
+154.76.58.93
+0 33 32 493002 1 1557127217
+/_debugbar/assets/javascript
+onions.mit.edu
+0 3 1 33692 1 1557550268
+-
+msnbot-157-55-39-22.search.msn.com
+0 2 2 48 0 0
+-
+msnbot-207-46-13-83.search.msn.com
+0 1 0 348 1 1556839396
+/
+triton.s.daknob.net
+0 3 1 34163 1 1558005397
+-
+105.ip-54-36-189.eu
+0 3 1 34031 1 1557174271
+-
+ip-50-63-12-184.ip.secureserver.net
+0 1 0 19775 0 0
+-
+phantomfreak.darkweb.love
+0 6 2 68338 2 1557885478
+-
+tor17.quintex.com
+0 3 1 6328 2 1557783293
+/
+browseresponsibly.darkweb.love
+0 3 1 34055 1 1557920857
+-
+tor-gateway.vif.com
+0 3 1 34040 1 1556710271
+-
+185.220.101.30
+0 1 0 348 1 1557312081
+/
+ns3.b-holdingbit.com
+0 1 0 19767 0 0
+-
+crawl11.bl.semrush.com
+0 1 1 24 0 0
+-
+msnbot-157-55-39-239.search.msn.com
+0 1 1 4642 1 1557957977
+/login
+193.169.145.194
+0 3 1 34156 1 1557896832
+-
+197.220.114.34
+0 35 33 493197 1 1557745771
+/_debugbar/assets/javascript
+185.100.85.190
+0 3 1 33722 1 1557500300
+-
+82.118.242.128
+0 3 1 34180 1 1557852955
+-
+torexit.schokomil.ch
+0 3 1 34064 1 1557265532
+-
+178-154-200-38.spider.yandex.com
+0 1 1 4664 1 1558219449
+/login
+81-174-208-74.pth-as1.dial.plus.net
+0 3 2 24243 1 1557312165
+/login
+msnbot-40-77-167-143.search.msn.com
+0 1 0 348 1 1557884936
+/
+fetcher7-7.go.mail.ru
+0 1 1 24 0 0
+-
+2000me.dd-dns.de
+0 3 1 34148 1 1558228217
+-
+google-proxy-66-249-88-35.google.com
+0 18 17 226964 2 1558009005
+/_debugbar/assets/javascript
+185.89.100.225
+0 4 2 23215 1 1557288519
+/login
+ns200.anycast.me.6290lv1irc.xyz
+0 3 1 34199 1 1556937024
+-
+178-17-174-198.static.as43289.net
+0 5 2 40008 2 1557834962
+/login
+ec2-34-242-248-189.eu-west-1.compute.amazonaws.com
+0 48 47 645064 1 1556992696
+/_debugbar/assets/javascript
+msnbot-40-77-167-113.search.msn.com
+0 1 0 348 1 1557047028
+/
+tor-exit4-readme.dfri.se
+0 5 2 39598 2 1558170620
+-
+tor13.quintex.com
+0 1 0 28204 1 1557799384
+-
+185.177.151.34
+0 1 1 16065 1 1557312165
+/login
+ip-54-36-148-175.a.ahrefs.com
+0 1 0 368 1 1558263569
+/
+tor-exit-anonymizer-05.appliedprivacy.net
+0 18 6 204733 5 1557886653
+-
+msnbot-207-46-13-84.search.msn.com
+0 1 0 348 1 1557151986
+/
+185.234.217.218
+0 2 0 39712 0 0
+-
+ns.tor-exit-4.artikel5ev.de
+0 9 3 91752 2 1557970459
+-
+client-87-247-111-222.cgates.lt
+0 1 0 28210 1 1556668812
+-
+185.220.101.58
+0 2 0 28180 2 1557953816
+-
+82.221.128.191
+0 3 1 34162 1 1558217154
+-
+178-175-143-165.static.as43289.net
+0 4 1 62353 2 1558241824
+-
+178.173.247.241
+0 2 1 4959 1 1556785332
+/login
+msnbot-207-46-13-156.search.msn.com
+0 1 0 20116 1 1557149271
+-
+41.90.5.173
+0 36 34 500565 1 1557154620
+/login
+tor-exit.talyn.se
+0 3 1 34085 1 1557936847
+-
+corpnat-104-132-181-66.corp.google.com
+0 36 34 499464 1 1557162896
+/login
+msnbot-40-77-167-216.search.msn.com
+0 1 0 348 1 1557435878
+/
+62.8.67.68.wananchi.com
+0 33 32 492994 1 1557129877
+/_debugbar/assets/stylesheets
+ns330209.ip-5-196-66.eu
+0 6 2 68353 2 1557284018
+-
+94.140.116.189
+0 6 2 68234 2 1557973414
+-
+173.252.87.13
+0 1 0 229 1 1557476731
+/
+lu1.exit.tor.alkyl.eu.org
+0 4 1 62404 2 1557917622
+-
+ninja-crawler13.webmeup.com
+0 12 6 56826 2 1557969232
+/login
+relay.backplanedns.org
+0 2 1 5964 1 1556753319
+/login
+tor-exit-2.zbau.f3netze.de
+0 6 2 68264 2 1557204261
+-
+crawl-66-249-66-209.googlebot.com
+0 2 0 468 1 1557561561
+/
+43.251.159.144
+0 3 1 34199 1 1557140424
+-
+5.150.254.67
+0 1 0 28159 1 1557853946
+-
+anonymouse.tor.nerds-r-us.net
+0 3 1 34066 1 1556758492
+-
+ip37.ip-54-36-222.eu
+0 3 1 33751 1 1557466969
+-
+snowfall.relay.coldhak.com
+0 3 1 34056 1 1557856055
+-
+spongebob.exit.tor4us.net
+0 4 1 62136 2 1557834898
+-
+msnbot-157-55-39-186.search.msn.com
+0 1 0 348 1 1556744868
+/
+szplex172-132.com
+0 6 4 253192 1 1558082568
+/_debugbar/assets/stylesheets
+tor-exit.csail.mit.edu
+0 3 1 34026 1 1557853763
+-
+103-234-220-197.hkdata.center
+0 3 1 34137 1 1557767098
+-
+234.ip-54-39-148.net
+0 3 1 34164 1 1557945396
+-
+ip-54-36-148-79.a.ahrefs.com
+0 2 1 263 0 0
+-
+195.206.104.36
+0 2 1 22646 1 1556762156
+/login
+tor.les.net
+0 3 1 34053 1 1557994525
+-
+185.220.102.7
+0 12 4 136510 4 1558270276
+-
+kiboko.telkom.co.ke
+0 36 34 499402 1 1557212526
+/login
+tor2.anonymizer.ccc.de
+0 7 2 96150 3 1558222173
+-
+tor7.quintex.com
+0 3 1 34041 1 1557728186
+-
+185.195.237.118
+0 9 3 102552 3 1557980219
+-
+ssa8mybzyxduym94.darkweb.love
+0 3 1 34188 1 1557757162
+-
+103.216.200.220
+0 2 0 21104 1 1557580691
+-
+aip-138.trustwave.com
+0 31 30 429681 1 1557311945
+/_debugbar/assets/stylesheets
+74.82.47.194
+0 3 1 33765 1 1557438470
+-
+62.102.148.67
+0 17 6 177347 6 1558160971
+-
+youareloved.darkweb.love
+0 3 1 34160 1 1557966611
+-
+devoops.darkweb.love
+0 3 1 34200 1 1556716037
+-
+5.101.220.192
+0 4 2 23150 1 1557757483
+/login
+185.220.101.60
+0 6 2 67813 2 1557867611
+-
+62.102.148.68
+0 16 6 148162 7 1558275075
+-
+tor-exit-node-tpc3
+0 3 1 34040 1 1556669769
+-
+exit.tor.uwaterloo.ca
+0 3 1 34131 1 1557976125
+-
+200.ip-158-69-192.net
+0 3 1 34211 1 1557973788
+-
+204.12.255.43
+0 54 27 409335 27 1558188525
+/
+185.220.101.12
+0 5 2 40107 2 1558163730
+/login
+185.220.101.32
+0 6 2 68201 2 1557766488
+-
+ipb2187921.dynamic.kabel-deutschland.de
+0 1 0 20046 0 0
+-
+rate-limited-proxy-66-249-92-148.google.com
+0 204 198 3028949 8 1557565486
+/_debugbar/assets/javascript
+185.220.101.20
+0 4 1 62317 2 1558263314
+-
+dreamatorium.badexample.net
+0 6 2 68174 2 1557979956
+-
+95-25-175-199.broadband.corbina.ru
+0 2 1 20905 1 1557826662
+/login
+163-172-12-160.rev.poneytelecom.eu
+0 2 1 5959 1 1556741774
+/login
+ns539693.ip-158-69-247.net
+0 6 1 87207 1 1556839269
+/login
+188.166.116.151
+0 2 1 5011 1 1558082889
+/login
+41.90.5.245
+0 65 61 844722 1 1556808720
+/login
+msnbot-207-46-13-85.search.msn.com
+0 2 0 20590 2 1557756927
+/
+this-is-a-tor-exit-node-hviv128.hviv.nl
+0 3 1 34177 1 1557999613
+-
+165.227.163.166
+0 2 0 696 1 1557312102
+/
+tor.t-3.net
+0 3 1 34170 1 1557210815
+-
+jpn2-exit.privateinternetaccess.com
+0 3 1 34182 1 1557968837
+-
+123.125.67.222
+0 1 1 24 0 0
+-
+114.249.242.98
+0 2 0 19907 1 1557505887
+-
+119.180.128.201
+0 2 0 20803 1 1557815186
+-
+fuckcancer.darkweb.love
+0 2 1 5998 1 1557956589
+/login
+mail.heimarbeit-online.tv
+0 3 1 34153 1 1557303465
+-
+hookersonion.darkweb.love
+0 3 1 34182 1 1557129231
+-
+tor-exit-4.zbau.f3netze.de
+0 2 1 5591 1 1557526136
+/login
+www.torproject.org
+0 6 2 67836 2 1557749481
+-
+62-210-202-81.rev.poneytelecom.eu
+0 17 15 128225 1 1557869637
+-
+209.141.58.114
+0 3 1 34160 1 1557966089
+-
+automaticarrestline.darkweb.love
+0 5 2 34140 2 1557803184
+-
+ns316491.ip-37-187-129.eu
+0 8 2 124546 4 1557881171
+-
+thepowerofnow.mooo.com
+0 6 2 68399 2 1556761597
+-
+msnbot-40-77-167-136.search.msn.com
+0 7 7 36973 0 0
+-
+baiduspider-123-125-71-43.crawl.baidu.com
+0 1 1 5561 1 1557070410
+/login
+jobqueue-listener.jobqueue.netcraft.com-u876566466df911e99aa5fa23838d6ab1u-digitalocean-2gb
+0 3 1 15956 1 1556966122
+/login
+this-is-a-tor-exit.ignorelist.com
+0 11 3 158801 5 1558000564
+-
+tor27.quintex.com
+0 8 3 73856 3 1558158946
+/login
+crawl-66-249-66-213.googlebot.com
+0 4 0 936 2 1558078258
+/
+tor44.quintex.com
+0 3 1 34157 1 1557761408
+-
+185.222.202.125
+0 1 1 0 1 1556899012
+/login
+85-115-52-140.mailcontrol.com
+0 17 16 221142 1 1557437127
+/_debugbar/assets/javascript
+185.231.245.14
+0 1 0 19763 0 0
+-
+ro25.me.now
+0 6 2 68302 2 1557957610
+-
+msnbot-157-55-39-118.search.msn.com
+0 9 9 172731 1 1556807371
+/_debugbar/assets/javascript
+37.139.8.104
+0 3 1 34063 1 1557867853
+-
+tor-exit5-readme.dfri.se
+0 9 4 40132 3 1558222172
+/login
+tor-exit1.sjc02.svwh.net
+0 3 1 34158 1 1557873530
+-
+tor45.quintex.com
+0 3 1 34061 1 1558184170
+-
+vps70160.public.cloudvps.com
+0 1 0 19813 1 1556925170
+-
+154.77.19.108
+0 2 1 6025 1 1557198016
+/login
+exit05.brasshorncomms.uk
+0 2 1 5615 1 1557444064
+/login
+node-12xh.pool-182-53.dynamic.totbroadband.com
+0 2 0 20697 1 1557319872
+-
+181-125-15-51.rev.cloud.scaleway.com
+0 8 4 84249 4 1557972753
+-
+ec2-52-201-235-168.compute-1.amazonaws.com
+0 4 3 4911 1 1556905573
+/login
+msnbot-207-46-13-128.search.msn.com
+0 2 0 696 2 1557609577
+/
+ip-54-36-148-203.a.ahrefs.com
+0 1 1 24 0 0
+-
+msnbot-157-55-39-126.search.msn.com
+0 10 9 196757 1 1556985398
+/_debugbar/assets/stylesheets
+tor35.quintex.com
+0 3 1 34210 1 1557262231
+-
+tor-exit.adr3nalin3.net
+0 2 1 5975 1 1557316967
+/login
+197.237.131.130.wananchi.com
+0 34 33 493053 1 1556905657
+/_debugbar/assets/javascript
+tor-exit-anonymizer-09.appliedprivacy.net
+0 5 1 90388 3 1557972823
+-
+178-175-143-163.static.as43289.net
+0 6 2 67878 2 1557474401
+-
+tor3e1.digitale-gesellschaft.ch
+0 15 5 131322 3 1557580289
+-
+timapple.darkweb.love
+0 2 1 5976 1 1557799382
+/login
+185.112.254.195
+0 5 2 40007 2 1557264639
+-
+billsf.tor-exit.calyxinstitute.org
+0 7 2 96326 3 1557957355
+-
+155.254.115.67
+0 1 1 16145 1 1557312166
+/login
+206.ip-167-114-228.eu
+0 3 1 5251 1 1556878626
+/login
+crawl18.bl.semrush.com
+0 1 1 4612 1 1558247808
+/login
+tor-exit-anonymizer-04.appliedprivacy.net
+0 6 2 68303 2 1557975818
+-
+kmv2.uaservers.net
+0 3 1 34188 1 1557033592
+-
+240-228-194-104-dedicated.multacom.com
+0 6 2 68427 2 1557883863
+-
+37.ip-145-239-91.eu
+0 2 1 6376 1 1558158951
+/login
+49-50-118-57.noida.datacenter.terapeer.com
+0 1 0 19806 0 0
+-
+204.238.202.149.fr-sbg.flexcloud.seflow.it
+0 9 3 102683 4 1558253812
+-
+139.28.36.234.saaki.net
+0 2 1 5967 1 1557853945
+/login
+197-248-90-226.safaricombusiness.co.ke
+0 42 40 531319 1 1558088747
+/login
+msnbot-157-55-39-218.search.msn.com
+0 10 9 196701 1 1556807340
+/_debugbar/assets/stylesheets
+118.131.203.133
+0 1224 1206 20051868 26 1558264431
+/login
+64.113.120.77.colo.static.dcvolia.com
+0 5 2 40022 2 1557892764
+/login
+ns3289421.ip-5-135-183.eu
+0 2 1 14995 1 1557227615
+/login
+ip-54-36-148-248.a.ahrefs.com
+0 1 1 4557 1 1558145268
+/login
+vds-244035.hosted-by-itldc.com
+0 3 1 34184 1 1556941957
+-
+crawl-66-249-66-85.googlebot.com
+0 70 34 417634 32 1558178929
+/login
+173.252.95.36
+0 1 0 229 1 1557476730
+/
+89.238.165.10
+0 5 1 28249 1 1557084021
+-
+185.220.101.7
+0 3 1 34076 1 1557847250
+-
+253-233-15-51.rev.cloud.scaleway.com
+0 2 1 5974 1 1557189469
+/login
+unassigned.calpop.com
+0 3 1 34152 1 1557532826
+-
+100-36-15-51.rev.cloud.scaleway.com
+0 3 1 34017 1 1557220766
+-
+211-23-149-28.hinet-ip.hinet.net
+0 2 0 20837 1 1557741602
+-
+209.17.96.18
+0 1 0 348 1 1556953597
+/
+218.ip-51-77-193.eu
+0 2 1 5986 1 1557297047
+/login
+212.92.124.91
+0 1 0 348 1 1557312101
+/
+jpn-exit.privateinternetaccess.com
+0 3 1 34087 1 1556742793
+-
+ip-47-84-52-196.southampton.uk.amsterdamresidential.com
+0 1 1 16115 1 1557312165
+/login
+185.220.101.22
+0 3 1 34167 1 1556699893
+-
+176.10.99.200
+0 26 9 278625 10 1557968314
+-
+158.46.216.26
+0 2 1 4976 1 1557974941
+/login
+royal-hr.us
+0 6 2 68381 2 1557967040
+-
+politkovskaja.torservers.net
+0 1 0 28193 1 1557197766
+-
+tor-proxy-01.saintaardvarkthecarpeted.com
+0 3 1 34063 1 1557935009
+-
+185.234.217.9
+0 2 0 39706 0 0
+-
+marylou.nos-oignons.net
+0 7 2 68711 3 1558005481
+/
+94.140.116.190
+0 6 2 68416 2 1556770839
+-
+185.220.101.67
+0 5 2 39600 2 1557492712
+-
+tor-exit-anonymizer-08.appliedprivacy.net
+0 13 4 164586 5 1558209801
+-
+crawl-66-249-76-146.googlebot.com
+0 5 2 12399 4 1556839302
+/
+s209-121-97-81.bc.hsia.telus.net
+0 38 37 512892 1 1557322054
+/_debugbar/assets/javascript
+mario-louis-sylvester-lap.tor-exit.calyxinstitute.org
+0 3 1 33996 1 1557858804
+-
+no-hostname.azar-a.net
+0 1 0 28112 1 1556741775
+-
+185.220.101.69
+0 8 3 73849 3 1558162388
+/login
+185.220.101.3
+0 14 5 143012 5 1558158947
+/login
+tor-exit-node.scalaire.com
+0 8 3 68190 3 1557983328
+-
+223.ip-144-217-165.net
+0 3 1 34189 1 1557862296
+-
+muellerreport.darkweb.love
+0 6 2 68262 2 1557891349
+-
+ec2-52-59-102-42.eu-central-1.compute.amazonaws.com
+0 2 1 5881 1 1557312109
+/login
+tor-exit-anonymizer-01.appliedprivacy.net
+0 8 3 68208 4 1557771996
+-
+h-158-174-122-199.na.cust.bahnhof.se
+0 3 1 34053 1 1556976870
+-
+114.249.242.235
+0 2 0 19908 1 1557438803
+-
+tor4thepeople2.torexitnode.net
+0 3 1 34081 1 1557959010
+-
+ip7.ip-51-77-2.eu
+0 1 0 19755 0 0
+-
+msnbot-207-46-13-205.search.msn.com
+0 1 0 285 1 1557087576
+-
+tor12.quintex.com
+0 6 2 68339 2 1557753387
+-
+cm-84.209.51.186.getinternet.no
+0 3 1 34067 1 1556836941
+-
+tor40.quintex.com
+0 2 1 5584 1 1557464961
+/login
+perry.fellwock.tor-exit.calyxinstitute.org
+0 6 2 68437 2 1557699301
+-
+178-175-143-164.static.as43289.net
+0 9 3 102433 3 1557948541
+-
+62-210-37-82.rev.poneytelecom.eu
+0 6 2 67855 2 1557947719
+-
+guestnat-104-132-20-109.corp.google.com
+0 34 33 492999 1 1557120137
+/_debugbar/assets/javascript
+tor00.telenet.unc.edu
+0 3 1 34163 1 1556799198
+-
+tor14.quintex.com
+0 3 1 34052 1 1557924996
+-
+ns3079521.ip-147-135-130.eu
+0 1 0 20537 0 0
+-
+angband.teaparty.net
+0 6 2 68301 2 1557054274
+-
+this-is-a-tor-exit-node-hviv118.hviv.nl
+0 9 3 102513 3 1558013963
+-
+80.82.67.116
+0 2 0 41696 0 0
+-
+185.165.169.165
+0 6 2 68152 2 1558225170
+-
+slc-exit.privateinternetaccess.com
+0 3 1 34223 1 1557795700
+-
+msnbot-207-46-13-189.search.msn.com
+0 8 8 191748 1 1558113279
+/_debugbar/assets/stylesheets
+ec2-52-43-153-197.us-west-2.compute.amazonaws.com
+0 1 0 348 1 1557484729
+/
+tor11.quintex.com
+0 8 3 74064 3 1557767367
+-
+69.12.72.170.static.quadranet.com
+0 1 0 19762 0 0
+-
+ny1.exit.tor.alkyl.eu.org
+0 9 3 102527 3 1557948903
+-
+msnbot-40-77-167-119.search.msn.com
+0 1 0 348 1 1558269725
+/
+209.17.96.242.cloudsystemnetworks.com
+0 1 0 368 1 1557923896
+/
+5.188.216.106
+0 1 1 4730 1 1558141792
+/login
+ns.tor-node.felix.io
+0 3 1 34210 1 1556812456
+-
+rate-limited-proxy-66-249-92-149.google.com
+0 31 29 512185 5 1557246663
+/login
+185.220.101.44
+0 3 1 34207 1 1557301270
+-
+ip-54-36-148-75.a.ahrefs.com
+0 1 0 348 1 1558149607
+/
+ns507573.ip-198-100-148.net
+0 1 0 19765 0 0
+-
+outbound1.letsencrypt.org
+0 90 0 1223702 0 0
+-
+ns500498.ip-192-99-0.net
+0 7 1 107525 1 1557087125
+/login
+msnbot-207-46-13-209.search.msn.com
+0 6 6 23236 0 0
+-
+tor-exit2.nodevar.com
+0 5 1 62788 3 1557954701
+/
+msnbot-40-77-167-131.search.msn.com
+0 2 0 696 2 1558218099
+/
+65.155.30.101
+0 33 32 493047 1 1557315866
+/_debugbar/assets/javascript
+msnbot-207-46-13-193.search.msn.com
+0 6 6 23236 0 0
+-
+eu7.aseoserver.com
+0 3 2 15253 1 1558070919
+/login
+cablelink-187-160-248-250.pcs.intercable.net
+0 2 0 20936 1 1556741811
+-
+68.ip-144-217-90.net
+0 3 1 34200 1 1557936897
+-
+220-135-203-167.hinet-ip.hinet.net
+0 10 4 70475 1 1557798782
+-
+tor-exit1.netnik.xyz
+0 3 1 34194 1 1557769470
+-
+185.220.101.34
+0 3 1 34181 1 1558268945
+-
+de-torexit01.florian2833z.de
+0 6 2 67834 2 1557461572
+-
+66.ip-54-37-234.eu
+0 5 2 34082 2 1557934073
+-
+msnbot-157-55-39-135.search.msn.com
+0 1 1 4649 1 1557187093
+/login
+msnbot-157-55-39-228.search.msn.com
+0 7 7 36973 0 0
+-
+176.126.83.211
+0 3 1 34240 1 1556716636
+-
+exit06.brasshorncomms.uk
+0 3 1 34065 1 1557965158
+-
+tor-exit3-readme.dfri.se
+0 9 3 102484 2 1557982881
+-
+82.221.131.71
+0 6 2 68400 2 1557987062
+-
+ori.enn.lu
+0 3 1 34237 1 1556880770
+-
+195.254.134.242
+0 6 2 68218 2 1557990795
+-
+197-248-211-134.safaricombusiness.co.ke
+0 35 33 493213 1 1557745148
+/_debugbar/assets/javascript
+95-24-201-54.broadband.corbina.ru
+0 32 31 491079 1 1558153612
+/_debugbar/assets/javascript
+154.79.189.135
+0 33 33 491753 1 1557489564
+/_debugbar/assets/javascript
+172.83.40.101
+0 3 0 60678 1 1558225144
+-
+209.17.97.106
+0 1 0 348 1 1557310312
+/
+217.170.202.120
+0 1 0 348 1 1557312101
+/
+tor-exit-relay.ddnsfree.com
+0 3 1 34190 1 1558001968
+-
+this-is-a-tor-exit-node-hviv126.hviv.nl
+0 3 1 34034 1 1557870069
+-
+baiduspider-220-181-108-117.crawl.baidu.com
+0 1 1 0 0 0
+-
+104.227.246.106
+0 5 2 31072 1 1557501910
+/login
+185.220.101.46
+0 8 3 74325 3 1557728964
+/login
+zrh-exit.privateinternetaccess.com
+0 11 5 80379 5 1558158949
+/login
+tor-exit-node.cf
+0 1 0 28105 1 1557562564
+-
+23.129.64.175
+0 3 1 34092 1 1556770305
+-
+87-250-224-88.spider.yandex.com
+0 40 17 34553 14 1558219445
+/
+178-17-170-135.static.as43289.net
+0 3 1 33773 1 1557523381
+-
+anon-2.multisec.no
+0 3 1 34196 1 1556680816
+-
+67-106-15-51.rev.cloud.scaleway.com
+0 3 1 34186 1 1557926016
+-
+msnbot-157-55-39-214.search.msn.com
+0 1 0 20384 1 1557808333
+-
+tor3e3.digitale-gesellschaft.ch
+0 3 1 34186 1 1557854451
+-
+msnbot-207-46-13-29.search.msn.com
+0 9 9 172731 1 1558003372
+/_debugbar/assets/javascript
+tor30.quintex.com
+0 3 1 33763 1 1557431815
+-
+185.220.101.25
+0 3 1 34240 1 1557448055
+-
+ip-54-36-148-157.a.ahrefs.com
+0 1 1 24 0 0
+-
+chaucer.relay.coldhak.com
+0 3 1 34036 1 1557964178
+-
+tor41.quintex.com
+0 5 2 40203 2 1557927081
+/login
+32.ip-158-69-193.net
+0 6 2 68176 2 1557881544
+-
+193.56.29.101
+0 3 1 34136 1 1557922329
+-
+msnbot-40-77-252-190.search.msn.com
+0 1 1 122092 0 0
+-
+185.220.102.8
+0 7 2 96409 3 1558163725
+-
+bfb1ba91.virtua.com.br
+0 34 33 493080 1 1557700379
+/_debugbar/assets/javascript
+45.252.248.174
+0 1 0 19783 0 0
+-
+ip-54-36-149-94.a.ahrefs.com
+0 2 1 263 0 0
+-
+vm.theinnovationmachine.com
+0 7 1 114412 1 1558223924
+-
+103-86-51-247.static.bangmod-idc.com
+0 2 0 590 1 1557613461
+/
+83-53-15-51.rev.cloud.scaleway.com
+0 2 1 5966 1 1557867536
+/login
+msnbot-157-55-39-39.search.msn.com
+0 1 1 24 0 0
+-
+194.186.142.164
+0 2 1 21561 1 1557831025
+/login
+141-8-142-44.spider.yandex.com
+0 32 21 13125 11 1557998443
+/
+tor-exit1-readme.dfri.se
+0 3 1 34058 1 1557931637
+-
+185.220.102.6
+0 9 3 102137 4 1558165824
+-
+prawksi.relay.coldhak.com
+0 3 1 34213 1 1557927114
+-
+fulltextrobot-77-75-76-164.seznam.cz
+0 1 1 24 0 0
+-
+212.180.208.122
+0 2 1 5048 1 1558184065
+/login
+nyc-exit.privateinternetaccess.com
+0 14 5 142545 5 1557883800
+-
+tor-exit.systemli.org
+0 8 3 74294 3 1557734717
+-
+144.168.162.250
+0 2 1 15636 1 1558160957
+/login
+ns3130724.ip-51-75-145.eu
+0 3 1 34224 1 1556911920
+-
+crawl-66-249-76-144.googlebot.com
+0 10 5 75592 4 1556812830
+/login
+tor.smart-weblications.de
+0 3 1 34192 1 1557281986
+-
+acidburn.darkweb.love
+0 6 2 68240 2 1557971435
+-
+guestnat-104-132-20-104.corp.google.com
+0 34 33 492621 1 1557455309
+/_debugbar/assets/javascript
+212.32.245.142
+0 1 0 19857 0 0
+-
+185.220.101.28
+0 6 2 68296 2 1557235066
+-
+ip-54-36-148-121.a.ahrefs.com
+0 1 1 24 0 0
+-
+tor-exit.dhalgren.org
+0 6 2 68282 2 1557968157
+-
+msnbot-40-77-167-132.search.msn.com
+0 10 9 173079 2 1558113273
+/_debugbar/assets/javascript
+exit03.brasshorncomms.uk
+0 2 1 5916 1 1557187816
+/login
+234-95-15-51.rev.cloud.scaleway.com
+0 3 1 34042 1 1556722212
+-
+this-is-a-tor.exit.com
+0 3 1 34152 1 1557951152
+-
+14.55.235.240
+0 2 1 5798 1 1557029910
+/login
+cache.google.com
+0 134 131 1983297 2 1557095397
+/_debugbar/assets/javascript
+tor-exit.eecs.umich.edu
+0 3 1 34165 1 1557960702
+-
+ip-54-36-148-214.a.ahrefs.com
+0 1 0 19739 1 1556793859
+-
+ip-54-36-148-50.a.ahrefs.com
+0 1 0 229 1 1556976678
+/
+47.75.223.130
+0 1 0 20183 0 0
+-
+162.244.80.228
+0 3 1 34196 1 1557851129
+-
+38.142.140.124
+0 34 33 492663 1 1557422856
+/_debugbar/assets/javascript
+ip-54-36-148-52.a.ahrefs.com
+0 1 0 229 1 1557479500
+/
+google-proxy-66-249-88-33.google.com
+0 16 15 311956 2 1558009004
+/
+tor01.zencurity.dk
+0 3 1 34080 1 1557940249
+-
+msnbot-207-46-13-216.search.msn.com
+0 1 0 348 1 1557564360
+/
+msnbot-40-77-192-174.search.msn.com
+0 1 1 122092 0 0
+-
+host-198-167-223-100.resolv.to
+0 3 1 34183 1 1556739796
+-
+tor5e3.digitale-gesellschaft.ch
+0 13 5 103276 3 1557972822
+/login
+ip-54-36-148-113.a.ahrefs.com
+0 1 1 24 0 0
+-
+msnbot-207-46-13-36.search.msn.com
+0 7 7 36973 0 0
+-
+183.158.1.27
+0 2 0 19901 1 1558261344
+-
+241.ip-137-74-169.eu
+0 3 1 34182 1 1556681723
+-
+host-198-167-223-133.resolv.to
+0 3 1 34055 1 1556761465
+-
+tor-exit-anonymizer-03.appliedprivacy.net
+0 9 3 102369 3 1557957432
+-
+tor-exit-1.telnor.org
+0 3 1 34136 1 1557273805
+-
+207.244.70.35
+0 6 2 68212 2 1557898891
+-
+msnbot-157-55-39-128.search.msn.com
+0 1 0 20366 1 1558095746
+-
+tor33.quintex.com
+0 2 0 56257 1 1557893498
+-
+luna-tor.dredel.com
+0 3 1 33676 1 1557478555
+-
+216.244.66.199
+0 6 3 40083 3 1557033007
+-
+msnbot-207-46-13-74.search.msn.com
+0 1 0 348 1 1556698702
+/
+msnbot-207-46-13-114.search.msn.com
+0 1 0 348 1 1557660799
+/
+tor-exit-node-tpc2
+0 3 1 34043 1 1557172068
+-
+baiduspider-220-181-108-147.crawl.baidu.com
+0 1 1 0 0 0
+-
+exit02.brasshorncomms.uk
+0 3 1 34187 1 1557851374
+-
+mail.keyerleber.com
+0 2 1 5064 1 1556887005
+/login
+243.218.57.37.triolan.net
+0 5 3 15709 1 1558245033
+/login
+msnbot-207-46-13-148.search.msn.com
+0 1 0 348 1 1558126073
+/
+122.49.28.44
+0 68 64 986387 1 1557858619
+/_debugbar/assets/javascript
+tor1e1.digitale-gesellschaft.ch
+0 11 4 108244 4 1557939976
+-
+ec2-52-25-130-207.us-west-2.compute.amazonaws.com
+0 2 1 5843 1 1557053007
+/login
+tor-relay-3.mnpnk.com
+0 6 2 67939 2 1557465789
+-
+ns3123330.ip-51-68-152.eu
+0 2 1 16354 1 1557461476
+/login
+exit4.tor-network.net
+0 12 5 85882 5 1557992121
+-
+chomsky.torservers.net
+0 10 3 130256 5 1557834963
+-
+149.202.170.60
+0 3 1 34184 1 1556974130
+-
+wont.needaservername.com
+0 3 1 34166 1 1557848506
+-
+crawl-66-249-66-211.googlebot.com
+0 1 0 229 1 1558171477
+/
+ec2-52-37-126-174.us-west-2.compute.amazonaws.com
+0 1 0 348 1 1557827014
+/
+baiduspider-123-125-71-41.crawl.baidu.com
+0 1 1 0 0 0
+-
+185.220.102.4
+0 12 4 130116 5 1557435959
+-
+vh113.hosterby.com
+0 1 0 19762 0 0
+-
+static.112.236.76.144.clients.your-server.de
+0 16 8 62686 2 1557640449
+/login
+mail.ess.barracuda.com
+0 3 1 22059 1 1557745085
+/login
+ns527992.ip-198-245-62.net
+0 1 0 19767 0 0
+-
+baiduspider-220-181-108-88.crawl.baidu.com
+0 1 1 0 0 0
+-
+ip-54-36-148-231.a.ahrefs.com
+0 1 0 229 1 1558229522
+/
+119.28.31.29
+0 12 9 121573 2 1557657842
+-
+ipv4-64-246-165-10.greenhousedata.net
+0 4 1 6487 1 1558048769
+/login
+199.249.230.105
+0 3 1 33797 1 1557499174
+-
+ip-54-36-148-161.a.ahrefs.com
+0 1 1 24 0 0
+-
+nondeterministic.darkweb.love
+0 3 1 34222 1 1557065977
+-
+tor-exit-anonymizer-07.appliedprivacy.net
+0 13 4 164648 5 1558002814
+-
+209.17.96.194.cloudsystemnetworks.com
+0 1 0 229 1 1558093994
+/
+163-172-221-204.rev.poneytelecom.eu
+0 3 1 33778 1 1557464738
+-
+msnbot-40-77-167-77.search.msn.com
+0 1 0 348 1 1556952440
+/
+74.217.90.250
+0 102 99 1517666 1 1557317369
+/_debugbar/assets/javascript
+algrothendieck.nos-oignons.net
+0 3 1 34156 1 1557229387
+-
+tor-exit-readme.torturing.de
+0 5 2 40083 2 1557230651
+-
+tor4e1.digitale-gesellschaft.ch
+0 1 0 28191 1 1557918136
+-
+ec2-54-202-159-220.us-west-2.compute.amazonaws.com
+0 1 0 19883 0 0
+-
+23.129.64.102
+0 12 4 136034 4 1557977543
+-
+178.175.132.230
+0 3 1 34153 1 1556966114
+-
+5-252-176-20.mivocloud.com
+0 3 1 34181 1 1557985423
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+185.220.101.0
+0 4 1 62378 2 1558253632
+-
+185.220.101.68
+0 3 1 34214 1 1558237601
+-
+tor-exit-node.heteigenwijsje.nl
+0 2 1 6011 1 1558226475
+/login
+178.175.132.227
+0 3 1 34140 1 1558246294
+-
+crawl9.bl.semrush.com
+0 1 0 348 1 1558247807
+/
+163-172-11-200.rev.poneytelecom.eu
+0 2 1 5940 1 1558263312
+/login
+msnbot-157-55-39-20.search.msn.com
+0 1 1 24 0 0
+-
+msnbot-207-46-13-117.search.msn.com
+0 1 0 20364 1 1558228007
+-
+ip-54-36-148-13.a.ahrefs.com
+0 1 1 24 0 0
+-
+ip-54-36-148-213.a.ahrefs.com
+0 1 1 24 0 0
+-
+157.157.87.22
+0 3 1 34052 1 1558243045
+-
+tor-exit-anonymizer-10.appliedprivacy.net
+0 3 1 34042 1 1558225526
+-
+89.144.12.17
+0 3 1 34209 1 1558232480
+-
+crawl11.bl.semrush.com
+0 1 1 24 0 0
+-
+2000me.dd-dns.de
+0 3 1 34148 1 1558228217
+-
+ip-54-36-148-175.a.ahrefs.com
+0 1 0 368 1 1558263569
+/
+178-175-143-165.static.as43289.net
+0 3 1 34161 1 1558241824
+-
+ip-54-36-148-79.a.ahrefs.com
+0 2 1 263 0 0
+-
+185.220.102.7
+0 3 1 34140 1 1558270276
+-
+62.102.148.68
+0 3 1 34169 1 1558275075
+-
+185.220.101.20
+0 1 0 28104 1 1558263314
+-
+185.231.245.14
+0 1 0 19763 0 0
+-
+crawl18.bl.semrush.com
+0 1 1 4612 1 1558247808
+/login
+204.238.202.149.fr-sbg.flexcloud.seflow.it
+0 3 1 34065 1 1558253812
+-
+118.131.203.133
+0 2 1 21935 1 1558264431
+/login
+185.165.169.165
+0 3 1 34077 1 1558225170
+-
+msnbot-40-77-167-119.search.msn.com
+0 1 0 348 1 1558269725
+/
+185.220.101.34
+0 3 1 34181 1 1558268945
+-
+172.83.40.101
+0 3 0 60678 1 1558225144
+-
+183.158.1.27
+0 2 0 19901 1 1558261344
+-
+243.218.57.37.triolan.net
+0 5 3 15709 1 1558245033
+/login
+ip-54-36-148-231.a.ahrefs.com
+0 1 0 229 1 1558229522
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://cloudwage.com/login
+0 1772
+http://cloudwage.com/payroll/0
+0 12
+http://cloudwage.com/employees/23
+0 2
+http://cloudwage.com/admin/layout4/css/themes/default.css
+0 2
+http://www.cloudwage.com/.well-known/acme-challenge/9tO2EhfX4yZLX906cBNRCnEGAOLWcsju7k7cVbnIDgw
+0 1
+http://cloudwage.com/advances/01-2019
+0 2
+http://www.cloudwage.com/.well-known/acme-challenge/Fd5PdtvdAqDbVOpwLS7zS5g1M_gDIC-1vwA17KzQ0CY
+0 1
+http://www.cloudwage.com/.well-known/acme-challenge/vOYopaEsJRBE61YqBXa_WBQB0hd3H_w7Q9EQfXKEeuQ
+0 1
+http://pizza-imperia.com/
+0 6
+https://www.wizag.biz/works/payroll-management-solution/
+0 2
+http://www.cloudwage.com/.well-known/acme-challenge/g7LpTBtjtQXQXwyZjw3VSgOqEiVAQb0glf01DmhK5Tg
+0 1
+http://www.cloudwage.com/.well-known/acme-challenge/7eBuvRUsn88M81JRNx0w80zRnsZm7E21LgiYwseYbhA
+0 1
+http://www.cloudwage.com
+0 1
+http://cloudwage.com/plugins/simple-line-icons/simple-line-icons.min.css
+0 3
+http://cloudwage.com/grades
+0 1
+http://cloudwage.com/allowances/1/edit
+0 4
+http://www.cloudwage.com/.well-known/acme-challenge/vJ25yZpgXUjeAGTvJJyYAKtqRGBUiVFUd1FjWMfbmyI
+0 1
+http://pizza-tycoon.com/
+0 6
+http://198.37.112.5:85/
+0 18
+http://www.cloudwage.com/.well-known/acme-challenge/7uYzVLc4sqlUa-R6AMa5l5B6-rBK0t-hCdEreIMPVsA
+0 1
+http://www.cloudwage.com/.well-known/acme-challenge/WygXAL6a8EoSd701RizVF4jQYzNQWxwdFa5CyIfngXg
+0 1
+http://www.cloudwage.com/.well-known/acme-challenge/BIfORsYWkwX-dIlzGgPp_dl0XJ1kNUTjorQqXLLEzaY
+0 1
+https://www.wizag.biz/services/payroll-software/
+0 2
+http://cloudwage.com/employees/create
+0 5
+http://www.cloudwage.com/.well-known/acme-challenge/w0tsC39FTte74qywllc-Cm9y5BO7SDGbpT_irYTUi3E
+0 1
+http://www.cloudwage.com/.well-known/acme-challenge/_WDUSyCioeqUwRywVDiA1G6n_z3OUjgeUxuOlPpmF0k
+0 1
+http://cloudwage.com/users/2/edit
+0 2
+http://cloudwage.com/payroll/create
+0 11
+http://cloudwage.com/allowances
+0 6
+http://romancebydamicotravel.net/wp-login.php
+0 2
+http://cloudwage.com/payroll/325
+0 3
+http://cloudwage.com/loans/create
+0 1
+http://cloudwage.com/employees/23/edit
+0 1
+http://www.cloudwage.com/.well-known/acme-challenge/erPzK9SiwVlXXQanCw7H1CHgzsuq7ytadbsWiQ8izYo
+0 1
+http://cloudwage.com/contracts
+0 1
+http://cloudwage.com/payroll-report
+0 3
+http://www.cloudwage.com/.well-known/acme-challenge/ZrS2lMR1l2CthBBW9cYYmMm5j1Y2UrC5vtmRDrZMTTM
+0 1
+https://yandex.ru/clck/jsredir
+0 2
+http://cloudwage.com/payroll/326
+0 3
+http://cloudwage.com/advances
+0 4
+http://www.cloudwage.com/.well-known/acme-challenge/3lkK2bN8Fz3BUiwPKJzNFyM1THRmAD17hWrrG_H_DHg
+0 1
+http://cloudwage.com/policies
+0 2
+http://cloudwage.com/work-plans
+0 1
+http://www.cloudwage.com/.well-known/acme-challenge/oEwzXo0mhhbg44_62a5l8imv4VMcCK3gDycFYiE5940
+0 1
+http://cloudwage.com/payroll/324
+0 2
+https://www.google.com/
+0 10
+- (Direct Request)
+0 3740
+http://www.cloudwage.com/.well-known/acme-challenge/Uc_5HIDsTe0MN4e7hucKSZuFOSs-6RtU0qR97uJTBFo
+0 1
+http://cloudwage.com/allowances/create
+0 1
+http://cloudwage.com/eft
+0 1
+http://www.cloudwage.com/.well-known/acme-challenge/xw57xdMrFJlshponXB8FLlaC-j4OIafKtQbfWyP1GlU
+0 1
+http://cloudwage.com/departments
+0 3
+http://cloudwage.com/shifts
+0 1
+http://cloudwage.com/css/plugins.css
+0 3
+http://www.cloudwage.com/.well-known/acme-challenge/CpRCHnsi1j1I3I7figYp9zaMAz-qEq9N2jPAf653gCQ
+0 1
+http://www.cloudwage.com/.well-known/acme-challenge/3xAv8xC672tmY26r0Zz7jPRl6vRANC0B6KwkuEGLT6g
+0 1
+http://cloudwage.com/deductions
+0 1
+http://cloudwage.com/employee-allowances/37/edit
+0 4
+http://cloudwage.com/employee-allowances/create
+0 2
+http://www.cloudwage.com/.well-known/acme-challenge/s7C4tEg2bZZQnO0p42R1rJ4FtBbPZwXcGNKS0sHVgCE
+0 1
+http://www.ads.google.com/
+0 6
+http://www.bing.com
+0 1
+http://www.cloudwage.com/.well-known/acme-challenge/WWs7eRLeZ_H0f0XXSai7Fuijiq1HxX_5yR6NLYuFzqA
+0 1
+http://cloudwage.com/css/components-rounded.css
+0 35
+http://www.cloudwage.com/
+0 10
+http://cloudwage.com/
+0 624
+http://www.cloudwage.com/.well-known/acme-challenge/1uuGs_wpiE4-RyfM0et6fH7OMbMOdw-UJC8aNWuhcFI
+0 1
+https://wizag.biz:2096/cpsess8792385585/horde/imp/dynamic.php
+0 3
+http://cloudwage.com/employee-types
+0 1
+http://iaee2015.org/admin/modules
+0 2
+http://cloudwage.com/loans
+0 2
+http://cloudwage.com/payment-structures
+0 1
+http://rossmyoung.com/blog/wp-login.php
+0 2
+http://10.220.1.2:8085/redirect.php
+0 2
+http://cloudwage.com/plugins/uniform/css/uniform.default.css
+0 2
+http://cloudwage.com/users
+0 1
+https://www.cloudwage.com/
+0 1
+http://cloudwage.com/plugins/datatables/plugins/bootstrap/dataTables.bootstrap.css
+0 4
+http://www.cloudwage.com/.well-known/acme-challenge/eGW8Q0qYpwlrVZe9kx5u_WMhtWjFIFxhD00JD5HQJfM
+0 1
+http://www.cloudwage.com/.well-known/acme-challenge/LcjedsXOO39ru_jCnoZw-8PAsvFuhrYu0_K4HI-To88
+0 1
+http://burger-imperia.com/
+0 6
+http://cloudwage.com/payment-methods
+0 6
+http://cloudwage.com/payroll
+0 15
+http://studentsoftwinvalley.com
+0 8
+http://cloudwage.com/allowances/1
+0 9
+https://www.google.com/url
+0 4
+http://cloudwage.com/payroll-generate
+0 4
+http://cloudwage.com/assignments
+0 1
+http://cloudwage.com/payment-methods/2
+0 1
+http://www.cloudwage.com/.well-known/acme-challenge/w8YeYyrwFqHwtlPAoz0v6Wt_yNRePqFNW8Vdm9LpkLs
+0 1
+http://cloudwage.com/advances/create
+0 4
+http://cloudwage.com/plugins/select2/select2.css
+0 2
+http://cloudwage.com/tax
+0 14
+http://cloudwage.com/plugins/font-awesome/css/font-awesome.min.css
+0 43
+http://www.cloudwage.com/.well-known/acme-challenge/DKJrm2c_nhywx5wV31fhNZQ16ZwVrfAKVsh7aJQkVZ4
+0 1
+http://www.cloudwage.com/.well-known/acme-challenge/Gae3qUTGImspBJLcWpcM9wn9Z56ILa4T5VGndsE9QBE
+0 1
+http://www.cloudwage.com/.well-known/acme-challenge/Fnx8-2BFbTCE5b3Di7Y7ryGbmh1xm53cEvhUEuMQMAk
+0 1
+http://hundejo.com/
+0 12
+http://cloudwage.com/profile
+0 3
+http://cloudwage.com/employees
+0 11
+http://cloudwage.com
+0 5
+http://www.cloudwage.com/.well-known/acme-challenge/D5aUmisy8xN3apnrHM73jZAD-px752kQyoELBxLKDsw
+0 1
+http://cloudwage.com/print-payslips
+0 2
+http://cloudwage.com/payroll/323
+0 2
+http://cloudwage.com/payroll/322
+0 2
+http://www.google.com.hk
+0 2
+https://transport.wizag.biz:2087/
+0 2
+http://www.cloudwage.com/.well-known/acme-challenge/-1qxrdNkGzSIAJS9aQPXi2RH1N3ACBH-eQ5_AxJ4j_M
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0
+0 7
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+0 9
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 9
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0
+0 6
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.99
+0 6
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+0 22
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+0 15
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+0 9
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+0 45
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+0 45
+Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.143
+0 31
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15
+0 18
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+0 6
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0; MAAU; MAAU)
+0 32
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/602.4.8 (KHTML, like Gecko) Version/10.0.3 Safari/602.4.8
+0 6
+Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/603.2.4 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.4
+0 9
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+0 143
+Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)
+0 6
+Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.1058
+0 6
+DomainCrawler/3.0 (info@domaincrawler.com; http://www.domaincrawler.com/cloudwage.com)
+0 3
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+0 6
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+0 24
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.105
+0 3
+Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Thunderbird/45.3.0
+0 15
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+0 18
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36 OPR/60.0.
+0 38
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 5
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 12
+Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9) Gecko/2008052906 Firefox/3.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+0 6
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+0 12
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+0 7
+Mozilla/5.0 (Linux; U; Android 2.0; en-us; Droid Build/ESD20) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safar
+0 34
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; fr; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36 OPR/42.0.2393.94
+0 12
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0
+0 12
+Mozilla/4.0 (compatible; MSIE 6.0;Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 2
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 90
+Mozilla/5.0 (Unknown; Linux) AppleWebKit/538.1 (KHTML, like Gecko) Chrome/v1.0.0 Safari/538.1
+0 3
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 7
+Mozilla/5.0 (compatible; Dataprovider.com)
+0 40
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.1
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/601.5.17 (KHTML, like Gecko)
+0 9
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15
+0 6
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152
+0 210
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+0 18
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+0 12
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.63 Safari/537.36
+0 9
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+0 8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.2 Safari/603.3.8
+0 12
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1 Safari/605.1.15
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+0 3
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.143
+0 21
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 14
+CheckMarkNetwork/1.0 (+http://www.checkmarknetwork.com/spider.html)
+0 48
+Opera/9.10 (Windows NT 5.1; U; en)
+0 4
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+0 12
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
+0 15
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 9
+Google-Ads-Overview Mozilla/5.0 (Linux; U; Android 2.3.4; generic) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.11
+0 87
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_27_74) AppleWebKit/531.78.25 (KHTML, like Gecko) Chrome/55.1.6673.1301 Safari/532.0
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+0 13
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 
+0 1
+Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)
+0 25
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 113
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36
+0 35
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+0 4
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 174
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.104 Safari/537.36
+0 15
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0
+0 9
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36
+0 69
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 15
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+0 9
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36
+0 12
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.2 Safari/603.3.8
+0 18
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.2
+0 1
+Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+0 6
+Mozilla/5.0 (Windows; U; Windows NT 2.0) Gecko/20091201 Firefox/3.5.6 GTB5
+0 11
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+0 21
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:59.0) Gecko/20100101 Firefox/59.0
+0 9
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0
+0 9
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+0 15
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; IPMS/A640400A-14D460801A1-000000426571; TCO_20110131100426; S
+0 558
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/68.0.3440.106 Safari/537.36
+0 1
+Go-http-client/1.1
+0 5
+Mozilla/5.0 (X11; CrOS x86_64 11895.95.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.125 Safari/537.36
+0 68
+Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+0 21
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36 OPR/42.0.2393.9
+0 6
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+0 18
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36
+0 4
+Mozilla/5.0 (compatible; SemrushBot/3~bl; +http://www.semrush.com/bot.html)
+0 7
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+0 5
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .
+0 31
+Googlebot-Image/1.0
+0 27
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2)
+0 10
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36 OPR/47.0.2
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36 OPR/58.0.3
+0 34
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36
+0 15
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+0 6
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+0 35
+Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.1058
+0 3
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 20
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.65 Safari/537.36
+0 12
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safa
+0 147
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko)
+0 12
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .N
+0 210
+Mozilla/5.0 (X11; Linux x86_64; rv:55.0) Gecko/20100101 Firefox/55.0
+0 6
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+0 15
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+0 21
+Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15
+0 15
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 8
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0
+0 15
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 9
+Mozilla/5.0 (Linux; Android 8.1.0; TECNO KA7 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/73.0
+0 36
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36 OPR/54.0.2952.60
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.9
+0 13
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+0 12
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 3
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+0 18
+Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15
+0 12
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+0 10
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+0 12
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/601.5.17 (KHTML, like Gecko) Version/9.1 Safari/601.5.17
+0 9
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 21
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.1058
+0 13
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36
+0 21
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+0 9
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+0 15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 4
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_0 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8A
+0 34
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.3
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+0 12
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10
+0 8
+Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 9
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 2
+AdsBot-Google (+http://www.google.com/adsbot.html)
+0 101
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0
+0 9
+Mozilla/5.0 (Windows NT 6.2; rv:45.0) Gecko/20100101 Firefox/45.0
+0 35
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.65 Safari/537.31
+0 1
+Mozilla/5.0 (Windows NT 6.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0
+0 6
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+0 47
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1
+0 18
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G925F Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile S
+0 1
+Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1)
+0 3
+Mozilla/5.0 (compatible; BLEXBot/1.0; +http://webmeup-crawler.com/)
+0 12
+Mozilla/5.0 (Windows NT 6.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+0 3
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0)
+0 9
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24
+0 16
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14
+0 18
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:15.0) Gecko/20100101 Firefox/15.0
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/601.4.4
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.2 Safari/605.1.15
+0 6
+Mozilla/5.0 (Windows NT 5.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0
+0 18
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+0 9
+Mozilla/5.0 (iPad; CPU OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/60
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+0 4
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+0 69
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.64.27) Gecko/20176599 Firefox/45.64.27
+0 5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0.2 Safari/604.4.7
+0 9
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/601.6.17 (KHTML, like Gecko) Version/9.1.1 Safari/601.6.17
+0 9
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
+0 4
+Mozilla/5.0 (Windows NT 5.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+0 15
+Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+0 21
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 36
+Mozilla/2.0 (Compatible; AOL-IWENG 3.0; Win16)
+0 4
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 342
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.1
+0 9
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 91
+Mozilla/5.0 (Linux; Android 8.1.0; CPH1803 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116
+0 35
+Mozilla/5.0 (compatible; SeznamBot/3.2; +http://napoveda.seznam.cz/en/seznambot-intro/)
+0 5
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+0 34
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+0 418
+Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.12
+0 4
+Mozilla/5.0 (Windows NT 6.0; rv:34.0) Gecko/20100101 Firefox/34.0
+0 2
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+0 32
+bitlybot/3.0 (+http://bit.ly/)
+0 4
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+0 18
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0
+0 15
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0
+0 15
+python-requests/2.21.0
+0 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+0 12
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36
+0 169
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Mobile/15E148 Sa
+0 34
+Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.143
+0 6
+Opera/9.80 (Android; Opera Mini/12.0.1987/37.7327; U; pl) Presto/2.12.423 Version/12.16
+0 1
+Mozilla/5.0 (compatible; ShunixBot/1.x; http://www.shunix.com/bot.htm)
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 16
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+0 21
+Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G955U Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/
+0 33
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Sa
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_1 like Mac OS X) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0 Mobile/15C153 S
+0 33
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+0 17
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+0 4
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0)
+0 6
+Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+0 24
+Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/2.0; +http://go.mail.ru/help/robots)
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
+0 30
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+0 11
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0
+0 6
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+0 6
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+0 62
+Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.1058
+0 9
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0
+0 2
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15
+0 18
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+0 20
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 5.1; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+0 9
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/6.0;)
+0 17
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+0 17
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+0 12
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+0 36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Mwendo/1.1.5 Safari/537.21
+0 6
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36
+0 17
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 210
+Mozilla/5.0 (Linux; U; Android 2.2) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.1
+0 45
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 128
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.1058
+0 12
+Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+0 12
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.1
+0 17
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+0 9
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)
+0 26
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.1 Safari/603.1.30
+0 21
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15
+0 18
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0
+0 19
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 47
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36
+0 15
+Mozilla/5.0 (X11; CrOS x86_64 11647.154.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.114 Safari/537.36
+0 104
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safa
+0 1
+Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.31
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.143
+0 15
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.143
+0 18
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10
+0 12
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

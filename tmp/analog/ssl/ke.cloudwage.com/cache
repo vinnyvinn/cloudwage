@@ -1,0 +1,365 @@
+CACHE type 5 produced by analog 6.0/Unix. Do not modify or delete!
+T	0	0	990	21	2	0	16630080
+D	25966631	25971598
+18032	110	54	1	988261
+18032	111	214	0	2062734
+18032	112	4	0	300
+18032	113	2	0	134
+18032	114	3	0	201
+18032	115	88	3	1583537
+18032	116	3	0	201
+18032	117	2	0	134
+18032	118	2	0	67
+18033	147	41	2	947169
+18033	155	16	1	269815
+18033	156	2	2	24716
+18033	158	63	0	1149442
+18033	223	33	1	548742
+18033	226	26	1	540230
+18034	187	101	2	2048497
+18034	188	51	1	1034122
+18034	227	67	2	1174613
+18035	200	152	3	3082620
+18035	239	66	2	1174545
+1	1	0	0	0	25966637	0	0	25966637	0	0	479	/wp-content/plugins/js_composer/assets/lib/bower/vcIconPicker/themes/grey-theme/jquery.fonticonpicker.vcgrey.min.css?ver=5.5.4
+1	1	0	0	0	25970097	0	0	25970097	0	0	99	/wp-cron.php?doing_wp_cron=1558112243.4112889766693115234375
+1	1	0	0	0	25966637	0	0	25966637	0	0	7962	/wp-content/plugins/js_composer/assets/css/lib/vc-material/vc_material.min.css?ver=5.5.4
+1	1	0	0	0	25966637	0	0	25966637	0	0	55548	/wp-content/plugins/js_composer/assets/css/js_composer_backend_editor.min.css?ver=5.5.4
+1	1	0	0	0	25966637	0	0	25966637	0	0	261	/wp-admin/load-styles.php?c=0&dir=ltr&load[]=farbtastic&ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	213	/wp-content/plugins/goodlayers-core/framework/images/page-builder/column-1-5.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	91941	/wp-admin/load-styles.php?c=0&dir=ltr&load[]=dashicons,wp-jquery-ui-dialog,admin-bar,buttons,media-views,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,t&load[]=hemes,about,nav-menus,wp-pointer,widgets,site-icon,l10n,wp-auth-check,wp-color-picker&ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	1342	/wp-includes/js/wp-pointer.min.js?ver=20111129a
+1	1	0	0	0	25966637	0	0	25966637	0	0	5732	/wp-content/plugins/goodlayers-core/template/images/block/content-preset-5.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	6260	/wp-content/plugins/goodlayers-core/template/images/block/quote-half-box.jpg
+1	18	0	0	0	25971598	0	0	25966631	0	0	83196	/wp-includes/js/wp-emoji-release.min.js?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	6967	/wp-content/plugins/goodlayers-core/template/images/block/featured-content.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	1142	/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	575	/wp-includes/js/wp-util.min.js?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	8066	/wp-content/plugins/goodlayers-core/framework/js/html-option.js?ver=1.4.5
+1	1	0	0	0	25966637	0	0	25966637	0	0	9454	/wp-content/plugins/goodlayers-core/template/images/block/half-services.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	213	/wp-content/plugins/goodlayers-core/framework/images/page-builder/column-2-5.png
+1	1	0	0	0	25969899	0	0	25969899	0	0	99	/wp-cron.php?doing_wp_cron=1558100385.9816539287567138671875
+1	1	0	0	0	25966637	0	0	25966637	0	0	212	/wp-content/plugins/goodlayers-core/framework/images/page-builder/column-3-5.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	782	/wp-content/plugins/js_composer/assets/vc/logo/wpb-logo-white.svg
+1	18	0	0	0	25971598	0	0	25966631	0	0	607788	/wp-includes/js/jquery/jquery.js?ver=1.12.4
+1	1	0	0	0	25966637	0	0	25966637	0	0	3889	/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4
+1	1	0	0	0	25966637	0	0	25966637	0	0	12686	/wp-content/plugins/goodlayers-core/template/images/block/column-services-x3.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	3199	/wp-content/plugins/goodlayers-core/include/images/sidebar/none.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	38128	/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.6-78496d1
+1	1	0	0	0	25966637	0	0	25966637	0	0	14439	/wp-content/plugins/goodlayers-core/template/images/block/column-services-3.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	10264	/wp-content/plugins/goodlayers-core/template/images/block/basic-column-services.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	211	/wp-content/plugins/goodlayers-core/framework/images/page-builder/column-4-5.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	77160	/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+1	1	0	0	0	25966637	0	0	25966637	0	0	2114	/wp-admin/js/svg-painter.js?ver=5.2
+1	10	0	0	0	25971401	0	0	25966631	0	0	8470	/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+1	1	0	0	0	25966637	0	0	25966637	0	0	11920	/wp-content/plugins/goodlayers-core/template/images/block/left-mobile-services.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	265	/wp-includes/js/imgareaselect/imgareaselect.css?ver=0.9.8
+1	1	0	0	0	25966637	0	0	25966637	0	0	3752	/wp-content/plugins/revslider/public/assets/css/tp-color-picker.css?ver=5.4.8
+1	1	0	0	0	25966637	0	0	25966637	0	0	8060	/wp-admin/js/iris.min.js?ver=1.0.7
+1	18	0	0	0	25971598	0	0	25966631	0	0	136890	/wp-content/plugins/revslider/public/assets/fonts/font-awesome/css/font-awesome.css
+1	1	0	0	0	25968653	0	0	25968653	0	0	99	/wp-cron.php?doing_wp_cron=1558025603.2182500362396240234375
+1	17	0	0	0	25971598	0	0	25966631	0	0	43724	/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.actions.min.js?version=5.4.8
+1	1	0	0	0	25966637	0	0	25966637	0	0	8062	/wp-content/plugins/goodlayers-core/template/images/block/text-with-skills.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	13493	/wp-content/plugins/goodlayers-core/template/images/block/custom-services-2.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	1213	/wp-admin/js/color-picker.min.js?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	8846	/wp-content/themes/onepagepro/images/template/our-story.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	4411	/wp-includes/js/media-models.min.js?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	14804	/wp-content/plugins/goodlayers-core/template/images/block/right-display-services.jpg
+1	9	0	0	0	25971401	0	0	25966631	0	0	123228	/wp-content/uploads/revslider/homepage creative/slider-1-2.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	3747	/wp-includes/js/mce-view.min.js?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	12419	/wp-content/plugins/goodlayers-core/template/images/block/stunning-service.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	481	/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	4652	/wp-admin/js/editor-expand.min.js?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	6550	/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4
+1	1	0	0	0	25966637	0	0	25966637	0	0	3552	/wp-includes/js/media-audiovideo.min.js?ver=5.2
+1	1	1	0	0	25968256	0	0	25968256	0	0	11879	/?66.249.92.196
+1	1	0	0	0	25966637	0	0	25966637	0	0	7764	/wp-content/plugins/goodlayers-core/template/images/block/contact-form.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	213	/wp-content/plugins/goodlayers-core/framework/images/page-builder/column-1-6.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	1986	/wp-includes/js/plupload/wp-plupload.min.js?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	1132	/wp-includes/js/wp-backbone.min.js?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	422	/wp-content/plugins/goodlayers-core/framework/images/page-builder/nav-fullscreen.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	551	/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	3784	/wp-includes/js/imgareaselect/jquery.imgareaselect.min.js?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	9235	/wp-content/plugins/goodlayers-core/template/images/block/custom-counters.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	3093	/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4
+1	11	0	0	0	25971598	0	0	25966637	0	0	848760	/wp-content/plugins/goodlayers-core/plugins/combine/fontawesome/fontawesome-webfont.woff2?v=4.7.0
+1	1	0	0	0	25966637	0	0	25966637	0	0	8962	/wp-content/plugins/goodlayers-core/template/images/block/about-us.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	1739	/wp-includes/js/tinymce/plugins/compat3x/plugin.min.js?ver=4920-20181217
+1	1	0	0	0	25966637	0	0	25966637	0	0	9444	/wp-content/plugins/goodlayers-core/template/images/block/counter.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	2707	/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4
+1	8	0	0	0	25971401	0	0	25966631	0	0	113768	/wp-content/uploads/2019/05/support.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	12896	/wp-content/plugins/goodlayers-core/template/images/block/flip-boxes-accordion.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	3929	/wp-includes/js/wplink.min.js?ver=5.2
+1	19	0	0	0	25971598	0	0	25966631	0	0	181355	/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8
+1	1	0	0	0	25966637	0	0	25966637	0	0	205	/wp-content/plugins/goodlayers-core/framework/images/page-builder/column-1-1.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	1555	/wp-admin/js/postbox.min.js?ver=5.2
+1	16	0	0	0	25971598	0	0	25966631	0	0	228832	/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.layeranimation.min.js?version=5.4.8
+1	1	0	0	0	25966637	0	0	25966637	0	0	311	/wp-content/plugins/goodlayers-core/framework/images/page-builder/nav-template.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	8047	/wp-content/plugins/goodlayers-core/template/images/block/content-preset-1.jpg
+1	17	0	0	0	25971598	0	0	25966631	0	0	1082288	/wp-content/plugins/goodlayers-core/plugins/combine/elegant/ElegantIcons.woff
+1	2	0	0	0	25970097	0	0	25966655	0	0	137	/robots.txt
+1	1	0	0	0	25966637	0	0	25966637	0	0	10842	/wp-content/plugins/goodlayers-core/template/images/block/flip-boxes.jpg
+1	9	0	0	0	25971401	0	0	25966631	0	0	73341	/wp-content/uploads/2019/05/reports.png
+1	18	0	0	0	25971598	0	0	25966631	0	0	26208	/wp-content/plugins/email-subscribers/public/js/email-subscribers-public.js
+1	1	0	0	0	25966637	0	0	25966637	0	0	211	/wp-content/plugins/goodlayers-core/framework/images/page-builder/column-5-6.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	11215	/wp-content/plugins/goodlayers-core/template/images/block/custom-map.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	15238	/wp-includes/js/thickbox/loadingAnimation.gif
+1	1	0	0	0	25966637	0	0	25966637	0	0	10375	/wp-content/plugins/goodlayers-core/template/images/block/custom-services-3.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	9055	/wp-content/plugins/goodlayers-core/template/images/block/half-contact.jpg
+1	17	0	0	0	25971598	0	0	25966631	0	0	1311720	/wp-content/plugins/revslider/public/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+1	1	0	0	0	25966637	0	0	25966637	0	0	1319	/wp-content/plugins/js_composer/assets/lib/bower/json-js/json2.min.js?ver=5.5.4
+1	1	0	0	0	25966637	0	0	25966637	0	0	2621	/wp-content/plugins/js_composer/assets/css/lib/typicons/src/font/typicons.min.css?ver=5.5.4
+1	1	0	0	0	25966637	0	0	25966637	0	0	1340	/wp-includes/js/jquery/suggest.min.js?ver=1.1-20110113
+1	1	0	0	0	25966637	0	0	25966637	0	0	932	/wp-includes/js/thickbox/thickbox.css?ver=5.2
+1	18	0	0	0	25971598	0	0	25966631	0	0	261468	/wp-content/plugins/goodlayers-core/include/js/page-builder.js?ver=1.3.9
+1	9	0	0	0	25971401	0	0	25966631	0	0	649620	/wp-content/uploads/revslider/homepage creative/slider-1-3.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	6901	/wp-admin/css/login.min.css?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	7464	/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf?f6ud62
+1	19	0	0	0	25971598	0	0	25966631	0	0	6289	/wp-content/plugins/email-subscribers/public/css/email-subscribers-public.css
+1	1	0	0	0	25966637	0	0	25966637	0	0	8826	/wp-content/plugins/goodlayers-core/template/images/block/image-boxes-x3.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	1373	/wp-content/plugins/js_composer/assets/css/lib/vc-open-iconic/vc_openiconic.min.css?ver=5.5.4
+1	1	0	0	0	25966637	0	0	25966637	0	0	795	/wp-content/plugins/goodlayers-core/framework/images/radio-checked.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	3561	/wp-includes/js/quicktags.min.js?ver=5.2
+1	18	0	0	0	25971598	0	0	25966631	0	0	28530	/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css?ver=4.5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	1318	/wp-admin/js/tags-box.min.js?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	120194	/wp-includes/js/tinymce/tinymce.min.js?ver=4920-20181217
+1	1	0	0	0	25966637	0	0	25966637	0	0	0	/wp-cron.php?doing_wp_cron=1557904645.5423169136047363281250
+1	1	0	0	0	25966637	0	0	25966637	0	0	3918	/wp-includes/js/jquery/jquery.color.min.js?ver=2.1.1
+1	1	0	0	0	25966637	0	0	25966637	0	0	12936	/wp-content/plugins/revslider/public/assets/js/tp-color-picker.min.js?ver=5.4.8
+1	1	0	0	0	25966637	0	0	25966637	0	0	435	/wp-content/plugins/goodlayers-core/include/images/text-align/center.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	6970	/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.5.4
+1	1	0	0	0	25966637	0	0	25966637	0	0	5359	/wp-content/plugins/goodlayers-core/template/images/block/counter-box-x4.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	1137	/wp-content/plugins/js_composer/assets/css/lib/monosocialiconsfont/monosocialiconsfont.min.css?ver=5.5.4
+1	1	0	0	0	25966637	0	0	25966637	0	0	8889	/wp-content/plugins/goodlayers-core/template/images/block/seo-about.jpg
+1	1	0	0	0	25968256	0	0	25968256	0	0	99	/wp-cron.php?doing_wp_cron=1558001806.1667809486389160156250
+1	19	0	0	0	25971598	0	0	25966631	0	0	12369	/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1
+1	1	0	0	0	25966637	0	0	25966637	0	0	778	/wp-content/plugins/js_composer/assets/vc/logo/wpb-logo-white_32.svg
+1	1	0	0	0	25966657	0	0	25966657	0	0	99	/wp-cron.php?doing_wp_cron=1557905859.3669130802154541015625
+1	9	0	0	0	25971401	0	0	25966631	0	0	41643	/wp-content/uploads/2019/05/WIZAGWH.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	810	/wp-content/plugins/js_composer/assets/lib/bower/vcIconPicker/css/jquery.fonticonpicker.min.css?ver=5.5.4
+1	9	0	0	0	25971401	0	0	25966631	0	0	225900	/wp-content/uploads/2019/05/cloudwage.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	4803	/wp-admin/js/editor.min.js?ver=5.2
+1	17	0	0	0	25971598	0	0	25966631	0	0	116960	/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.slideanims.min.js?version=5.4.8
+1	1	0	0	0	25966637	0	0	25966637	0	0	10086	/wp-content/plugins/goodlayers-core/template/images/block/service-boxes-x4.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	213	/wp-content/plugins/goodlayers-core/framework/images/page-builder/column-1-2.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	7472	/wp-content/plugins/goodlayers-core/template/images/block/large-quote.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	11950	/wp-content/plugins/goodlayers-core/template/images/block/half-boxesx3-3.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	5039	/wp-content/plugins/goodlayers-core/template/images/block/basic-counters.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	6589	/wp-content/plugins/goodlayers-core/template/images/block/content-preset-2.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	3997	/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105
+1	2	0	0	0	25968299	0	0	25966631	0	0	8018	/wp-includes/css/admin-bar.min.css?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	323	/wp-content/plugins/duplicator/assets/css/global_admin_style.css?ver=1.3.12
+1	1	0	0	0	25966637	0	0	25966637	0	0	3289	/wp-content/plugins/goodlayers-core/include/images/sidebar/right.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	3427	/wp-content/plugins/goodlayers-core/include/images/sidebar/both.jpg
+1	19	0	0	0	25971598	0	0	25966631	0	0	243770	/wp-content/plugins/goodlayers-core/plugins/combine/style.css?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	17838	/wp-content/plugins/goodlayers-core/template/images/block/modern-services.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	2604	/wp-content/plugins/js_composer/assets/lib/vc_accordion/vc-accordion.min.js?ver=5.5.4
+1	1	0	0	0	25966637	0	0	25966637	0	0	2248	/wp-includes/js/autosave.min.js?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	7180	/wp-content/plugins/goodlayers-core/template/images/block/flip-boxes-x3.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	13542	/wp-content/plugins/goodlayers-core/template/images/block/half-box-services2.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	8676	/wp-content/plugins/goodlayers-core/template/images/block/seo-services.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	1712	/wp-includes/js/dist/hooks.min.js?ver=2.2.0
+1	8	0	0	0	25971401	0	0	25966631	0	0	44312	/wp-content/uploads/2019/05/arrow.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	374	/wp-includes/js/wp-a11y.min.js?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	1510	/wp-includes/css/buttons.min.css?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	335	/wp-content/plugins/goodlayers-core/framework/images/page-builder/nav-custom-template.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	14312	/wp-content/plugins/goodlayers-core/template/images/block/three-boxes-info.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	22823	/wp-includes/js/media-views.min.js?ver=5.2
+1	18	0	0	0	25971598	0	0	25966631	0	0	236268	/wp-content/themes/onepagepro/js/script-core.js?ver=1.0.0
+1	1	0	0	0	25971401	0	0	25971401	0	0	99	/wp-cron.php?doing_wp_cron=1558190498.2088639736175537109375
+1	17	0	0	0	25971598	0	0	25966631	0	0	96713	/wp-content/plugins/wp-google-map-plugin/assets/js/maps.js?ver=2.3.4
+1	1	0	0	0	25966637	0	0	25966637	0	0	3817	/wp-content/plugins/wp-google-map-plugin/assets/images/flippercode.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	451	/wp-includes/js/api-request.min.js?ver=5.2
+1	17	0	0	0	25971598	0	0	25966631	0	0	307530	/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8
+1	18	0	0	0	25971598	0	0	25966631	0	0	94050	/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4
+1	1	0	0	0	25966637	0	0	25966637	0	0	2868	/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4
+1	18	0	0	0	25966670	0	0	25966638	0	0	1206	/wp-admin/admin-ajax.php
+1	1	0	0	0	25966637	0	0	25966637	0	0	1967	/wp-includes/js/jquery/ui/droppable.min.js?ver=1.11.4
+1	1	0	0	0	25966637	0	0	25966637	0	0	784	/wp-content/plugins/js_composer/assets/vc/logo/wpb-logo.svg
+1	1	0	0	0	25966637	0	0	25966637	0	0	1164	/wp-content/plugins/envato-market/fonts/envato-market.woff?20150626
+1	1	0	0	0	25966637	0	0	25966637	0	0	3972	/wp-content/plugins/goodlayers-core/template/images/block/column-service-lite.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	3656	/wp-admin/images/spinner.gif
+1	1	0	0	0	25966637	0	0	25966637	0	0	654	/wp-content/plugins/js_composer/assets/css/lib/vc-linecons/vc_linecons_icons.min.css?ver=5.5.4
+1	2	0	0	0	25971401	0	0	25969900	0	0	196972	/wp-content/plugins/revslider/public/assets/fonts/font-awesome/fonts/fontawesome-webfont.eot?
+1	2	2	0	0	25968301	0	0	25968300	0	0	24716	/?gclid=EAIaIQobChMIwPu5t4qs3AIVAQAAAB0BAAAAEAAYACAAEgJVzfD_BwE
+1	1	0	0	0	25966637	0	0	25966637	0	0	7000	/wp-content/plugins/goodlayers-core/template/images/block/ico-service.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	2145	/wp-content/plugins/revslider/admin/assets/css/global.css?ver=5.4.8
+1	16	0	0	0	25971598	0	0	25966631	0	0	112656	/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.navigation.min.js?version=5.4.8
+1	1	0	0	0	25966637	0	0	25966637	0	0	1245	/wp-login.php?redirect_to=https://ke.cloudwage.com/wp-admin/post-new.php%3Fpost_type%3Dpage&reauth=1
+1	1	0	0	0	25966637	0	0	25966637	0	0	9981	/wp-content/plugins/goodlayers-core/template/images/block/token-allocation.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	1824	/wp-content/plugins/goodlayers-core/include/images/text-align/default.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	3633	/wp-includes/js/media-editor.min.js?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	6421	/wp-content/plugins/goodlayers-core/template/images/block/column-service-1.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	6372	/wp-content/plugins/goodlayers-core/template/images/block/column-service-number.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	6984	/wp-content/plugins/goodlayers-core/template/images/block/icon-services.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	214	/wp-content/plugins/goodlayers-core/framework/images/page-builder/column-1-3.png
+1	1	0	0	0	25971597	0	0	25971597	0	0	99	/wp-cron.php?doing_wp_cron=1558202273.1938469409942626953125
+1	17	0	0	0	25971598	0	0	25966631	0	0	651729	/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8
+1	1	0	0	0	25966637	0	0	25966637	0	0	92375	/wp-content/plugins/js_composer/assets/lib/bower/ace-builds/src-min-noconflict/ace.js?ver=5.5.4
+1	1	0	0	0	25966637	0	0	25966637	0	0	64941	/wp-content/plugins/js_composer/assets/js/dist/backend.min.js?ver=5.5.4
+1	1	0	0	0	25966637	0	0	25966637	0	0	9640	/wp-content/plugins/goodlayers-core/template/images/block/basic-column-services-2.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	6164	/wp-content/plugins/goodlayers-core/template/images/block/content-preset-3.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	10678	/wp-content/plugins/goodlayers-core/template/images/block/featured-boxes.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	2688	/wp-content/plugins/js_composer/assets/css/lib/vc-entypo/vc_entypo.min.css?ver=5.5.4
+1	1	0	0	0	25966637	0	0	25966637	0	0	6242	/wp-content/plugins/goodlayers-core/framework/css/page-builder.css?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	418	/wp-content/plugins/goodlayers-core/include/images/text-align/left.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	212	/wp-content/plugins/goodlayers-core/framework/images/page-builder/column-2-3.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	8136	/wp-content/plugins/goodlayers-core/template/images/block/custom-footer.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	410	/wp-content/plugins/goodlayers-core/include/images/text-align/right.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	5840	/wp-admin/js/post.min.js?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	382	/wp-content/plugins/goodlayers-core/framework/images/page-builder/nav-elements.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	14743	/wp-content/plugins/goodlayers-core/template/images/block/half-contact-2.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	3100	/wp-content/plugins/goodlayers-core/include/images/sidebar/left.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	864	/wp-content/plugins/goodlayers-core/framework/images/uploader-white.png
+1	17	0	0	0	25971598	0	0	25966631	0	0	12801	/wp-includes/js/wp-embed.min.js?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	502	/wp-content/plugins/goodlayers-core/framework/images/page-builder/wrapper-sidebar.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	2585	/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.6-78496d1
+1	1	0	0	0	25966637	0	0	25966637	0	0	577	/wp-admin/js/media-upload.min.js?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	643	/wp-content/plugins/goodlayers-core/framework/css/utility.css?ver=5.2
+1	1	0	0	0	25968299	0	0	25968299	0	0	1409	/wp-content/plugins/wordpress-seo-premium/css/dist/adminbar-1100.min.css?ver=11.0
+1	2	0	0	0	25971401	0	0	25969900	0	0	196972	/wp-content/plugins/goodlayers-core/plugins/combine/fontawesome/fontawesome-webfont.eot?
+1	19	0	0	0	25971598	0	0	25966631	0	0	2361719	/wp-content/plugins/goodlayers-core/plugins/combine/script.js?ver=5.2
+1	19	0	0	0	25971598	0	0	25966631	0	0	174401	/wp-content/uploads/onepagepro-style-custom.css?1557822839&ver=5.2
+1	5	0	0	0	25971401	0	0	25966631	0	0	12600	/wp-content/uploads/2019/05/cloudwagefavc.png
+1	19	0	0	0	25971598	0	0	25966631	0	0	90573	/wp-includes/css/dist/block-library/style.min.css?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	5909	/wp-includes/css/editor.min.css?ver=5.2
+1	9	0	0	0	25971401	0	0	25966631	0	0	46629	/wp-content/uploads/2017/05/service-icon-2.png
+1	2	0	0	0	25971401	0	0	25969900	0	0	56830	/wp-content/plugins/goodlayers-core/plugins/combine/elegant/ElegantIcons.eot?
+1	1	0	0	0	25966637	0	0	25966637	0	0	11846	/wp-content/plugins/goodlayers-core/template/images/block/half-about.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	13519	/wp-content/plugins/goodlayers-core/template/images/block/half-box-services.jpg
+1	9	0	0	0	25971401	0	0	25966631	0	0	97992	/wp-content/uploads/2019/05/finance4.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	817	/wp-content/plugins/mailchimp-for-wp/assets/img/icon.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	781	/wp-includes/js/wp-auth-check.min.js?ver=5.2
+1	1	0	1	0	25966637	25966637	0	25966637	25966637	0	132446	/wp-admin/post-new.php?post_type=page
+1	19	0	0	0	25971598	0	0	25966631	0	0	289332	/wp-content/themes/onepagepro/css/style-core.css?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	417	/wp-content/plugins/goodlayers-core/framework/images/page-builder/nav-wrapper.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	1138	/wp-includes/js/shortcode.min.js?ver=5.2
+1	2	0	0	0	25968299	0	0	25966631	0	0	4958	/wp-includes/js/admin-bar.min.js?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	1689	/wp-content/plugins/revslider/admin/assets/js/vc.js?ver=5.5.4
+1	1	0	0	0	25966637	0	0	25966637	0	0	3504	/wp-admin/js/image-edit.min.js?ver=5.2
+1	9	0	0	0	25971401	0	0	25966631	0	0	103437	/wp-content/uploads/2019/05/money.png
+1	1	0	0	0	25966642	0	0	25966642	0	0	99	/wp-cron.php?doing_wp_cron=1557904958.5310590267181396484375
+1	16	0	0	0	25971598	0	0	25966631	0	0	51840	/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.parallax.min.js?version=5.4.8
+1	1	0	0	0	25966637	0	0	25966637	0	0	38659	/wp-content/plugins/js_composer/assets/lib/php.default/php.default.min.js?ver=5.5.4
+1	1	0	0	0	25966637	0	0	25966637	0	0	686	/wp-admin/css/l10n.min.css?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	3485	/wp-content/plugins/js_composer/assets/lib/bower/vcIconPicker/jquery.fonticonpicker.min.js?ver=5.5.4
+1	1	0	0	0	25966637	0	0	25966637	0	0	70272	/wp-admin/load-scripts.php?c=0&load[]=jquery-core,jquery-migrate,utils,moxiejs,plupload&ver=5.2
+1	9	0	0	0	25971401	0	0	25966631	0	0	55701	/wp-content/uploads/2019/05/correction.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	5711	/wp-includes/js/underscore.min.js?ver=1.8.3
+1	8	0	0	0	25971401	0	0	25966631	0	0	20360	/wp-content/plugins/revslider/public/assets/assets/loader.gif
+1	1	0	0	0	25966637	0	0	25966637	0	0	2046	/wp-includes/js/heartbeat.min.js?ver=5.2
+1	19	0	0	0	25971598	0	0	25966631	0	0	75867	/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1
+1	1	0	0	0	25966637	0	0	25966637	0	0	215	/wp-content/plugins/goodlayers-core/framework/images/page-builder/column-1-4.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	32867	/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.0.0
+1	1	0	0	0	25966637	0	0	25966637	0	0	1176	/wp-content/plugins/js_composer/assets/lib/vc_tabs/vc-tabs.min.js?ver=5.5.4
+1	1	0	0	0	25966637	0	0	25966637	0	0	27378	/wp-admin/load-scripts.php?c=0&load[]=jquery-ui-core,jquery-ui-widget,jquery-ui-mouse,jquery-ui-resizable,jquery-ui-draggable,jquery-ui-button,jquery-ui-position,jque&load[]=ry-ui-dialog,wpdialogs,hoverIntent,common,admin-bar&ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	5860	/wp-content/plugins/goodlayers-core/template/images/block/content-preset-4.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	5448	/wp-includes/js/tinymce/langs/wp-langs-en.js?ver=4920-20181217
+1	1	0	0	0	25966637	0	0	25966637	0	0	15520	/wp-content/plugins/goodlayers-core/template/images/block/half-box-x3.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	657	/wp-admin/js/word-count.min.js?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	3354	/wp-content/plugins/goodlayers-core/framework/js/utility.js?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	2591	/wp-content/plugins/revslider/admin/assets/js/tinymce-shortcode-script.js?ver=5.4.8
+1	1	0	0	0	25966637	0	0	25966637	0	0	13083	/wp-content/plugins/goodlayers-core/template/images/block/custom-contact-1.jpg
+1	9	0	0	0	25971401	0	0	25966631	0	0	82737	/wp-content/uploads/2019/05/security.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	11002	/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4
+1	1	0	0	0	25966637	0	0	25966637	0	0	2565	/wp-includes/js/wp-lists.min.js?ver=5.2
+1	17	0	0	0	25971598	0	0	25966631	0	0	129387	/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js?ver=4.5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	419	/wp-content/plugins/goodlayers-core/framework/images/page-builder/wrapper.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	7440	/wp-content/themes/onepagepro/images/template/about-us.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	5307	/wp-content/plugins/goodlayers-core/framework/css/html-option-small.css?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	10039	/wp-content/plugins/goodlayers-core/template/images/block/icon-list.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	4869	/wp-content/plugins/goodlayers-core/template/images/block/counter-shadow-box.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	967	/wp-includes/js/wp-ajax-response.min.js?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	6540	/wp-content/plugins/goodlayers-core/framework/js/page-builder.js?ver=1.4.6
+1	1	0	0	0	25966637	0	0	25966637	0	0	1057	/wp-admin/js/tags-suggest.min.js?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	1021	/wp-content/plugins/js_composer/assets/js/dist/backend-actions.min.js?ver=5.5.4
+1	1	0	0	0	25966637	0	0	25966637	0	0	214	/wp-content/plugins/goodlayers-core/framework/images/page-builder/column-3-4.png
+1	9	0	0	0	25971401	0	0	25966631	0	0	46098	/wp-content/uploads/2019/05/tap-e1557747386148.png
+1	1	0	0	0	25966637	0	0	25966637	0	0	20744	/wp-content/plugins/goodlayers-core/template/images/block/column-services-images.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	2507	/wp-content/plugins/js_composer/assets/css/ui-custom-theme/jquery-ui-less.custom.min.css?ver=5.5.4
+1	1	0	0	0	25966637	0	0	25966637	0	0	10468	/wp-content/plugins/goodlayers-core/template/images/block/big-column-services.jpg
+1	1	0	0	0	25966670	0	0	25966670	0	0	0	/wp-cron.php?doing_wp_cron=1557906631.4940800666809082031250
+1	9	0	0	0	25971401	0	0	25966631	0	0	47097	/wp-content/uploads/2019/05/cloudwage-mobil.png
+1	18	18	0	0	25971598	0	0	25966631	0	0	226910	/
+1	1	0	0	0	25966637	0	0	25966637	0	0	13751	/wp-content/plugins/goodlayers-core/template/images/block/column-services-2.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	5463	/wp-admin/css/forms.min.css?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	585	/wp-includes/js/jquery/jquery.ui.touch-punch.js?ver=0.2.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	7557	/wp-content/plugins/goodlayers-core/template/images/block/case-studies.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	8776	/wp-content/plugins/goodlayers-core/template/images/block/half-box-x3-2.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	10581	/wp-content/plugins/goodlayers-core/template/images/block/custom-services-1.jpg
+1	1	0	0	0	25966637	0	0	25966637	0	0	9946	/wp-content/themes/onepagepro/images/template/column-service-4.jpg
+1	18	0	0	0	25971598	0	0	25966631	0	0	72252	/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+1	1	0	0	0	25966637	0	0	25966637	0	0	7551	/wp-includes/js/backbone.min.js?ver=1.2.3
+1	0	0	1	0	0	25966637	0	0	25966637	0	0	/wp-login.php
+1	1	0	0	0	25966637	0	0	25966637	0	0	3741	/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css?ver=5.5.4
+1	1	0	0	0	25966637	0	0	25966637	0	0	614	/wp-content/plugins/goodlayers-core/framework/images/admin-option-icon.png
+1	19	0	0	0	25971598	0	0	25966631	0	0	456988	/wp-content/plugins/goodlayers-core/include/css/page-builder.css?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	818	/wp-admin/images/wordpress-logo.svg?ver=20131107
+1	3	0	0	0	25968299	0	0	25966631	0	0	85551	/wp-includes/css/dashicons.min.css?ver=5.2
+1	1	0	0	0	25966637	0	0	25966637	0	0	2844	/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4
+1	9	0	0	0	25971401	0	0	25966631	0	0	1783098	/wp-content/uploads/2019/05/Image.jpg
+1	1	0	0	0	25968637	0	0	25968637	0	0	99	/wp-cron.php?doing_wp_cron=1558024673.2129309177398681640625
+3	1	0	0	0	25968256	0	0	25968256	0	0	99	https://ke.cloudwage.com/wp-cron.php?doing_wp_cron=1558001806.1667809486389160156250
+3	1	0	0	0	25966637	0	0	25966637	0	0	3656	https://ke.cloudwage.com/wp-admin/load-styles.php?c=0&dir=ltr&load[]=dashicons,wp-jquery-ui-dialog,admin-bar,buttons,media-views,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,t&load[]=hemes,about,nav-menus,wp-pointer,widgets,site-icon,l10n,wp-auth-check,wp-color-picker&ver=5.2
+3	1	0	0	0	25969899	0	0	25969899	0	0	99	https://ke.cloudwage.com/wp-cron.php?doing_wp_cron=1558100385.9816539287567138671875
+3	8	0	0	0	25971401	0	0	25966631	0	0	6776	https://ke.cloudwage.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1
+3	58	0	0	0	25968314	0	0	25968313	0	0	790634	https://ke.cloudwage.com/?gclid=EAIaIQobChMIwPu5t4qs3AIVAQAAAB0BAAAAEAAYACAAEgJVzfD_BwE
+3	1	0	0	0	25966657	0	0	25966657	0	0	99	https://ke.cloudwage.com/wp-cron.php?doing_wp_cron=1557905859.3669130802154541015625
+3	1	0	0	0	25971401	0	0	25971401	0	0	99	https://ke.cloudwage.com/wp-cron.php?doing_wp_cron=1558190498.2088639736175537109375
+3	2	2	0	0	25968257	0	0	25968256	0	0	23757	http://www.ads.google.com/
+3	612	0	1	0	25971598	25966637	0	25966631	25966637	0	10465674	https://ke.cloudwage.com/
+3	1	0	0	0	25966637	0	0	25966637	0	0	422	https://ke.cloudwage.com/wp-content/plugins/goodlayers-core/framework/css/page-builder.css?ver=5.2
+3	2	0	0	0	25966637	0	0	25966637	0	0	1659	https://ke.cloudwage.com/wp-content/plugins/goodlayers-core/framework/css/html-option-small.css?ver=5.2
+3	2	0	0	0	25966637	0	0	25966637	0	0	8246	https://ke.cloudwage.com/wp-content/plugins/js_composer/assets/css/js_composer_backend_editor.min.css?ver=5.5.4
+3	1	1	0	0	25969899	0	0	25969899	0	0	12577	https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CFQQFjAB&url=https://ke.cloudwage.com/&ei=obneXJjQK_DQWNsl&usg=AFQjCNG2-efoTcflP6n7AmivReRJhamuog
+3	1	1	0	0	25971401	0	0	25971401	0	0	12577	https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CDAQFjAD&url=https://ke.cloudwage.com/&ei=oxngXMG-I8H48QP7wgE&usg=AFQjCNG2-efoTcflP6n7AmivReRJhamuog
+3	1	0	0	0	25966637	0	0	25966637	0	0	77160	https://ke.cloudwage.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.5.4
+3	28	0	0	0	25971598	0	0	25966631	0	0	1931048	https://ke.cloudwage.com/wp-content/plugins/goodlayers-core/plugins/combine/style.css?ver=5.2
+3	6	0	1	0	25966637	25966637	0	25966637	25966637	0	175523	https://ke.cloudwage.com/wp-login.php?redirect_to=https://ke.cloudwage.com/wp-admin/post-new.php%3Fpost_type%3Dpage&reauth=1
+3	6	0	0	0	25971401	0	0	25966631	0	0	15270	https://ke.cloudwage.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8
+3	1	0	0	0	25966637	0	0	25966637	0	0	818	https://ke.cloudwage.com/wp-admin/css/login.min.css?ver=5.2
+3	1	0	0	0	25968637	0	0	25968637	0	0	99	https://ke.cloudwage.com/wp-cron.php?doing_wp_cron=1558024673.2129309177398681640625
+3	1	1	0	0	25969900	0	0	25969900	0	0	12577	https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CFMQFjAD&url=https://ke.cloudwage.com/&ei=o7neXKWSBuS2sAfMPA&usg=AFQjCNG2-efoTcflP6n7AmivReRJhamuog
+3	208	0	0	0	25966670	0	0	25966637	0	0	1564341	https://ke.cloudwage.com/wp-admin/post-new.php?post_type=page
+3	1	0	0	0	25968653	0	0	25968653	0	0	99	https://ke.cloudwage.com/wp-cron.php?doing_wp_cron=1558025603.2182500362396240234375
+3	1	0	0	0	25970097	0	0	25970097	0	0	99	https://ke.cloudwage.com/wp-cron.php?doing_wp_cron=1558112243.4112889766693115234375
+3	2	2	0	0	25971401	0	0	25969899	0	0	25154	https://www.google.com/
+3	17	0	0	0	25971598	0	0	25966631	0	0	1311720	https://ke.cloudwage.com/wp-content/plugins/revslider/public/assets/fonts/font-awesome/css/font-awesome.css
+3	1	0	0	0	25966637	0	0	25966637	0	0	0	https://ke.cloudwage.com/wp-cron.php?doing_wp_cron=1557904645.5423169136047363281250
+3	1	0	0	0	25971597	0	0	25971597	0	0	99	https://ke.cloudwage.com/wp-cron.php?doing_wp_cron=1558202273.1938469409942626953125
+3	1	0	0	0	25966670	0	0	25966670	0	0	0	https://ke.cloudwage.com/wp-cron.php?doing_wp_cron=1557906631.4940800666809082031250
+3	1	1	0	0	25971401	0	0	25971401	0	0	12578	https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CEEQFjAF&url=https://ke.cloudwage.com/&ei=nBngXPFCmdyjB8sY&usg=AFQjCNG2-efoTcflP6n7AmivReRJhamuog
+3	1	0	0	0	25966642	0	0	25966642	0	0	99	https://ke.cloudwage.com/wp-cron.php?doing_wp_cron=1557904958.5310590267181396484375
+4	178	6	0	0	25971598	0	0	25966655	0	0	3152493	AdsBot-Google (+http://www.google.com/adsbot.html)
+4	157	5	0	0	25971598	0	0	25966657	0	0	3042499	Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; AdsBot-Google-Mobile; +http://www.google.com/mobile/adsbot.html)
+4	50	1	0	0	25969899	0	0	25969899	0	0	1024199	Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-N950U Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.2 Chrome/67.0.3396.87 Mobile Safari/537.36
+4	40	2	0	0	25968257	0	0	25968256	0	0	947070	Google-Ads-Overview Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
+4	2	0	0	0	25970097	0	0	25966655	0	0	137	Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	300	2	2	0	25968299	25966637	0	25966631	25966637	0	3321949	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+4	3	0	0	0	25966670	0	0	25966637	0	0	99	WordPress/5.2; http://ke.cloudwage.com
+4	100	2	0	0	25971401	0	0	25969899	0	0	2048398	Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Mobile/15E148 Safari/604.1
+4	50	1	0	0	25971401	0	0	25971401	0	0	1024199	Mozilla/5.0 (Linux; Android 9; SM-G960U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+4	102	2	0	0	25971401	0	0	25969900	0	0	2068245	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+4	8	0	0	0	25971597	0	0	25966657	0	0	792	WordPress/5.2; https://ke.cloudwage.com
+5	100	2	0	0	25971401	0	0	25969899	0	0	2048398	62.8.95.70
+5	50	1	0	0	25969899	0	0	25969899	0	0	1024199	62.8.95.69
+5	12	1	0	0	25968257	0	0	25968256	0	0	155360	66.249.88.190
+5	2	0	0	0	25970097	0	0	25966655	0	0	137	66.249.66.192
+5	14	4	0	0	25971598	0	0	25966656	0	0	258973	66.249.92.196
+5	19	0	0	0	25968257	0	0	25968256	0	0	663970	66.249.88.163
+5	260	5	0	0	25971598	0	0	25966656	0	0	5050258	66.249.92.223
+5	11	0	0	0	25971597	0	0	25966637	0	0	891	213.136.80.121
+5	52	2	0	0	25971598	0	0	25966655	0	0	825503	66.249.92.193
+5	1	0	0	0	25966656	0	0	25966656	0	0	12830	66.249.92.139
+5	8	0	0	0	25966657	0	0	25966656	0	0	47428	66.249.92.138
+5	9	1	0	0	25968257	0	0	25968256	0	0	127740	66.249.88.160
+5	300	2	2	0	25968299	25966637	0	25966631	25966637	0	3321949	197.248.207.206
+5	152	3	0	0	25971401	0	0	25969900	0	0	3092444	62.8.95.71
+z	0	2	0	25966670	0
+z	2	29	0	25971597	2234
+z	3	115	0	25971598	64851
+z	4	486	0	25971598	2546094
+z	5	328	21	25971598	9619444
+z	6	30	0	25971598	4397457
+c	200	990	25971598
+c	302	2	25966637

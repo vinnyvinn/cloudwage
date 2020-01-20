@@ -1,0 +1,1202 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201905 will be lost/reset.
+# Last config file used to build this data file was /home/cloudwage/tmp/awstats/awstats.cloudwage.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2694                
+POS_VISITOR 25400               
+POS_DAY 41955               
+POS_DOMAIN 3566                
+POS_LOGIN 4375                
+POS_ROBOT 4530                
+POS_WORMS 5399                
+POS_EMAILSENDER 5530                
+POS_EMAILRECEIVER 5673                
+POS_SESSION 42510               
+POS_SIDER 42711               
+POS_FILETYPES 5808                
+POS_DOWNLOADS 6054                
+POS_OS 6102                
+POS_BROWSER 6401                
+POS_SCREENSIZE 8768                
+POS_UNKNOWNREFERER 8842                
+POS_UNKNOWNREFERERBROWSER 9110                
+POS_ORIGIN 9230                
+POS_SEREFERRALS 9374                
+POS_PAGEREFS 9565                
+POS_SEARCHWORDS 10117               
+POS_KEYWORDS 10269               
+POS_MISC 2357                
+POS_ERRORS 10328               
+POS_CLUSTER 4231                
+POS_SIDER_404 10478               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190519141115 110 19803 13196789464738
+FirstTime 20190501000010
+LastTime 20190519141113
+LastUpdate 20190519141246 110 0 110 0 0
+TotalVisits 680                 
+TotalUnique 420                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 421                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 76 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 39 39 219292 97 98 1362117
+1 33 33 203845 88 100 1066622
+2 33 61 652330 70 79 862778
+3 51 225 3429674 65 71 896353
+4 37 92 1166815 99 106 1159798
+5 39 67 701262 110 124 1076019
+6 22 50 603334 52 61 533930
+7 51 253 3935434 75 143 1821011
+8 42 180 2711972 72 103 1038639
+9 42 252 3935588 49 97 1016444
+10 89 407 5493950 193 235 2250276
+11 211 528 7526061 94 102 841707
+12 89 476 7190510 108 182 2098211
+13 53 171 2016800 94 149 1850133
+14 84 141 1918771 157 195 2074745
+15 27 27 167764 77 109 1328614
+16 21 21 105479 58 69 937440
+17 42 126 1630650 86 171 1916981
+18 27 83 1067869 65 71 980001
+19 32 60 634277 77 83 896936
+20 31 31 173590 96 107 1173974
+21 59 289 4255931 81 92 907049
+22 44 158 2139642 85 94 958928
+23 31 31 183600 81 91 1086934
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 41
+ke 343 1187 16312767
+us 192 585 7736192
+kr 163 1207 20051054
+ru 113 140 1180460
+gb 50 92 981797
+at 49 49 274758
+de 36 36 202953
+nl 32 32 183569
+ca 30 118 1626380
+se 29 29 161358
+zz 27 27 145642
+ch 26 26 146641
+fr 23 37 229890
+md 22 22 123417
+ua 17 17 107376
+cn 9 73 1063546
+ro 8 8 44225
+is 5 5 28165
+br 4 32 492732
+eu 4 4 22523
+id 4 32 491751
+tw 4 4 24375
+hu 4 4 233098
+gr 4 4 22179
+it 3 3 16926
+my 1 1 5657
+lv 1 1 5634
+bg 2 2 11258
+za 1 1 16115
+sk 3 3 11236
+hk 3 3 16897
+tr 2 2 10855
+pl 1 1 4700
+in 2 2 11287
+cz 1 1 6066
+no 3 3 16884
+ir 1 1 4611
+lr 3 3 16896
+kn 2 2 11257
+il 1 1 5665
+kz 1 1 5648
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 19
+bot[\s_+:,\.\;\/\\-] 145 2201346 20190518010952 2
+bingbot/ 135 1942166 20190519124201 13
+Googlebot/ 131 992019 20190518140845 13
+AdsBot\-Google[\x20]\( 96 1583907 20190511090447 0
+YandexBot/ 53 80056 20190518224409 36
+spider 47 645064 20190504175816 1
+AhrefsBot/ 15 9401 20190519105929 13
+MJ12bot/ 11 75480 20190519055035 6
+BLEXBot/ 6 15702 20190516011352 3
+unknown 6 144 20190514073459 6
+SemrushBot/ 5 9296 20190519063648 3
+SeznamBot/ 4 4736 20190513102234 3
+(firefox/)([0-9]\.|[0-1][0]\.) 4 30755 20190518103733 0
+bingpreview 3 366276 20190517181611 0
+DotBot/ 3 72 20190505045441 3
+Baiduspider/ 2 5585 20190505153330 1
+DomainCrawler/ 2 14905 20190517052839 1
+Mail\.RU_Bot/ 2 48 20190512182209 2
+no_user_agent 1 14271 20190508121902 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+eot 63 2298892 0 0
+ttf 18 2197656 0 0
+Unknown 1089 25924624 0 0
+woff2 39 2214420 0 0
+woff 5 320988 0 0
+html 15 122124 0 0
+css 1159 8610223 0 0
+js 1278 9683711 0 0
+png 135 691802 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 17
+macosx11 11 11
+linux 28 28
+ios_iphone 98 14
+win8.1 128 72
+macosx10 7 7
+winlong 36 36
+macosx12 34 34
+win2003 1 1
+linuxandroid 217 31
+win16 2 2
+win10 912 426
+win7 1671 384
+Unknown 39 11
+macosx 45 17
+win8 85 57
+unix 161 21
+winxp 326 77
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 118
+chrome60.0.3112.113 10 10
+chrome57.0.2987.133 22 22
+safari10.1.1 3 3
+firefox59.0 4 4
+firefox41.0 9 9
+chrome61.0.3163.100 8 8
+chrome64.0.3282.186 2 2
+firefox44.0 4 4
+chrome43.0.2357.65 4 4
+opera54.0.2952.60 1 1
+firefox61.0 2 2
+edge16 36 7
+firefox64.0 2 2
+safari11.1.2 2 2
+chrome54.0.2840.99 6 6
+chrome51.0.2704.63 3 3
+chrome45.0.2454.93 4 4
+opera44.6.2246.127414 33 5
+mozilla 48 20
+safari9.0.3 1 1
+chrome61.0.3163.79 1 1
+firefox48.0 2 2
+firefox57.0 5 5
+chrome41.0.2272.89 15 15
+chrome72.0.3626.121 1 1
+msie8.0 1290 164
+firefox40.1 6 6
+chrome39.0.2171.95 6 6
+edge12 9 9
+chrome73.0.3683.90 33 5
+firefox50.0 23 23
+chrome63.0.3239.84 7 7
+chrome62.0.3202.94 7 7
+chrome72.0.3626.109 2 2
+firefox34.0 1 1
+edge17 5 5
+chrome59.0.3071.115 7 7
+firefox62.0 1 1
+chrome60.0.3112.90 23 23
+firefox45.0 32 4
+chrome69.0.3497.100 9 1
+safari11.0.2 3 3
+safari10.0.1 7 7
+chrome74.0.3729.131 258 34
+chrome74.0.3729.108 1 1
+safari10.1.2 10 10
+chrome68.0.3440.106 1 1
+safari 2 2
+opera47.0.2631.39 1 1
+chrome66.0.3359.117 7 7
+edge15 30 30
+safari9.1 3 3
+chrome44.0.2403.157 8 8
+opera43.0.2442.991 8 8
+firefox56.0 5 5
+firefox15.0 1 1
+opera9.10 2 2
+chrome56.0.2924.87 6 6
+opera60.0.3255.59 36 8
+aol\-iweng 2 2
+safari9.1.2 1 1
+chrome45.0.2454.94 1 1
+chrome63.0.3239.132 4 4
+firefox27.0 1 1
+chrome56.0.2924.76 16 2
+safari10.0.3 2 2
+safari9.1.1 3 3
+chrome58.0.3029.110 6 6
+opera58.0.3135.132 32 4
+chrome51.0.2704.106 9 9
+chrome71.0.3578.80 1 1
+android 33 5
+firefox54.0 9 9
+opera42.0.2393.94 6 6
+edge36 1 1
+safari10.1 7 7
+chrome49.0.2623.112 36 8
+firefox39.0 8 8
+chrome41.0.2272.118 84 10
+chrome74.0.3729.125 64 8
+firefox45.64.27 1 1
+msie7.0 16 2
+firefox58.0 1 1
+chrome42.0.2311.135 5 5
+chrome41.0.2272.104 5 5
+chrome 1 1
+opera12.16 1 1
+chrome67.0.3396.99 18 18
+Unknown 3 3
+safari11.0 33 5
+firefox47.0 4 4
+chrome34.0.1847.131 3 3
+edge14 37 37
+chrome55.0.2883.87 18 18
+chrome67.0.3396.79 1 1
+msie9.0 146 30
+chrome52.0.2743.116 4 4
+edge13 15 15
+chrome65.0.3325.181 7 7
+firefox52.0 24 24
+safari4.0.5 32 4
+chrome73.0.3683.86 32 4
+chrome62.0.3202.89 7 7
+safari11.0.3 5 5
+firefox55.0 3 3
+chrome48.0.2564.109 8 8
+msie11.0 88 31
+safari11.1 1 1
+safari12.1 33 5
+chrome67.0.3396.87 32 4
+firefox46.0 5 5
+chrome73.0.3683.114 97 13
+chrome73.0.3683.103 411 237
+chrome66.0.3359.181 3 3
+firefox66.0 189 27
+chrome11.0.696.68 15 1
+msie10.0 89 33
+chrome46.0.2490.80 4 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20190504103522
+Mozilla/5.0_(compatible;_Dataprovider.com) 20190515125903
+python-requests/2.21.0 20190510024325
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+python-requests/2.21.0 20190510024325
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 883 1983
+From1 0 0
+From2 11 11
+From3 24 24
+From4 311 1783
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google_com 3 3
+www_google_com 7 7
+yandexru 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 10
+http://hundejo.com 6 6
+http://studentsoftwinvalley.com 4 4
+http://burger-imperia.com 3 3
+http://pizza-imperia.com 3 3
+http://pizza-tycoon.com 3 3
+https://wizag.biz:2096/cpsess8792385585/horde/imp/dynamic.php 1 1
+https://www.wizag.biz/services/payroll-software/ 1 1
+https://transport.wizag.biz:2087 1 1
+https://www.wizag.biz/works/payroll-management-solution/ 1 1
+http://10.220.1.2:8085/redirect.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+405 1 22802
+404 332 6782206
+301 232 60345
+500 526 14972434
+302 894 306624
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 244
+/q517-9837-31eamicrobic-fbc54--barton13872 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13865 1 -
+/q251-7698ff-2bf68b5-081isocracy--barton13869 1 -
+/SHOP/73849/list.html 1 -
+/.well-known/acme-challenge/-1qxrdNkGzSIAJS9aQPXi2RH1N3ACBH-eQ5_AxJ4j_M 1 http://www.cloudwage.com/.well-known/acme-challenge/-1qxrdNkGzSIAJS9aQPXi2RH1N3ACBH-eQ5_AxJ4j_M
+/SHOP/73867/list.html 1 -
+/.well-known/acme-challenge/_WDUSyCioeqUwRywVDiA1G6n_z3OUjgeUxuOlPpmF0k 1 http://www.cloudwage.com/.well-known/acme-challenge/_WDUSyCioeqUwRywVDiA1G6n_z3OUjgeUxuOlPpmF0k
+/q370-e5369-a29geomant-3b6e04--barton13920 1 -
+/sitemap.xml 4 -
+/q398-20bf3-64e3d3-0e7geomant--barton13916 1 -
+/q377-186a-b7979-9b4amicrobic--barton13953 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13999 1 -
+/.well-known/acme-challenge/clJfmMGaRXC8rNgPdM4LoinpThna5Q5Bfxm5epekGq0 1 -
+/hpgen/HPB/entries/99.html 1 -
+/wp 1 -
+//test/wp-login.php 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13938 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13909 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13970 1 -
+/.well-known/acme-challenge/DKJrm2c_nhywx5wV31fhNZQ16ZwVrfAKVsh7aJQkVZ4 1 http://www.cloudwage.com/.well-known/acme-challenge/DKJrm2c_nhywx5wV31fhNZQ16ZwVrfAKVsh7aJQkVZ4
+/.well-known/acme-challenge/ztUs7aID7tE49Li9A5PKZBFNwP6PglFrn9G4qPdCJ2I 1 -
+/administrator/index.php 2 -
+/q398-20bf3-64e3d3-0e7geomant--barton13827 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13856 1 -
+/SHOP/994337/1000769/list.html 1 -
+/q517-9837-31eamicrobic-fbc54--barton13862 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13936 1 -
+/q531-c72isocracy-d3cadf-6815700--barton13833 1 -
+/SHOP/PS020-20.html 1 -
+/q251-7698ff-2bf68b5-081isocracy--barton13987 1 -
+/hpgen/HPB/entries/85.html 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13920 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13861 1 -
+/.well-known/acme-challenge/_44WplqzPTth1YwHFCGXfX1SlRyc9wSiwmE52Yjvv6o 1 -
+/wp-login.php 21 -
+/.well-known/acme-challenge/0piNG3rGNYJAtrJ_0ZcEjBWpdYtxLaghr8h29PsQPo4 1 -
+/.well-known/acme-challenge/vOYopaEsJRBE61YqBXa_WBQB0hd3H_w7Q9EQfXKEeuQ 1 http://www.cloudwage.com/.well-known/acme-challenge/vOYopaEsJRBE61YqBXa_WBQB0hd3H_w7Q9EQfXKEeuQ
+/.accesshash 1 -
+/SHOP/89828509.html 1 -
+/q517-9837-31eamicrobic-fbc54--barton13966 1 -
+/q17-82c0-188a6-221meddler--barton13877/saor996751c00nrd38.php 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13855 1 -
+/blog 3 http://www.cloudwage.com/
+//javascript: 1 -
+/q517-9837-31eamicrobic-fbc54--barton13847 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13982 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13873 1 -
+/.well-known/acme-challenge/3lkK2bN8Fz3BUiwPKJzNFyM1THRmAD17hWrrG_H_DHg 1 http://www.cloudwage.com/.well-known/acme-challenge/3lkK2bN8Fz3BUiwPKJzNFyM1THRmAD17hWrrG_H_DHg
+/templates/system/css/system.css 2 -
+/.well-known/acme-challenge/eGW8Q0qYpwlrVZe9kx5u_WMhtWjFIFxhD00JD5HQJfM 1 http://www.cloudwage.com/.well-known/acme-challenge/eGW8Q0qYpwlrVZe9kx5u_WMhtWjFIFxhD00JD5HQJfM
+/admin/login.php 2 -
+/.well-known/acme-challenge/Fd5PdtvdAqDbVOpwLS7zS5g1M_gDIC-1vwA17KzQ0CY 1 http://www.cloudwage.com/.well-known/acme-challenge/Fd5PdtvdAqDbVOpwLS7zS5g1M_gDIC-1vwA17KzQ0CY
+/.well-known/acme-challenge/w8YeYyrwFqHwtlPAoz0v6Wt_yNRePqFNW8Vdm9LpkLs 1 http://www.cloudwage.com/.well-known/acme-challenge/w8YeYyrwFqHwtlPAoz0v6Wt_yNRePqFNW8Vdm9LpkLs
+/wp-admin 1 -
+/ss/index.php 3 -
+/hpgen/HPB/entries/5.html 1 -
+/.well-known/acme-challenge/BqIZ45dimFGK5Z_qtiIyk__WAV-F0t8aGE_mVAGJjj4 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13947 1 -
+/SHOP/1059375/list.html 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13828 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13834 1 -
+/q10521-821blessed-3e50-a1745--barton13961/blessed12b.html 1 -
+/q23203-c95b8d-83dmetamere-6b7ce54--barton13804/751rti9dv1t.html 1 -
+/q251-7698ff-2bf68b5-081isocracy--barton13925 1 -
+/.well-known/acme-challenge/5wHeYwnrCNsRQ06AqWlF6kVdGeMPyn2P1uzY-RjngyM 1 -
+/q531-c72isocracy-d3cadf-6815700--barton13865 1 -
+/q13-803d-688amicrobic-85d03--barton13928 1 -
+/.well-known/acme-challenge/oEwzXo0mhhbg44_62a5l8imv4VMcCK3gDycFYiE5940 1 http://www.cloudwage.com/.well-known/acme-challenge/oEwzXo0mhhbg44_62a5l8imv4VMcCK3gDycFYiE5940
+/q398-20bf3-64e3d3-0e7geomant--barton13818 1 -
+/q412-47d-6ccinfamy-f598--barton13947 1 -
+/q370-e5369-a29geomant-3b6e04--barton13873 1 -
+/q363-3daisocracy-117497-7419e19--barton13897 1 -
+/.well-known/acme-challenge/7eBuvRUsn88M81JRNx0w80zRnsZm7E21LgiYwseYbhA 1 http://www.cloudwage.com/.well-known/acme-challenge/7eBuvRUsn88M81JRNx0w80zRnsZm7E21LgiYwseYbhA
+/q251-7698ff-2bf68b5-081isocracy--barton13821 1 -
+/.well-known/acme-challenge/6trKzTFOVc4M9gTThh3O7L8p3Z9CWhBjx9E_8OPkzc4 1 -
+/q13-803d-688amicrobic-85d03--barton13944 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13836 1 -
+/.well-known/acme-challenge/2RIfdk8llyCzLSmpS3T5ruLPY1Nhqw5tTC0i6SzZ0to 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13928 1 -
+/q377-186a-b7979-9b4amicrobic--barton13942 1 -
+/.well-known/acme-challenge/lE9psqnEUT_lF1MnX543UvmzkAN7KRa_dqaqbPamwas 1 -
+/blog/xmlrpc.php 1 -
+/q26201-21c6-a51e2-393blessed--barton13830/blessedd9b.html 2 -
+/q398-20bf3-64e3d3-0e7geomant--barton13826 1 -
+/SHOP/73868/list.html 1 -
+/q517-9837-31eamicrobic-fbc54--barton13844 1 -
+/.well-known/acme-challenge/qJX97x2DchVjG2Ba8bkrmZNah9tNujdgnWdCdGJkCq0 1 -
+/.well-known/acme-challenge/g7LpTBtjtQXQXwyZjw3VSgOqEiVAQb0glf01DmhK5Tg 1 http://www.cloudwage.com/.well-known/acme-challenge/g7LpTBtjtQXQXwyZjw3VSgOqEiVAQb0glf01DmhK5Tg
+/.well-known/acme-challenge/s8_StiKrWgayqOy_AiltvS09TP-z7eZDZX3afnXyoTo 1 -
+/SHOP/73869/list.html 1 -
+/SHOP/MB002.html 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13870 1 -
+/q13-803d-688amicrobic-85d03--barton13887 1 -
+/.well-known/acme-challenge/Gae3qUTGImspBJLcWpcM9wn9Z56ILa4T5VGndsE9QBE 1 http://www.cloudwage.com/.well-known/acme-challenge/Gae3qUTGImspBJLcWpcM9wn9Z56ILa4T5VGndsE9QBE
+/.well-known/acme-challenge/2g0p2UzkdXcDoFw-B83Y9KKoriOlrTQrQMgUDYsGkxo 1 -
+/.well-known/acme-challenge/xw57xdMrFJlshponXB8FLlaC-j4OIafKtQbfWyP1GlU 1 http://www.cloudwage.com/.well-known/acme-challenge/xw57xdMrFJlshponXB8FLlaC-j4OIafKtQbfWyP1GlU
+/.well-known/acme-challenge/erPzK9SiwVlXXQanCw7H1CHgzsuq7ytadbsWiQ8izYo 1 http://www.cloudwage.com/.well-known/acme-challenge/erPzK9SiwVlXXQanCw7H1CHgzsuq7ytadbsWiQ8izYo
+/register 4 -
+/q531-c72isocracy-d3cadf-6815700--barton13872 1 -
+/byvmgxxol.html 1 -
+/.well-known/acme-challenge/Uc_5HIDsTe0MN4e7hucKSZuFOSs-6RtU0qR97uJTBFo 1 http://www.cloudwage.com/.well-known/acme-challenge/Uc_5HIDsTe0MN4e7hucKSZuFOSs-6RtU0qR97uJTBFo
+/shunen.html 1 -
+/q559-f82fc6-d39isocracy-78ff8ef--barton13977 1 -
+/.well-known/acme-challenge/w0tsC39FTte74qywllc-Cm9y5BO7SDGbpT_irYTUi3E 1 http://www.cloudwage.com/.well-known/acme-challenge/w0tsC39FTte74qywllc-Cm9y5BO7SDGbpT_irYTUi3E
+/.well-known/acme-challenge/vJ25yZpgXUjeAGTvJJyYAKtqRGBUiVFUd1FjWMfbmyI 1 http://www.cloudwage.com/.well-known/acme-challenge/vJ25yZpgXUjeAGTvJJyYAKtqRGBUiVFUd1FjWMfbmyI
+/SHOP/73866/list.html 1 -
+/q377-186a-b7979-9b4amicrobic--barton13946 1 -
+/wp/wp-login.php 2 -
+/q398-20bf3-64e3d3-0e7geomant--barton13853 1 -
+/q41-4b11-d045c-76famicrobic--barton13877 1 -
+/q13-803d-688amicrobic-85d03--barton13979 1 -
+/q13-803d-688amicrobic-85d03--barton13983 1 -
+/hpgen/HPB/entries/3.html 4 -
+/.well-known/acme-challenge/7uYzVLc4sqlUa-R6AMa5l5B6-rBK0t-hCdEreIMPVsA 1 http://www.cloudwage.com/.well-known/acme-challenge/7uYzVLc4sqlUa-R6AMa5l5B6-rBK0t-hCdEreIMPVsA
+/q503-383a5a-23373f4-245isocracy--barton13916 1 -
+/q62-60c51-c35f67-141geomant--barton13881 1 -
+/q251-7698ff-2bf68b5-081isocracy--barton13901 1 -
+/.well-known/acme-challenge/1uuGs_wpiE4-RyfM0et6fH7OMbMOdw-UJC8aNWuhcFI 1 http://www.cloudwage.com/.well-known/acme-challenge/1uuGs_wpiE4-RyfM0et6fH7OMbMOdw-UJC8aNWuhcFI
+/q377-186a-b7979-9b4amicrobic--barton13886 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13941 1 -
+/.well-known/acme-challenge/XbISg9N29U-JRv07WXygzf6X7ujsTKsrPmj9k-_JEqg 1 -
+/q503-383a5a-23373f4-245isocracy--barton13865 1 -
+/contact 2 -
+/hpgen/HPB/entries/101.html 1 -
+/.well-known/acme-challenge/-wnKFUHkLB6Zg-YiIt81tR4mqCiL1dDf_-hzAffwSaA 1 -
+/.well-known/acme-challenge/WWs7eRLeZ_H0f0XXSai7Fuijiq1HxX_5yR6NLYuFzqA 1 http://www.cloudwage.com/.well-known/acme-challenge/WWs7eRLeZ_H0f0XXSai7Fuijiq1HxX_5yR6NLYuFzqA
+/q251-7698ff-2bf68b5-081isocracy--barton13841 1 -
+/q377-186a-b7979-9b4amicrobic--barton13897 1 -
+/SHOP/TOK60305.html 1 -
+/.well-known/acme-challenge/ca9yNyK3_YfpN36SXltJm5iVzkpI17Xtd0wyqJ3v7mo 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13934 1 -
+/q517-9837-31eamicrobic-fbc54--barton13833 1 -
+/.well-known/acme-challenge/CpRCHnsi1j1I3I7figYp9zaMAz-qEq9N2jPAf653gCQ 1 http://www.cloudwage.com/.well-known/acme-challenge/CpRCHnsi1j1I3I7figYp9zaMAz-qEq9N2jPAf653gCQ
+/q251-7698ff-2bf68b5-081isocracy--barton13921 1 -
+/logincpanel 1 -
+/q518-8b02c-4ecadb-f4cfitful--barton13974/fitfulfb5.html 1 -
+/.well-known/acme-challenge/ZrS2lMR1l2CthBBW9cYYmMm5j1Y2UrC5vtmRDrZMTTM 1 http://www.cloudwage.com/.well-known/acme-challenge/ZrS2lMR1l2CthBBW9cYYmMm5j1Y2UrC5vtmRDrZMTTM
+/q398-20bf3-64e3d3-0e7geomant--barton13984 1 -
+/q251-7698ff-2bf68b5-081isocracy--barton13970 1 -
+/q517-9837-31eamicrobic-fbc54--barton13932 1 -
+/.well-known/acme-challenge/uainCACEWGe2hLZlg3HGYlk23JcpuXgX2Lrypg4OFIU 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13950 1 -
+/SHOP/73852/list.html 1 -
+/administrator 12 http://198.37.112.5:85/
+/q398-20bf3-64e3d3-0e7geomant--barton13900 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13830 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13975 1 -
+/hpgen/HPB/entries/78.html 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13819 1 -
+/q251-7698ff-2bf68b5-081isocracy--barton13873 1 -
+/q412-47d-6ccinfamy-f598--barton13855 1 -
+/shop/index.php 3 -
+/q517-9837-31eamicrobic-fbc54--barton13865 1 -
+/.well-known/acme-challenge/AgjYMG-RoloqDOBUfOn1EV8HTRG51NiJE3OJazmakAA 1 -
+/q531-c72isocracy-d3cadf-6815700--barton13968 1 -
+/SHOP/90000020.html 1 -
+/.well-known/acme-challenge/BIfORsYWkwX-dIlzGgPp_dl0XJ1kNUTjorQqXLLEzaY 1 http://www.cloudwage.com/.well-known/acme-challenge/BIfORsYWkwX-dIlzGgPp_dl0XJ1kNUTjorQqXLLEzaY
+//xmlrpc.php 1 http://www.google.com.hk
+/.well-known/acme-challenge/98cg9V1pREzfKtwZ9jbVpsDrQGgoUbKIi2blpiDXdSM 1 -
+/q370-e5369-a29geomant-3b6e04--barton13971 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13879 1 -
+/SHOP/MB004.html 1 -
+/misc/drupal.js 1 -
+/q13-803d-688amicrobic-85d03--barton13935 1 -
+/,213.136.80.121 1 -
+/.well-known/acme-challenge/9tO2EhfX4yZLX906cBNRCnEGAOLWcsju7k7cVbnIDgw 1 http://www.cloudwage.com/.well-known/acme-challenge/9tO2EhfX4yZLX906cBNRCnEGAOLWcsju7k7cVbnIDgw
+/q545-c51b-f1893-656amicrobic--barton13977 1 -
+/admin/images/cal_date_over.gif 2 -
+/q517-9837-31eamicrobic-fbc54--barton13912 1 -
+/q412-47d-6ccinfamy-f598--barton13808 1 -
+/q251-7698ff-2bf68b5-081isocracy--barton13898 1 -
+/hpgen/HPB/entries/98.html 1 -
+/q552-609infamy-fab-f7ec--barton13851 1 -
+/q377-186a-b7979-9b4amicrobic--barton13872 1 -
+/q251-7698ff-2bf68b5-081isocracy--barton13865 1 -
+/.well-known/acme-challenge/wf3mCNBlPCbC5CPjmVB3OBsBuJL4Nqz_aam2TjvHdQw 1 -
+/SHOP/89929738A.html 1 -
+/q391-d46e70-5a9isocracy-9a19402--barton13942 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13987 1 -
+/.well-known/acme-challenge/LcjedsXOO39ru_jCnoZw-8PAsvFuhrYu0_K4HI-To88 1 http://www.cloudwage.com/.well-known/acme-challenge/LcjedsXOO39ru_jCnoZw-8PAsvFuhrYu0_K4HI-To88
+/xmlrpc.php 1 -
+/SHOP/13059401S.html 1 -
+/ads.txt 1 -
+/q412-47d-6ccinfamy-f598--barton13972 1 -
+/a 1 http://cloudwage.com
+/q251-7698ff-2bf68b5-081isocracy--barton13962 1 -
+/.well-known/acme-challenge/AMeVCQ-1A8OrIXYj3UlzK1Yjq55UqoeusAz71NFUQXw 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13985 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13804 1 -
+/q251-7698ff-2bf68b5-081isocracy--barton13853 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13937 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13802 1 -
+/.well-known/acme-challenge/Fnx8-2BFbTCE5b3Di7Y7ryGbmh1xm53cEvhUEuMQMAk 1 http://www.cloudwage.com/.well-known/acme-challenge/Fnx8-2BFbTCE5b3Di7Y7ryGbmh1xm53cEvhUEuMQMAk
+/q398-20bf3-64e3d3-0e7geomant--barton13990 1 -
+/q391-d46e70-5a9isocracy-9a19402--barton13953 1 -
+/SHOP/73871/list.html 1 -
+/.well-known/acme-challenge/tpsIV7-skFCluE9VpKPJUo7-DQgVCLgwbZWZmO12N9M 1 -
+/.well-known/acme-challenge/3l0RY0ymPrSApVZHK8_P1v1WGRUFc1FjP73ppAiQRgQ 1 -
+/.well-known/acme-challenge/s7C4tEg2bZZQnO0p42R1rJ4FtBbPZwXcGNKS0sHVgCE 1 http://www.cloudwage.com/.well-known/acme-challenge/s7C4tEg2bZZQnO0p42R1rJ4FtBbPZwXcGNKS0sHVgCE
+/q412-47d-6ccinfamy-f598--barton13966 1 -
+/q31297-f478-155blessed-80017--barton13906/blesseda2b.html 1 -
+/putty.exe 23 -
+/q398-20bf3-64e3d3-0e7geomant--barton13981 1 -
+/q412-47d-6ccinfamy-f598--barton13992 1 -
+/q531-c72isocracy-d3cadf-6815700--barton13810 1 -
+/.well-known/acme-challenge/z7I9baJ0PwR-UdHzXtjQ9OpA7iKua98Oehxp-uhYVp8 1 -
+/user/register 6 -
+/feed 5 -
+/.well-known/acme-challenge/z95Es_yGq7pgWfXkgrl574wcGwSiIabz2krW6BCvXT4 1 -
+/.well-known/acme-challenge/D5aUmisy8xN3apnrHM73jZAD-px752kQyoELBxLKDsw 1 http://www.cloudwage.com/.well-known/acme-challenge/D5aUmisy8xN3apnrHM73jZAD-px752kQyoELBxLKDsw
+/q531-c72isocracy-d3cadf-6815700--barton13977 1 -
+/.well-known/acme-challenge/QlN1-xzvV01V9Tw0Gks2oTg_vLSzkjm6O0MQ5tWkszU 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13929 1 -
+/q517-9837-31eamicrobic-fbc54--barton13885 1 -
+/.well-known/acme-challenge/OH19Az6nrY3b5zo-Wp6XZPhC3gwBc0ZkmvorQjf1HV4 1 -
+/q412-47d-6ccinfamy-f598--barton13918 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13858 1 -
+/q27-0f9isocracy-b3fa42-933cefe--barton13974 1 -
+/q251-7698ff-2bf68b5-081isocracy--barton13855 1 -
+/.well-known/acme-challenge/WygXAL6a8EoSd701RizVF4jQYzNQWxwdFa5CyIfngXg 1 http://www.cloudwage.com/.well-known/acme-challenge/WygXAL6a8EoSd701RizVF4jQYzNQWxwdFa5CyIfngXg
+/hpgen/HPB/shop/policy.html 1 -
+/.well-known/acme-challenge/3xAv8xC672tmY26r0Zz7jPRl6vRANC0B6KwkuEGLT6g 1 http://www.cloudwage.com/.well-known/acme-challenge/3xAv8xC672tmY26r0Zz7jPRl6vRANC0B6KwkuEGLT6g
+/fax/fax_1.pdf 1 -
+/q13-803d-688amicrobic-85d03--barton13874 1 -
+/sunshop/index.php 3 -
+/SHOP/73865/list.html 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13811 1 -
+/.env 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13810 1 -
+/.well-known/acme-challenge/qjptfH_CsyiI9JW4apNFbsBLQtFLpVi-iFU97lEmqmM 1 -
+/.well-known/acme-challenge/A5hOptfG3m3vpERnlKLr_a82z6QmAhhuW3AtphEopBY 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13922 1 -
+/wordpress 1 -
+/usb-memory.html 1 -
+/.well-known/acme-challenge/bIkdvyWcjqqupejAPY3-mrwq1VRtyQxmGR09DXIVA1c 1 -
+/q517-9837-31eamicrobic-fbc54--barton13860 1 -
+//wp-login.php 3 -
+/SHOP/73855/list.html 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton14000 1 -
+/q370-e5369-a29geomant-3b6e04--barton13996 1 -
+/q398-20bf3-64e3d3-0e7geomant--barton13892 1 -
+/SHOP/21311708.html 1 -
+/.well-known/acme-challenge/Nt9sWdBeKXndvfl6dftwLUO7eqnahCWdMyiUv1ggMJ8 1 -
+/wordpress/wp-login.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 421
+197.248.207.206 173 357 4312139 20190516124825
+118.131.203.133 162 1206 20045604 20190519111351
+41.90.5.245 60 61 843254 20190502145200
+41.90.5.203 17 75 828808 20190502134422
+74.217.90.250 14 96 1516622 20190508120929
+176.10.99.200 9 9 50240 20190516005833
+109.70.100.27 9 9 44557 20190519002525
+212.22.178.240 8 65 988402 20190514103553
+41.215.89.118 8 36 510308 20190504190000
+41.215.59.174 8 63 775384 20190504110033
+207.102.138.158 8 64 1014566 20190508132653
+62.8.95.68 8 64 985449 20190505222946
+122.49.28.44 8 64 985233 20190514183019
+62.8.95.69 8 66 996804 20190505222957
+109.70.100.19 8 8 45142 20190516105344
+62.102.148.67 6 6 34228 20190518062930
+46.165.245.154 6 6 33670 20190516005009
+109.70.100.22 6 6 33790 20190515021732
+197.232.61.223 5 39 597893 20190513105920
+195.176.3.24 5 5 28947 20190516021342
+209.95.51.11 5 5 28162 20190515012959
+185.220.100.252 5 5 28192 20190514222320
+157.230.177.134 5 5 27340 20190513071530
+104.132.181.66 5 33 498768 20190506171456
+41.90.5.173 5 33 499869 20190506145700
+217.115.10.132 2 2 11161 20190502121346
+34.219.254.86 1 1 21317 20190508114132
+104.132.20.104 4 32 492273 20190510022829
+185.220.101.44 1 1 5650 20190508074109
+198.167.223.100 1 1 5647 20190501194315
+138.197.97.80 1 1 15379 20190504103522
+51.15.187.209 1 1 5579 20190502193842
+185.4.132.135 3 3 16553 20190516020514
+95.211.246.234 1 1 14780 20190503153106
+199.249.230.107 1 1 5632 20190507202055
+209.141.58.114 1 1 5647 20190516002128
+158.69.192.200 1 1 5651 20190516022946
+185.100.87.129 1 1 5623 20190516121251
+137.74.167.96 1 1 5643 20190504023023
+185.104.120.2 1 1 5635 20190514162933
+185.220.101.7 1 1 5633 20190514152048
+66.70.228.168 3 3 16456 20190514113234
+142.93.168.48 1 1 5613 20190502005451
+185.220.101.46 3 3 16859 20190513062924
+158.174.122.199 1 1 5597 20190504133429
+193.201.225.45 1 1 5623 20190514225859
+139.28.36.234 1 1 5619 20190514171225
+66.249.88.35 4 17 226616 20190516121646
+185.56.171.94 1 1 5652 20190506164951
+212.180.208.122 1 1 4700 20190518125425
+185.129.62.62 1 1 5617 20190515171048
+185.220.101.32 2 2 11220 20190513165447
+185.220.101.5 1 1 5598 20190513202410
+104.244.76.26 1 1 5612 20190515201231
+51.77.201.37 1 1 5243 20190510165127
+162.213.3.221 1 1 5645 20190514223848
+185.147.237.8 1 1 5649 20190513203045
+51.15.235.211 1 1 5618 20190515222329
+192.160.102.164 1 1 5591 20190514174734
+144.217.165.223 1 1 5647 20190514193135
+217.12.210.244 2 2 11301 20190513133114
+66.249.88.33 1 15 311608 20190515084629
+23.129.64.159 1 1 5659 20190505141936
+178.175.143.163 2 2 10851 20190510074640
+178.17.174.198 2 2 11215 20190514115602
+37.17.172.132 3 3 227482 20190517084248
+193.70.34.209 1 1 5642 20190518215115
+77.247.181.162 3 3 16814 20190514102300
+193.9.115.24 2 2 11222 20190515041136
+103.208.220.226 1 1 5628 20190501203311
+188.65.144.2 1 1 5637 20190508021945
+23.129.64.173 2 2 10828 20190516053040
+158.69.247.45 1 1 5581 20190502232109
+85.235.65.198 2 2 10855 20190510041251
+95.130.9.90 1 1 5631 20190512220828
+209.141.61.45 1 1 5592 20190514115456
+185.220.101.34 1 1 5648 20190519122903
+158.46.216.26 1 1 4628 20190516024901
+185.195.237.117 1 1 5648 20190502002538
+217.12.223.56 1 1 5646 20190515211014
+192.42.116.16 3 3 16946 20190506222908
+172.98.193.43 1 1 5616 20190501232839
+192.160.102.168 1 1 5652 20190515133152
+35.239.240.85 1 1 5063 20190510024325
+23.129.64.168 1 1 5608 20190515114736
+199.249.230.74 3 3 17248 20190518055551
+220.135.203.167 4 4 24375 20190514015300
+171.25.193.25 4 4 11229 20190518232932
+192.42.116.18 3 3 16927 20190516133922
+216.239.90.19 1 1 5600 20190501113110
+178.17.171.102 2 2 11268 20190505110432
+173.244.209.5 1 1 5663 20190514010138
+185.220.100.253 2 2 11243 20190507044421
+178.175.135.99 1 1 5652 20190516043155
+23.129.64.154 1 1 5649 20190501130716
+94.242.59.89 1 1 5642 20190503040818
+74.82.47.194 1 1 5238 20190509214749
+87.118.92.43 1 1 5643 20190502155415
+66.249.88.37 1 23 180576 20190515084630
+162.244.80.228 1 1 5619 20190514162528
+185.220.102.4 4 4 16482 20190509210556
+144.217.166.26 1 1 5627 20190515015912
+185.220.101.29 1 1 5246 20190511024729
+144.168.162.250 1 1 15268 20190518062917
+185.10.68.247 2 2 11252 20190515143152
+209.121.97.81 4 36 512544 20190508132734
+199.249.230.111 1 1 5581 20190516021733
+185.248.160.52 3 3 16853 20190514065715
+64.113.32.29 1 1 5645 20190507063334
+209.222.82.143 1 1 21482 20190513105805
+197.232.61.251 4 32 491753 20190507144341
+199.249.230.77 1 1 5632 20190515192754
+178.175.132.229 1 1 5639 20190514031911
+23.129.64.153 1 1 5628 20190514020302
+197.220.114.34 4 32 492620 20190513110931
+51.68.152.26 1 1 16006 20190510041116
+54.36.189.105 1 1 5578 20190506202430
+199.249.230.89 1 1 5236 20190510050921
+192.42.116.20 2 2 11286 20190516075932
+209.141.45.212 1 1 5585 20190501024858
+109.70.100.25 4 4 22443 20190518200320
+85.248.227.163 1 1 5650 20190503105249
+195.206.104.36 1 1 22298 20190502015556
+199.249.230.72 1 1 5635 20190515071509
+198.167.223.133 1 1 5610 20190502014424
+185.220.101.70 2 2 11285 20190516141745
+51.15.74.143 1 1 5633 20190514203107
+185.220.101.21 1 1 5655 20190513153441
+5.196.66.162 2 2 11263 20190508025337
+34.66.149.234 1 1 5077 20190510013907
+65.60.27.157 1 1 14799 20190518235842
+95.24.201.54 4 31 490731 20190518042652
+23.129.64.150 1 1 5634 20190516003010
+37.139.8.104 1 1 5597 20190514210412
+199.249.230.79 1 1 5618 20190518152841
+155.254.115.67 1 1 16145 20190508104246
+198.98.59.161 1 1 5654 20190516095602
+185.220.101.68 2 2 11298 20190519034640
+37.187.129.166 2 2 11179 20190515004609
+204.85.191.8 1 1 5641 20190502121317
+185.220.101.27 1 1 5606 20190507054049
+62.210.105.86 1 1 5607 20190515154329
+212.22.184.119 4 32 492684 20190513121712
+82.118.242.128 1 1 5643 20190514165554
+185.220.101.1 1 1 5620 20190515205845
+163.172.221.204 1 1 5243 20190510050537
+178.17.170.13 1 1 5629 20190514213345
+80.67.172.162 1 1 5619 20190507114307
+94.230.208.148 1 1 5631 20190514172046
+158.69.193.32 2 2 11204 20190515005223
+185.220.101.24 2 2 11198 20190518210915
+204.13.201.138 3 30 429333 20190508103905
+51.15.209.128 2 2 11233 20190507115609
+23.129.64.172 2 2 11280 20190515015756
+185.104.120.4 1 1 5568 20190507001016
+185.234.219.119 1 1 5652 20190503152801
+176.10.107.180 1 1 5611 20190507214531
+52.25.130.207 1 1 5495 20190505104327
+51.75.145.219 1 1 5637 20190503193159
+195.123.228.161 2 2 11283 20190516052155
+31.220.40.54 5 5 27751 20190516073521
+94.100.6.27 1 1 5634 20190514220009
+185.220.101.22 1 1 5626 20190501083812
+23.129.64.167 2 2 5639 20190514030623
+178.175.143.166 1 1 6039 20190518055550
+199.249.230.84 1 1 5661 20190507205030
+157.157.87.22 2 2 11234 20190519051724
+185.220.101.15 1 1 5605 20190508130212
+206.180.165.147 1 1 4716 20190503123645
+71.19.144.106 1 1 5630 20190508000323
+87.118.112.63 1 1 5607 20190506174138
+162.247.74.217 2 2 11297 20190512221500
+154.122.83.223 5 33 498706 20190507070206
+178.17.170.135 1 1 5241 20190510212300
+185.4.132.183 1 1 5626 20190516111636
+192.42.116.15 1 1 5624 20190515144911
+66.249.88.179 0 5 16839 
+5.252.176.20 1 1 5648 20190516054343
+185.220.101.65 2 2 11252 20190516084941
+199.249.230.105 1 1 5247 20190510143933
+199.249.230.110 2 2 11265 20190514190314
+82.221.128.191 1 1 5633 20190518220553
+5.135.183.25 1 1 14647 20190507111335
+14.55.235.240 1 1 5450 20190505041830
+193.56.29.101 1 1 5594 20190515121208
+163.172.12.160 1 1 5611 20190501201614
+207.244.70.35 2 2 11237 20190515054130
+104.132.20.109 4 32 492651 20190506052218
+185.107.70.202 1 1 5610 20190502134459
+51.15.53.83 1 1 5618 20190514205856
+199.249.230.104 2 2 11208 20190515125634
+93.80.167.236 1 1 20573 20190514125108
+185.195.237.118 3 3 16918 20190516041658
+199.249.230.67 1 1 5636 20190513153006
+51.77.193.218 1 1 5638 20190508063047
+103.234.220.197 1 1 5620 20190513170455
+94.140.116.190 2 2 11282 20190502042038
+199.249.230.64 2 2 11282 20190515133121
+64.27.17.140 1 1 5617 20190511000024
+71.19.148.20 1 1 5664 20190518075022
+185.165.168.168 1 1 5615 20190515154805
+94.140.116.189 2 2 11241 20190516022333
+195.206.105.217 5 5 22570 20190518055549
+87.120.36.157 1 1 5615 20190514004226
+205.185.118.10 2 2 10869 20190511181735
+51.15.95.234 1 1 5605 20190501145011
+104.244.73.126 1 1 5640 20190515014654
+62.102.148.69 1 1 5615 20190510000620
+185.248.160.231 1 1 5648 20190501235402
+185.220.101.60 2 2 10847 20190514210010
+193.169.145.194 1 1 5614 20190515050712
+31.31.77.217 1 1 6066 20190518055554
+149.202.238.204 3 3 17248 20190519081651
+109.70.100.26 1 1 5612 20190514230243
+51.77.177.194 1 1 5574 20190514153853
+199.249.230.108 2 2 11748 20190518055553
+23.226.211.94 1 1 22088 20190513105806
+192.99.0.107 1 1 5593 20190505201205
+185.220.101.13 1 1 5562 20190502194529
+89.238.165.10 1 1 5557 20190505192018
+51.77.129.159 4 32 492559 20190515125903
+185.222.202.125 1 1 0 20190503155652
+51.15.59.9 2 2 11258 20190516013418
+109.70.100.21 2 2 11240 20190516030337
+197.237.131.130 4 32 492705 20190503174738
+209.141.53.85 1 1 5218 20190511044036
+209.141.41.103 2 2 10866 20190510052307
+198.98.50.201 2 2 11232 20190514235029
+69.164.111.198 1 1 14861 20190509194111
+80.127.116.96 2 2 5663 20190519004115
+95.26.217.203 2 2 41123 20190508123034
+176.10.104.240 4 4 22449 20190515170615
+51.15.125.181 4 4 27285 20190516021232
+23.129.64.156 1 1 5611 20190513002452
+199.249.230.83 1 1 5239 20190509195654
+178.173.247.241 1 1 4611 20190502082212
+199.195.250.77 3 3 16928 20190515193501
+31.131.2.19 1 1 5606 20190514155641
+89.31.57.5 2 2 11215 20190516041235
+199.249.230.80 3 3 16483 20190518055546
+185.220.100.254 1 1 0 20190503182035
+185.220.102.6 3 3 16502 20190516060722
+77.120.113.64 2 2 11209 20190515035924
+178.175.132.230 1 1 5607 20190504103513
+199.249.230.68 1 1 5603 20190518125609
+78.109.23.2 3 3 16900 20190514223720
+54.39.148.234 1 1 5630 20190515183635
+188.214.104.146 1 1 5249 20190510162912
+162.244.83.121 1 1 5625 20190515230530
+205.185.120.227 1 1 5596 20190506194747
+35.0.127.52 1 1 5637 20190515225141
+23.129.64.151 1 1 5636 20190513141920
+199.249.230.101 3 3 16811 20190513170926
+192.42.116.26 1 1 5587 20190514214108
+162.247.73.192 1 1 5573 20190514183323
+104.194.228.240 2 2 11318 20190515013101
+66.249.88.175 1 15 238041 20190507085650
+89.144.12.17 1 1 5653 20190519022119
+167.114.228.206 1 1 4674 20190503101706
+23.129.64.169 3 3 16943 20190514125702
+178.175.143.165 1 1 5639 20190519045703
+51.15.128.3 2 2 11243 20190503190323
+66.249.88.177 3 9 224551 20190507085651
+197.248.211.134 4 32 492636 20190513105909
+5.34.183.105 1 1 5624 20190501042624
+79.172.193.32 1 1 5616 20190512150223
+185.220.101.20 1 1 5656 20190508052702
+66.146.193.33 1 1 5220 20190510085554
+178.175.148.227 1 1 5624 20190516101927
+94.230.208.147 5 5 28176 20190511131128
+137.74.169.241 1 1 5634 20190501033523
+104.244.74.165 1 1 5620 20190513121120
+23.129.64.160 1 1 5656 20190506075349
+199.249.230.102 2 2 11252 20190513131626
+23.129.64.176 1 1 5609 20190507121315
+154.79.189.135 4 32 491753 20190510115924
+159.203.164.185 1 1 15579 20190504052348
+185.220.101.28 2 2 11249 20190507131745
+38.142.140.124 4 32 492315 20190509172736
+199.249.230.85 1 1 5632 20190508013457
+119.28.31.29 1 9 78313 20190505094514
+185.86.149.233 2 2 11287 20190516003719
+87.118.116.103 3 3 17823 20190506234341
+62.210.37.82 2 2 10861 20190515191518
+154.77.19.108 1 1 5677 20190507030016
+51.38.126.229 2 2 11232 20190512125549
+23.129.64.171 2 2 11263 20190516015034
+144.217.90.68 1 1 5652 20190515161456
+192.68.11.219 3 3 16877 20190513080516
+185.220.101.67 2 2 10800 20190510125150
+178.175.143.164 3 3 16907 20190515192900
+185.104.120.5 1 1 5267 20190509232104
+197.231.221.211 3 3 16896 20190515232530
+171.25.193.77 1 1 5618 20190515144715
+128.31.0.13 1 1 5595 20190514170922
+64.74.215.174 2 16 221282 20190508120020
+54.39.151.216 1 1 5627 20190508120247
+62.113.196.49 1 1 5628 20190514151638
+192.42.116.28 1 1 5637 20190516094012
+65.155.30.101 4 32 492699 20190508114426
+185.220.101.12 2 2 11207 20190518071530
+185.177.151.34 1 1 16065 20190508104245
+185.193.125.42 1 1 5642 20190516132255
+52.59.102.42 1 1 5533 20190508104149
+185.220.102.8 2 2 11221 20190518071525
+51.15.49.134 1 1 5597 20190516015626
+185.100.85.190 1 1 5241 20190510145819
+185.220.101.25 1 1 5665 20190510002734
+87.118.110.27 2 2 11256 20190515032855
+87.118.116.90 2 2 11254 20190504201115
+195.254.134.194 1 1 5631 20190504000755
+198.96.155.3 1 1 5609 20190516030843
+23.129.64.158 1 1 5660 20190515033547
+158.69.192.239 1 1 5621 20190515204456
+79.137.79.167 1 1 5632 20190515161406
+185.220.101.62 2 2 11223 20190516043717
+51.15.106.67 1 1 5624 20190515131335
+192.42.116.14 3 3 16867 20190516000753
+64.246.165.10 1 1 5671 20190516231929
+178.175.132.227 1 1 5605 20190519061133
+104.227.246.106 2 2 30147 20190510152510
+209.141.45.167 1 1 5651 20190502014636
+43.251.159.144 1 1 5657 20190506110021
+54.37.234.66 2 2 5603 20190515152752
+46.246.65.131 1 1 5544 20190504203007
+185.220.100.255 1 1 5243 20190510220856
+185.165.169.165 2 2 11244 20190519001929
+171.25.193.235 3 3 16884 20190516050120
+109.70.100.23 3 3 16508 20190514044631
+176.126.83.211 1 1 5659 20190501131716
+62.8.67.68 4 32 492646 20190506080439
+185.220.102.7 4 4 22471 20190519125115
+185.220.101.69 3 3 16410 20190518065308
+209.141.56.103 1 1 5594 20190501001607
+51.68.174.112 1 1 0 20190503182022
+102.140.198.127 4 32 491751 20190507212338
+185.220.101.33 5 5 27703 20190516001813
+62.102.148.68 5 5 28162 20190519141113 20190519141113 /login
+185.72.244.24 1 1 5614 20190508081744
+23.129.64.155 1 1 5650 20190515214309
+193.90.12.118 1 1 5640 20190507031721
+178.175.132.228 3 3 16895 20190518165526
+103.208.220.122 1 1 5659 20190516010715
+51.15.68.66 1 1 5590 20190508060007
+77.95.229.107 1 1 5614 20190514154145
+91.213.112.119 4 4 23472 20190516030219
+197.248.90.226 5 38 530623 20190517102547
+194.71.109.44 2 2 20776 20190516081912
+51.15.117.50 2 2 11196 20190507120410
+84.209.51.186 1 1 5599 20190502224220
+109.70.100.20 3 3 16880 20190515215711
+51.15.36.100 1 1 5591 20190507091925
+104.132.181.92 4 32 492268 20190509195024
+185.104.120.60 1 1 5615 20190516000557
+196.52.84.47 1 1 16115 20190508104245
+154.76.58.93 4 32 492654 20190506072017
+23.239.22.241 2 2 11240 20190515054619
+199.249.230.118 1 1 5600 20190513061624
+199.87.154.255 1 1 5607 20190516081523
+109.70.100.24 4 4 22484 20190516103333
+195.176.3.20 1 1 5587 20190513234423
+195.123.213.211 1 1 5627 20190514224850
+54.36.222.37 1 1 5230 20190510054247
+104.244.79.53 1 1 5638 20190501010441
+94.168.35.70 1 1 5648 20190501192336
+185.244.148.126 2 2 11253 20190515220009
+82.221.131.71 2 2 11298 20190516061101
+149.202.170.60 1 1 5638 20190504124848
+171.25.193.78 2 2 10793 20190518091019
+176.31.208.193 1 1 5655 20190513174429
+199.249.230.75 2 2 11243 20190516043746
+109.70.100.18 3 3 11234 20190513182635
+85.115.52.140 2 16 220794 20190509212527
+191.177.186.145 4 32 492732 20190512223310
+34.216.107.232 1 1 21326 20190508114133
+185.89.100.225 2 2 22867 20190508040839
+89.234.157.254 2 2 11274 20190515222024
+185.14.29.189 1 1 5656 20190505051952
+185.220.101.54 1 1 5618 20190507162933
+193.169.145.202 1 1 5645 20190514035234
+46.38.235.14 1 1 5605 20190519011016
+142.44.133.83 1 1 5597 20190506235653
+5.101.220.192 2 2 22802 20190513142443
+23.129.64.175 1 1 5634 20190502041143
+144.217.71.103 3 3 52000 20190514073501
+65.19.167.132 2 2 11233 20190518143447
+62.210.202.81 1 15 108120 20190514213349
+162.247.74.204 2 2 11245 20190515215554
+144.217.166.59 3 3 16486 20190513202546
+85.248.227.164 2 2 5586 20190514224133
+18.18.248.17 1 1 5205 20190511045107
+94.23.216.223 1 1 357 20190514100339
+46.165.230.5 2 2 11244 20190516005556
+62.219.3.48 1 1 5665 20190501013015
+145.239.91.37 1 1 6028 20190518055551
+178.32.147.150 3 3 11197 20190516050847
+195.123.216.32 1 1 5640 20190504035236
+81.174.208.74 2 2 23895 20190508104245
+193.169.255.102 1 1 5678 20190512070632
+199.249.230.73 2 2 11274 20190515043202
+199.249.230.70 1 1 5654 20190508091951
+46.173.214.3 1 1 5604 20190508081024
+192.160.102.166 1 1 5580 20190515234936
+195.254.134.242 2 2 11222 20190516071314
+193.90.12.116 1 1 5645 20190501032015
+185.220.101.0 4 4 22491 20190519081351
+194.186.142.164 1 1 21213 20190514105025
+185.112.254.195 2 2 11200 20190507213038
+51.15.233.253 1 1 5626 20190507003749
+185.220.101.3 5 5 28530 20190518055547
+192.160.102.169 3 3 16097 20190515001606
+198.98.58.135 1 1 5668 20190501185323
+94.102.51.78 1 1 5619 20190514000134
+199.249.230.100 1 1 5649 20190513222728
+188.166.116.151 1 1 4663 20190517084809
+95.25.175.199 1 1 20557 20190514093742
+185.220.101.45 2 2 11269 20190516002751
+163.172.11.200 1 1 5592 20190519105512
+104.132.20.105 4 32 492684 20190506045258
+51.15.80.14 1 1 5532 20190518063612
+23.129.64.102 4 4 22055 20190516033221
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 19
+20190501 41 69 713938 38
+20190502 299 648 8311846 43
+20190503 42 70 651849 36
+20190504 33 88 944026 25
+20190505 48 316 4924368 14
+20190506 51 219 3126596 29
+20190507 58 195 2687007 42
+20190508 93 506 7809211 38
+20190509 21 91 1273017 14
+20190510 39 95 1188614 32
+20190511 44 218 3395980 19
+20190512 20 48 599686 15
+20190513 67 225 2984895 50
+20190514 131 460 6485251 84
+20190515 91 147 1363027 87
+20190516 67 88 740448 64
+20190517 34 241 4062344 4
+20190518 34 61 696433 30
+20190519 16 16 105904 16
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+15mn-30mn 5
+0s-30s 657
+2mn-5mn 4
+5mn-15mn 1
+30s-2mn 6
+30mn-1h 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 69
+/login 712 4540068 668 623
+/_debugbar/assets/javascript 88 9870344 5 21
+/_debugbar/assets/stylesheets 84 9302748 1 6
+/plugins/font-awesome/fonts/fontawesome-webfont.woff2 39 2214420 1 15
+/payroll 26 235462 0 0
+/plugins/font-awesome/fonts/fontawesome-webfont.eot 25 1518600 0 2
+/plugins/simple-line-icons/fonts/Simple-Line-Icons.eot 19 399342 0 0
+/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot 19 380950 0 0
+/plugins/font-awesome/fonts/fontawesome-webfont.ttf 18 2197656 0 0
+/allowances/1 17 150436 0 0
+/employees 16 132040 0 0
+/ 14 121767 1 0
+/payroll/0 11 94279 0 0
+/allowances 11 94302 0 0
+/payroll/create 10 89504 0 0
+/tax 10 81263 0 0
+/payment-methods 7 58841 1 0
+/employees/create 6 70509 0 0
+/advances 6 49350 0 0
+/index.php/login 6 36019 0 6
+/allowances/1/edit 4 45797 0 0
+/payroll-report 4 32147 0 0
+/tax/p9 3 212430 0 0
+/images/XKRp4oTpIv1515409809png 3 19608 0 0
+/advances/01-2019 3 24457 0 0
+/payment-structures 1 8152 0 0
+/users/2/edit 1 10302 0 0
+/loans/create 1 9344 0 0
+/employees/23/edit 1 8813 0 0
+/employee-allowances/37/edit 2 16096 0 0
+/print-payslips 1 7984 0 0
+/loans 2 15831 0 0
+/payroll/324 2 16179 0 0
+/payroll-pdfs 1 5828 0 0
+/employee-types 1 8243 0 0
+/payroll/326 1 8135 0 0
+/payroll-pdf/324 1 32199 0 0
+/eft 1 8029 0 0
+/allowances/create 1 11339 0 0
+/payroll/323 2 16167 0 0
+/payroll-pdf/323 1 32231 0 0
+/payment-methods/2 1 8146 0 0
+/payroll-pdf/326 2 64403 0 0
+/advances/create 3 24955 0 0
+/deductions 1 8241 0 0
+/payroll/325 2 16171 0 0
+/plugins/simple-line-icons/fonts/Simple-Line-Icons.woff 3 177972 0 0
+/admin/ 1 357 1 1
+/contracts 1 8193 0 0
+/employees/23 2 18746 0 0
+/employee-allowances/create 2 18635 0 0
+/payroll-pdf/322 1 32199 0 0
+/cpanel 3 101745 2 3
+/payroll/322 2 16188 0 0
+/assignments 1 8031 0 0
+/policies 3 26228 0 0
+/payroll-pdf/325 1 32204 0 0
+/grades 1 8401 0 0
+/_debugbar/open 2 6957 0 0
+/tax/p10a 2 52600 0 0
+/departments 1 1139 0 0
+/plugins/font-awesome/fonts/fontawesome-webfont.woff 2 143016 0 0
+/profile 2 14859 0 1
+/tax/p10b 2 55354 0 0
+/users 1 8340 0 0
+/payroll-generate 2 21000 0 0
+/shifts 1 8118 0 0
+/work-plans 1 8213 0 1
+/payroll-print 2 1082 0 0
+END_SIDER

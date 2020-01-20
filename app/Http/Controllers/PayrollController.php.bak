@@ -1,0 +1,403 @@
+<?php
+
+namespace App\Http\Controllers;
+
+use App\Http\Requests\PayrollRequest;
+use Carbon\Carbon;
+use DOMPDF;
+use Faker\Provider\fr_FR\Company;
+use Illuminate\Http\Request;
+
+use App\Http\Requests;
+use Illuminate\Support\Facades\App;
+use Illuminate\Support\Facades\Response;
+use Illuminate\Support\Facades\View;
+use Payroll\Models\Allowance;
+use Payroll\Models\CompanyProfile;
+use Payroll\Models\Deduction;
+use Payroll\Models\Employee;
+use Payroll\Models\EmployeeAllowance;
+use Payroll\Models\EmployeeDeduction;
+use Payroll\Models\Payroll;
+
+class PayrollController extends Controller
+{
+    /**
+     * @var Payroll
+     */
+    private $payroll;
+    /**
+     * @var Employee
+     */
+    private $employee;
+    /**
+     * @var EmployeeDeduction
+     */
+    private $employeeDeduction;
+    /**
+     * @var EmployeeAllowance
+     */
+    private $employeeAllowance;
+
+    /**
+     * PayrollController constructor.
+     *
+     * @param Payroll           $payroll
+     * @param Employee          $employee
+     * @param EmployeeDeduction $employeeDeduction
+     * @param EmployeeAllowance $employeeAllowance
+     */
+    public function __construct(Payroll $payroll, Employee $employee, EmployeeDeduction $employeeDeduction, EmployeeAllowance $employeeAllowance)
+    {
+        $this->payroll = $payroll;
+        $this->employee = $employee;
+        $this->employeeDeduction = $employeeDeduction;
+        $this->employeeAllowance = $employeeAllowance;
+    }
+
+
+    /**
+     * Display a listing of the resource.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function index()
+    {
+//        $payrollStartDate = Carbon::parse('01-04-2016');
+//        return Employee::with(['contract', 'allowance', 'deductions'])->find(3)->toJson();
+//        return Employee::with(['contract', 'deductions'])->find(3)->calculatePayroll($payrollStartDate);
+        return view('modules.payroll.payroll.index')
+            ->withPayrolls($this->payroll->distinct()->groupBy('payroll_date')->get());
+    }
+
+    /**
+     * Show the form for creating a new resource.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function create()
+    {
+        return view('modules.payroll.payroll.create')
+            ->withEmployees($this->employee->all());
+    }
+
+    /**
+     * Store a newly created resource in storage.
+     *
+     * @param  PayrollRequest  $request
+     * @return \Illuminate\Http\Response
+     */
+    public function store(PayrollRequest $request)
+    {
+        $payrollDate = Carbon::parse('01-' . $request->get('payroll_date'))->endOfMonth();
+        $employees = $this->employee->with(['contract', 'allowances', 'deductions'])
+        ->orderBy('payroll_number', ASC)
+        ->get();
+        $insertRows = array();
+
+        foreach ($employees as $employee) {
+            $insertRows[] = $employee->calculatePayroll($payrollDate);
+//            $allowances = $this->getAllowancesDeductions($employee->allowances);
+//            $contract = $employee->contract->first();
+//            $grossPay = $contract->current_basic_salary;
+//
+//            foreach ($allowances as $allowance) {
+//                $grossPay += $allowance['amount'];
+//            }
+//
+//
+//
+//
+//            $deductions = $this->getDeductions($allowances, $contract->current_basic_salary);
+//            $insertRows [] = [
+//                'employee_id' => $employee->id,
+//                'payroll_date' => $payrollEndDate,
+//                'basic_pay' => $contract->current_basic_salary,
+//                'deductions' => json_encode($deductions),
+//                'allowances' => json_encode($allowances),
+//                'reliefs' => json_encode($deductionReliefs),
+//                'created_at' => $today,
+//                'updated_at' => $today
+//            ];
+        }
+        $this->payroll->insert($insertRows);
+
+        flash('Successfully generated Payroll', 'success');
+
+        return redirect()->route('payroll.index');
+    }
+
+    private function getAllowancesDeductions($employeeAllowances)
+    {
+        // incorporate reliefs
+
+        $allowances = $this->employeeAllowance->all()->keyBy('id');
+
+        $deductions = array();
+        foreach ($employeeAllowances as $allowance) {
+            $allowanceDetails = $allowances->get($allowance->allowance_id);
+            $deductions [] = [
+                'name' => $allowanceDetails->name,
+                'amount' => (($allowance->amount * $allowanceDetails->tax_rate)/100)
+            ];
+        }
+
+        return collect($deductions);
+    }
+
+    private function getDeductions($employeeAllowances, $basicPay)
+    {
+        $grossPay = $basicPay;
+
+        foreach ($employeeAllowances as $allowance) {
+            $grossPay += $allowance['amount'];
+        }
+
+        list($nssf, $paye, $nhif) = $this->calculateBasicDeductions($grossPay);
+        $toDeduct = array();
+
+        $toDeduct [] = [
+            'name' => 'NSSF',
+            'amount' => $nssf
+        ];
+
+        $toDeduct [] = [
+            'name' => 'PAYE',
+            'amount' => $paye
+        ];
+
+        $toDeduct [] = [
+            'name' => 'NHIF',
+            'amount' => $nhif
+        ];
+
+        return collect($toDeduct);
+    }
+
+    private function calculateBasicDeductions($grossPay)
+    {
+        $deduction = Deduction::all()->keyBy('name');
+
+        $nhif = $this->calculateNHIF($grossPay, $deduction->get('NHIF'));
+        $nssf = $this->calculateNSSF($grossPay, $deduction->get('NSSF'));
+        $grossPay -= $nssf;
+        $paye = $this->calculatePAYE($grossPay, $deduction->get('PAYE'));
+
+
+        return array($nssf, $paye, $nhif);
+    }
+
+    private function calculateNSSF($amount, $deduction)
+    {
+        $slabs = $deduction->slabs->keyBy('slab_number');
+
+        $lowerEarningLimit = $slabs->get(1)->max_amount;
+        $upperEarningLimit = $slabs->get(2)->max_amount;
+
+        if ($amount <= $lowerEarningLimit) {
+
+            return $amount * 0.06;
+        }
+
+        $tier1 = $lowerEarningLimit * 0.06;
+        if ($amount <= $upperEarningLimit) {
+            $tier2 = ($amount - $lowerEarningLimit) * 0.06;
+
+            return $tier1 + $tier2;
+        }
+
+        $tier2 = ($upperEarningLimit - $lowerEarningLimit) * 0.06;
+
+        return $tier1 + $tier2;
+    }
+
+    private function calculatePAYE($amount, $deduction)
+    {
+        $slabs = $deduction->slabs->keyBy('slab_number');
+        $deduction = 0;
+
+        foreach ($slabs as $slab) {
+            $lowerLimit = $slab->min_amount == 0 ? 0 : $slab->min_amount - 1;
+            $upperLimit = $slab->max_amount;
+            $rate = $slab->rate / 100;
+
+            if ($upperLimit == 0) {
+                $deduction += ($amount - ($lowerLimit + 1)) * $rate;
+                continue;
+            }
+
+            if ($amount >= $upperLimit) {
+                $deduction += ($upperLimit - $lowerLimit) * $rate;
+                continue;
+            }
+
+            $deduction += ($amount - $lowerLimit) * $rate;
+            break;
+        }
+
+        return $deduction;
+    }
+
+    private function calculateNHIF($amount, $deduction)
+    {
+        $slab = $deduction->slabs;
+
+
+        $slabIndex = $slab->search(function ($item) use ($amount) {
+            $maxQuery = ($amount <= $item->max_amount);
+
+            if ($item->max_amount == 0) {
+                $maxQuery = true;
+            }
+
+            if ($amount >= $item->min_amount && $maxQuery) {
+                return $item;
+            }
+        });
+
+        return $slab[$slabIndex]->rate;
+    }
+
+    /**
+     * Display the specified resource.
+     *
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function show($id)
+    {
+        $currency = CompanyProfile::first()->currency;
+        if (preg_match('/-/', $id)) {
+            $month = Carbon::parse('01-'.$id)->endOfMonth()->toDateString();
+            $payrolls = $this->payroll->with('employee')->wherePayrollDate($month)->get();
+
+            return view('modules.payroll.payroll.showBulk')
+                ->withPayrolls($payrolls)
+                ->withCurrency($currency);
+        }
+
+        $payroll = $this->payroll->with('employee')->findOrFail($id);
+
+        return view('modules.payroll.payroll.show')
+            ->withPayroll($payroll)
+            ->withCurrency($currency);
+    }
+
+    public function getPDF($id)
+    {
+        $payroll = $this->payroll->with('employee')->findOrFail($id);
+        $company = CompanyProfile::first();
+
+//        $view = View::make('modules.payroll.payroll.payroll', [
+//            'company' => $company
+//        ]);
+
+        $view = view('modules.payroll.payroll.payroll')
+            ->withCompany($company)
+            ->withPayroll($payroll);
+
+//        return $v;
+
+        $pdf = new DOMPDF();
+        $pdf->set_option('enable_remote', true);
+        $pdf->load_html($view->render());
+        $pdf->set_paper('A4', 'portrait');
+
+        $pdf->render();
+
+        header('Content-Type: application/pdf');
+        return $pdf->stream('payroll.pdf', ['Attachment' => 0]);
+
+    }
+
+    public function getAllPDFs($month)
+    {
+        if (! preg_match('/-/', $month)) {
+            return redirect()->route('payroll.index');
+        }
+
+        $company = CompanyProfile::first();
+        $month = Carbon::parse('01-'.$month)->endOfMonth()->toDateString();
+        $payrolls = $this->payroll->with('employee')->wherePayrollDate($month)->get();
+
+        $view = view('modules.payroll.payroll.allPayrolls')
+            ->withCompany($company)
+            ->withPayrolls($payrolls);
+
+        $pdf = new DOMPDF();
+        $pdf->set_option('enable_remote', true);
+        $pdf->load_html($view->render());
+        $pdf->set_paper('A4', 'portrait');
+
+        $pdf->render();
+
+        header('Content-Type: application/pdf');
+        return $pdf->stream('payroll.pdf', ['Attachment' => 0]);
+
+    }
+
+    public function viewAll($month)
+    {
+        if (! preg_match('/-/', $month)) {
+            return redirect()->route('payroll.index');
+        }
+
+        $month = Carbon::parse('01-'.$month)->endOfMonth()->toDateString();
+        $payrolls = $this->payroll->with('employee')->wherePayrollDate($month)->get();
+
+        return view('modules.payroll.payroll.showPayrolls')
+            ->withPayrolls($payrolls);
+    }
+
+    /**
+     * Show the form for editing the specified resource.
+     *
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function edit($id)
+    {
+
+    }
+
+    /**
+     * Update the specified resource in storage.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function update(Request $request, $id)
+    {
+        //
+    }
+
+    /**
+     * Remove the specified resource from storage.
+     *
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function destroy($id)
+    {
+        //
+    }
+
+    /**
+     * @return mixed
+     */
+    private function getReliefs()
+    {
+        $deductionReliefs = Deduction::where('has_relief', 1)->with('relief')->get();
+        $toRelief = array();
+
+        foreach ($deductionReliefs as $deductionRelief) {
+            $toRelief [] = [
+                'name' => $deductionRelief->relief->name,
+                'amount' => $deductionRelief->relief->amount
+            ];
+        }
+
+        return $toRelief;
+    }
+}

@@ -1,0 +1,496 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201611 will be lost/reset.
+# Last config file used to build this data file was /home/cloudwage/tmp/awstats/awstats.cloudwage.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2676                
+POS_VISITOR 9363                
+POS_DAY 11659               
+POS_DOMAIN 3438                
+POS_LOGIN 3904                
+POS_ROBOT 4059                
+POS_WORMS 4491                
+POS_EMAILSENDER 4622                
+POS_EMAILRECEIVER 4765                
+POS_SESSION 12346               
+POS_SIDER 12552               
+POS_FILETYPES 4900                
+POS_DOWNLOADS 5133                
+POS_OS 6415                
+POS_BROWSER 6609                
+POS_SCREENSIZE 7230                
+POS_UNKNOWNREFERER 7304                
+POS_UNKNOWNREFERERBROWSER 7550                
+POS_ORIGIN 7768                
+POS_SEREFERRALS 7904                
+POS_PAGEREFS 8048                
+POS_SEARCHWORDS 8196                
+POS_KEYWORDS 8348                
+POS_MISC 2339                
+POS_ERRORS 8407                
+POS_CLUSTER 3760                
+POS_SIDER_404 8534                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20161201005320 19 2880 9212753999851
+FirstTime 0
+LastTime 20161130023816
+LastUpdate 20161201151418 19 0 18 0 0
+TotalVisits 89                  
+TotalUnique 56                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 57                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 18 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 21 59 8086 22 64 1209769
+1 1 1 6666 7 12 14322
+2 3 3 4919 21 70 1311358
+3 5 5 23280 21 40 123149
+4 2 2 13076 15 23 33797
+5 1 1 6538 19 76 324352
+6 3 3 4923 20 51 390401
+7 6 61 535033 21 66 377943
+8 12 96 811980 15 18 10422
+9 15 80 486679 16 19 16842
+10 23 166 1442391 21 30 79229
+11 18 171 1475556 26 109 2451761
+12 15 97 1323352 30 48 127860
+13 5 16 88605 25 98 599639
+14 25 207 1970142 20 46 151677
+15 4 31 278375 20 31 211612
+16 3 3 14718 17 52 1220151
+17 13 22 102628 28 100 515334
+18 2 2 3281 18 25 27535
+19 6 6 9854 26 32 55396
+20 1 1 1639 19 57 1211830
+21 0 0 0 15 51 1215290
+22 1 1 1638 24 59 317935
+23 4 4 16356 17 20 20792
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 19
+us 112 567 4599108
+za 31 271 2589450
+ke 13 124 1071694
+fr 7 7 11480
+ua 5 32 214856
+ca 3 3 9948
+nl 3 3 4919
+pl 2 2 3280
+lu 2 2 3283
+ru 2 2 3282
+no 1 1 1640
+de 1 15 105184
+cz 1 1 1641
+se 1 1 1642
+co 1 1 1641
+ro 1 1 1640
+ch 1 1 1640
+pt 1 1 1641
+gb 1 3 1746
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+googlebot 287 1534841 20161130230346 11
+bingpreview 286 9074342 20161129201654 0
+bot[\s_+:,\.\;\/\\-] 161 828799 20161130172025 70
+spider 109 274780 20161130191950 3
+unknown 28 672 20161127031529 28
+no_user_agent 5 19790 20161121135202 2
+checker 1 0 20161122121229 1
+netcraft 1 6666 20161117190516 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+png 41 125847 0 0
+Unknown 145 442974 0 0
+ttf 1 71696 0 0
+woff2 14 794920 0 0
+css 361 2658673 0 0
+woff 14 867088 0 0
+js 391 3605263 0 0
+txt 56 2968 0 0
+html 15 60286 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 27
+/3C611B7D13CC85D00C2C2608BC3D4B68.txt 5 0 265
+/77F4BC9EC4E90AD73A9B4AE072F7CE2E.txt 3 0 159
+/568F495E4100E88006EDAE6F65D75EFD.txt 3 0 159
+/54357E46DBE15B639BA9E91D1F318193.txt 3 0 159
+/7A16C059B09BE2843A4AAA11127181DB.txt 3 0 159
+/B0190B0EBEEBCDB21130C5D32A8258CA.txt 3 0 159
+/A127857EAC9B07722CB6C24D742A9032.txt 3 0 159
+/63B0A13919C673320C1BFEB44CFD0359.txt 3 0 159
+/6AFC847A0812BBD6A412896C9ECB8123.txt 3 0 159
+/A313872D1C0809EBCCDC88EE6C20DFE6.txt 2 0 106
+/EBF45F223F94A8021CB794C0A01CC7EA.txt 2 0 106
+/37DC08816E1BA636C31984146F5FA50C.txt 2 0 106
+/AEC9E67C5D56A5F4359F4DE0EF54928B.txt 2 0 106
+/A0767206FCE82693AFA4ED7A1EB0A89B.txt 2 0 106
+/A54C245A2DFB9E2DB90A81B6AEBFBF27.txt 2 0 106
+/D542C02916D87414731DD271652F5D1E.txt 2 0 106
+/71A33E0D879D7EE6C23CE933381DED90.txt 2 0 106
+/9464582051E861492674818757576AA3.txt 2 0 106
+/BB998D6DBCA100F106E50F4548C4F164.txt 1 0 53
+/C50E657BDECDB633C5B9AF4817B90F15.txt 1 0 53
+/BB6B84121F40C836058CE1318C98C4DB.txt 1 0 53
+/251C788581A64867F4F321328994E084.txt 1 0 53
+/DC6CD705E228BEB6A4385DC8731761F5.txt 1 0 53
+/85DCB2E5B580200C2B09253BAE6D451D.txt 1 0 53
+/C0E3B13F96FEFA801AC1F1D72556BEB1.txt 1 0 53
+/284FB62B409C362BCF5D85B70376E6CD.txt 1 0 53
+/2666345F2F1972D37E796D894618A069.txt 1 0 53
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+macosx 114 10
+winxp 2 2
+blackberry 1 1
+Unknown 86 30
+winnt 20 20
+win7 10 10
+win2003 12 3
+winlong 32 5
+linux 722 92
+win8.1 39 16
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 29
+blackberry 1 1
+firefox14.0.1 1 1
+chrome31.0.1650.57 2 2
+firefox3.6.3 4 4
+safari 30 2
+msie7.0 10 1
+chrome34.0.1847.116 28 1
+chrome49.0.2623.75 1 1
+chrome14.0.794.0 1 1
+chrome27.0.1453.90 1 1
+msie6.0 1 1
+firefox31.0 1 1
+chrome13.0.782.41 1 1
+chrome40.0.2214.115 17 3
+netscape 1 1
+mozilla 30 3
+chrome11.0.696.71 3 3
+chrome54.0.2840.99 19 10
+Unknown 85 29
+chrome54.0.2840.100 261 37
+firefox48.0 1 1
+chrome52.0.2743.116 18 18
+chrome49.0.2623.87 1 1
+chrome54.0.2840.90 397 46
+opera8.50 1 1
+firefox28.0 6 6
+chrome39.0.2171.95 1 1
+chrome11.0.652.0 1 1
+chrome54.0.2840.98 114 10
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+COMODO_DCV 20161120004220
+python-requests/2.12.1 20161119195819
+Cpanel-HTTP-Client/1.0 20161120004003
+Go-http-client/1.1 20161108121825
+Mozilla 20161126191151
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+COMODO_DCV 20161120004220
+python-requests/2.12.1 20161119195819
+Cpanel-HTTP-Client/1.0 20161120004003
+Go-http-client/1.1 20161108121825
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 94 200
+From1 0 0
+From2 0 0
+From3 0 0
+From4 95 838
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+404 33 139500
+302 260 90692
+206 2 46899
+301 6 1415
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 19
+/xmlrpc.php 1 -
+/wp-includes/js/tw-sack.js 1 -
+/wp-login.php 8 -
+/wp-admin/admin-ajax.php 2 -
+/a 2 -
+/feed/magpie_debug.php 1 http://cloudwage.com/feed/magpie_debug.php
+/admin.php 2 -
+/blog/xmlrpc.php 1 -
+/administrator 1 -
+/blog 2 http://cloudwage.com/blog/
+/mobile 1 -
+/giftcertificates.php 1 http://CLOUDWAGE.COM/giftcertificates.php
+/pub/errors/design.xml 1 -
+//wp-login.php 1 -
+/m 1 -
+/js/mage/cookies.js 1 -
+/administrator/index.php 3 -
+/cgi-bin/ 2 -
+/products/gift-card 1 http://CLOUDWAGE.COM/products/gift-card
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 57
+196.207.135.48 31 271 2589450 20161118142750
+104.168.149.245 27 81 4590 20161120004003
+66.249.93.46 23 143 1192789 20161122115629
+66.249.93.50 21 134 1230273 20161122115621
+66.249.93.48 16 120 896487 20161122115631
+197.248.207.206 13 124 1071694 20161123105936
+52.53.203.24 2 30 280453 20161102112315
+195.123.209.184 2 2 8180 20161122163308
+69.58.178.57 2 2 13332 20161104034859
+188.165.29.82 2 2 3279 20161126135048
+54.81.135.230 2 29 275094 20161128150330
+212.117.180.130 2 2 3283 20161129122755
+178.217.187.39 2 2 3280 20161125183451
+64.79.100.42 2 2 3291 20161126191151
+167.114.233.118 1 1 6666 20161120032330
+185.89.100.74 1 1 1640 20161130023816
+37.187.129.166 1 1 1639 20161127153355
+148.62.14.64 1 1 1639 20161104024635
+213.136.78.176 1 15 105184 20161121105335
+54.81.28.90 1 1 6538 20161116044355
+46.166.148.177 1 1 1641 20161105140152
+171.25.193.77 1 1 1642 20161117191440
+104.238.180.234 1 1 6538 20161112235503
+162.242.156.106 1 1 1642 20161128175645
+77.109.139.87 1 1 1640 20161109093834
+94.23.75.242 1 1 1640 20161109234446
+188.128.123.6 1 1 1641 20161129005911
+158.69.25.178 1 1 1642 20161107155740
+54.81.237.221 1 1 6538 20161101235829
+64.113.32.29 1 1 1639 20161111121234
+192.154.110.18 1 1 1641 20161111065310
+54.166.216.232 1 1 6538 20161124160620
+104.156.231.254 1 1 6538 20161104042017
+75.149.221.170 1 1 6538 20161119054903
+148.62.14.107 1 1 1647 20161102121627
+93.115.95.206 1 1 1640 20161112060739
+83.223.165.180 1 1 1641 20161117085910
+193.90.12.87 1 1 1640 20161110024929
+54.194.32.12 1 1 1641 20161119195819
+149.202.98.160 1 1 1639 20161110193507
+91.210.147.123 1 1 1641 20161103191707
+38.100.21.69 1 10 642139 20161119123510
+149.202.127.215 1 1 1642 20161111061559
+46.166.148.156 1 1 1640 20161119001605
+217.174.252.64 1 1 1640 20161110233413
+162.247.72.199 1 1 1639 20161121205108
+186.119.117.235 1 1 1641 20161102174724
+72.52.75.27 1 1 1639 20161115142708
+23.254.201.189 1 1 1639 20161108001514
+83.217.27.244 1 1 1641 20161124035257
+91.199.212.132 0 2 106 
+185.38.14.215 1 1 1638 20161123221313
+54.198.146.20 1 1 6666 20161103013740
+192.160.102.164 1 1 1640 20161114123414
+176.31.149.121 1 1 1641 20161119181649
+185.28.193.98 1 1 1641 20161108121825
+134.249.159.113 1 28 203395 20161110033248
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20161101 1 1 6538 1
+20161102 4 32 283741 3
+20161103 2 2 8307 2
+20161104 6 34 287233 5
+20161105 6 33 274822 3
+20161107 1 1 1642 1
+20161108 3 3 4921 3
+20161109 2 2 3280 2
+20161110 4 4 6560 4
+20161111 3 3 4922 3
+20161112 2 2 8178 2
+20161113 1 1 1640 1
+20161114 26 101 571819 7
+20161115 24 143 1118881 8
+20161116 6 12 10330 4
+20161117 10 71 537179 6
+20161118 36 310 2855691 5
+20161119 8 23 654109 6
+20161120 4 12 7282 2
+20161121 3 17 108462 3
+20161122 12 69 566776 4
+20161123 12 95 807601 3
+20161124 2 2 8179 2
+20161125 1 1 1640 1
+20161126 3 3 4930 2
+20161127 1 1 1639 1
+20161128 3 57 478490 2
+20161129 2 2 3283 2
+20161130 1 1 1640 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 4
+30mn-1h 7
+5mn-15mn 3
+0s-30s 72
+1h+ 1
+15mn-30mn 1
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 52
+/login 75 182853 67 55
+/ 15 60286 4 4
+/plugins/font-awesome/fonts/fontawesome-webfont.woff2 14 794920 4 4
+/images/WEB5bmi28O1476454355png 11 131681 2 2
+/plugins/simple-line-icons/fonts/Simple-Line-Icons.woff 11 652564 0 3
+/employees 7 26806 0 2
+/plugins/font-awesome/fonts/fontawesome-webfont.woff 3 214524 0 1
+/payment-structures 3 11297 0 2
+/employees/create 3 19233 0 1
+/deductions 2 7680 0 2
+/employees/2 2 8718 0 1
+/departments 2 1814 0 0
+/employees/1 2 9188 1 1
+/19877.BIN_AUTOSSL_CHECK_PL__.lFjXZffS.cpaneldcv 1 64 1 0
+/9616.BIN_AUTOSSL_CHECK_PL__.S3zsEFNq.cpaneldcv 1 64 0 1
+/plugins/font-awesome/fonts/fontawesome-webfont.ttf 1 71696 0 1
+/2154.BIN_AUTOSSL_CHECK_PL__.xFxRO9xr.cpaneldcv 1 64 1 0
+/8386.BIN_AUTOSSL_CHECK_PL__.cP6dM4Kd.cpaneldcv 1 64 1 0
+/9616.BIN_AUTOSSL_CHECK_PL__.xsxBYsqY.cpaneldcv 1 64 0 0
+/29081.BIN_AUTOSSL_CHECK_PL__.M84IK7od.cpaneldcv 1 64 0 0
+/allowances/2 1 3968 0 0
+/deductions/2 1 4767 1 1
+/3573.BIN_AUTOSSL_CHECK_PL__.fT1vadmo.cpaneldcv 1 64 0 1
+/shifts 1 3705 1 0
+/departments/create 1 672 0 0
+/2154.BIN_AUTOSSL_CHECK_PL__.lSVRHY1C.cpaneldcv 1 64 0 0
+/29081.BIN_AUTOSSL_CHECK_PL__.LsXeIJ2Z.cpaneldcv 1 64 0 1
+/deductions/3 1 4412 0 0
+/13227.BIN_AUTOSSL_CHECK_PL__.NnKYDJ09.cpaneldcv 1 64 1 0
+/13227.BIN_AUTOSSL_CHECK_PL__.8AcrF4Et.cpaneldcv 1 64 0 0
+/2511.BIN_AUTOSSL_CHECK_PL__.7dqEzoan.cpaneldcv 1 64 1 0
+/work-plans 1 3696 1 1
+/3573.BIN_AUTOSSL_CHECK_PL__.MRm0o5O8.cpaneldcv 1 64 0 0
+/3082.BIN_AUTOSSL_CHECK_PL__.khXK18Ms.cpaneldcv 1 64 0 0
+/19877.BIN_AUTOSSL_CHECK_PL__.ssCXX3mh.cpaneldcv 1 64 0 0
+/29081.BIN_AUTOSSL_CHECK_PL__.BRTkkb10.cpaneldcv 1 64 1 0
+/users 1 3690 0 0
+/allowances 1 3768 0 0
+/grades 1 3861 0 1
+/employees/2/edit 1 3983 0 0
+/13227.BIN_AUTOSSL_CHECK_PL__.Dvj5rrlZ.cpaneldcv 1 64 0 1
+/3082.BIN_AUTOSSL_CHECK_PL__.JkIlItiQ.cpaneldcv 1 64 0 0
+/3573.BIN_AUTOSSL_CHECK_PL__.TGeCquvt.cpaneldcv 1 64 0 0
+/2154.BIN_AUTOSSL_CHECK_PL__.B6xNXRcm.cpaneldcv 1 64 0 0
+/19877.BIN_AUTOSSL_CHECK_PL__.N_h3txJj.cpaneldcv 1 64 0 1
+/users/create 1 5454 1 0
+/9616.BIN_AUTOSSL_CHECK_PL__.8xAUwXml.cpaneldcv 1 64 1 0
+/2511.BIN_AUTOSSL_CHECK_PL__.7cgnB1IC.cpaneldcv 1 64 0 0
+/2511.BIN_AUTOSSL_CHECK_PL__.NIh2qnte.cpaneldcv 1 64 0 1
+/8386.BIN_AUTOSSL_CHECK_PL__.damQS51F.cpaneldcv 1 64 0 1
+/8386.BIN_AUTOSSL_CHECK_PL__.bOL9gLlB.cpaneldcv 1 64 0 0
+/3082.BIN_AUTOSSL_CHECK_PL__.OAXycSLg.cpaneldcv 1 64 0 0
+END_SIDER

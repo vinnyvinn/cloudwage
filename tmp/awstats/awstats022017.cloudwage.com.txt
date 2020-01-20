@@ -1,0 +1,507 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201702 will be lost/reset.
+# Last config file used to build this data file was /home/cloudwage/tmp/awstats/awstats.cloudwage.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2690                
+POS_VISITOR 9178                
+POS_DAY 11986               
+POS_DOMAIN 3478                
+POS_LOGIN 4024                
+POS_ROBOT 4179                
+POS_WORMS 4668                
+POS_EMAILSENDER 4799                
+POS_EMAILRECEIVER 4942                
+POS_SESSION 12602               
+POS_SIDER 12796               
+POS_FILETYPES 5077                
+POS_DOWNLOADS 5344                
+POS_OS 5664                
+POS_BROWSER 5898                
+POS_SCREENSIZE 6662                
+POS_UNKNOWNREFERER 6736                
+POS_UNKNOWNREFERERBROWSER 6887                
+POS_ORIGIN 7116                
+POS_SEREFERRALS 7257                
+POS_PAGEREFS 7431                
+POS_SEARCHWORDS 7770                
+POS_KEYWORDS 8040                
+POS_MISC 2353                
+POS_ERRORS 8235                
+POS_CLUSTER 3880                
+POS_SIDER_404 8384                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170301004029 20 3833 12187826721337
+FirstTime 20170201000610
+LastTime 20170228201703
+LastUpdate 20170301150605 20 0 19 0 0
+TotalVisits 82                  
+TotalUnique 64                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 72                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 24 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 8 36 366653 15 40 195726
+1 14 82 1101794 18 23 13734
+2 9 9 101575 20 27 46305
+3 8 19 203368 21 24 30795
+4 8 8 115231 18 48 220711
+5 9 64 569871 13 16 39742
+6 17 88 1068964 24 30 37234
+7 11 39 595203 29 34 152523
+8 18 101 906052 26 64 323811
+9 31 200 2001786 37 132 2574122
+10 11 11 146281 23 26 56355
+11 10 66 617463 21 84 2928097
+12 37 123 1259351 47 51 121498
+13 11 82 767036 22 76 707184
+14 6 34 515722 17 46 220428
+15 9 9 46941 11 31 163116
+16 9 37 296807 32 69 363140
+17 9 66 785433 13 46 309148
+18 4 4 9819 10 42 339788
+19 3 26 183427 19 23 49042
+20 6 41 362352 18 27 42786
+21 7 35 502466 19 38 216634
+22 0 0 0 18 90 829268
+23 9 57 2034273 21 53 461267
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 23
+ca 76 76 1089473
+za 66 294 2902330
+us 52 300 3715489
+br 14 126 1771569
+ru 12 98 1175418
+gb 6 48 1358589
+ke 6 62 534816
+sg 4 32 283925
+id 4 60 546361
+nl 4 4 9524
+it 3 31 287178
+ch 3 31 287179
+cn 3 3 14713
+vn 2 30 280453
+ua 1 1 14470
+sc 1 7 35966
+se 1 1 4501
+ro 1 1 1641
+sk 1 1 6538
+mm 1 28 203394
+fr 1 1 14259
+in 1 1 5649
+hk 1 1 14433
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+bingpreview 317 7330196 20170227185024 0
+googlebot 187 1203107 20170228201802 10
+bot[\s_+:,\.\;\/\\-] 111 572216 20170227185020 49
+spider 87 419589 20170228205757 2
+google[_+\s]web[_+\s]preview 32 491647 20170207094024 0
+unknown 21 504 20170228081645 21
+netcraft 5 76127 20170208235103 0
+no_user_agent 2 14081 20170203142344 1
+checker 2 48 20170220182818 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+html 8 45049 0 0
+js 456 3923112 0 0
+txt 12 669 0 0
+ttf 9 645264 0 0
+png 41 172938 0 0
+svg 2 119946 0 0
+eot 6 203624 0 0
+Unknown 222 4550152 0 0
+woff2 12 681360 0 0
+css 462 3776118 0 0
+woff 7 439636 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 6
+/88CA8D982606DC72DC885A31FB9A06AD.txt 6 0 318
+/0C50EE2C71DE8D6BCB47499C677D4644.txt 2 0 106
+/FA5FB1DCA78EFF331480F2D50F82938E.txt 1 0 53
+/140DBA9667B734529EEFAA4FA99A2450.txt 1 0 64
+/3F7E825B94C9054A6F90BAA2B8F28CA3.txt 1 0 64
+/D884D054EBA259D7B00133C4A1CA4037.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+winxp 114 17
+macosx7 1 1
+winunknown 30 2
+winlong 2 2
+win2003 86 77
+Unknown 12 0
+win7 455 51
+macosx6 2 2
+linux 457 90
+linuxandroid 37 9
+win8.1 32 4
+winnt 8 8
+macosx 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 35
+chrome53.0.2785.124 33 5
+firefox51.0 60 4
+chrome56.0.2924.76 139 24
+firefox3.0.1 5 5
+chrome41.0.2228.0 31 3
+msie11.0 1 1
+chrome13.0.782.24 1 1
+firefox48.0 1 1
+chrome27.0.1453 32 4
+msie5.5 1 1
+chrome36.0.1985.143 143 14
+chrome47.0.2526.111 64 8
+chrome41.0.2272.96 2 2
+chrome27.0.1453.90 3 3
+chrome32.0.1700.107 91 8
+chrome55.0.2883.87 1 1
+chrome44.0.2403.125 2 2
+chrome35.0.1916.153 124 79
+chrome52.0.2743.116 4 4
+msie9.0 8 1
+chrome40.0.2214.115 3 3
+chrome49.0.2623.75 4 4
+android 2 2
+chrome40.0.2214.93 1 1
+chrome56.0.2924.87 307 55
+msie8.0 109 12
+chrome45.0.2454.101 1 1
+firefox14.0.1 1 1
+firefox49.0 31 3
+Unknown 13 1
+firefox1.0 1 1
+firefox3.6.3 1 1
+chrome34.0.1847.116 1 1
+msie7.0 10 1
+chrome37.0.2062.120 6 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Cpanel-HTTP-Client/1.0 20170204011605
+COMODO_DCV 20170204011659
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+COMODO_DCV 20170204011659
+python-requests/2.3.0_CPython/3.4.0_Linux/4.4.35-33.55.amzn1.x86_64 20170219060034
+Cpanel-HTTP-Client/1.0 20170204011605
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 128 156
+From1 1 1
+From2 5 5
+From3 21 21
+From4 109 1054
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 2 2
+yandex 2 2
+ask 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+http://top10-way.com/try.php 12 12
+http://burger-imperia.com 4 4
+http://1-free-share-buttons.com 2 2
+http://hundejo.com 1 1
+http://anonymizeme.pro/go/hide.cgi 1 1
+http://pizza-tycoon.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+login+to+your+account+remember+me+forgot+your+password%3f+no+worries+click+here+to+reset+your+password.+%c2%a9+2017 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 16
+your 3
+to 2
+me 1
+no 1
+remember 1
+here 1
+2017 1
+login 1
+account 1
+%c2%a9 1
+worries 1
+click 1
+forgot 1
+password%3f 1
+password. 1
+reset 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+500 2 8970
+302 299 103064
+404 44 212699
+206 1 4489
+405 1 4485
+301 5 1232
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 18
+/login/N0Wccvvd333.php 5 -
+//wp-login.php 2 -
+/login/wp-login.php 2 -
+/login/user 2 -
+/login/sites/default/settings 2 -
+/login/wp-config.php 2 -
+/login/configuration.php 2 -
+/a 1 -
+/administrator/index.php 1 -
+/login/vmskdl44rededd 6 -
+/admin.php 1 -
+/login/administrator 2 -
+/_debugbar/assets/stylesheets 3 -
+/login/sites/cloudwage.com/settings 2 -
+/wp-login.php 4 -
+/plugins/jquery-file-upload/server/php 1 -
+/login/N0WaY/N0WaY1bb2/N0WaY123.php 4 -
+/_debugbar/assets/javascript 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 72
+158.69.27.74 76 76 1089473 20170201123045
+196.207.135.93 66 294 2902330 20170228163344
+95.221.221.192 6 49 697399 20170204065736
+66.249.93.50 5 37 319002 20170227115223
+66.249.93.46 5 47 394498 20170223095452
+66.249.82.112 4 12 334647 20170202125435
+187.3.19.18 4 32 507556 20170205072517
+92.0.20.52 4 32 507535 20170208230710
+41.215.137.246 4 32 269093 20170220133417
+167.250.164.59 4 32 507544 20170203142926
+189.61.146.67 4 32 507554 20170205012412
+144.217.80.113 4 4 9488 20170224180317
+128.204.40.87 4 47 469840 20170216130937
+201.34.185.174 4 32 507545 20170209012524
+66.249.93.48 3 40 366742 20170227115226
+1.55.249.204 2 30 280453 20170215052634
+45.32.152.141 2 30 265729 20170215082006
+218.241.108.92 2 2 13076 20170217143517
+112.215.65.206 2 30 265722 20170223164106
+182.50.151.36 2 2 3283 20170222165252
+216.218.222.11 2 2 3280 20170227235441
+62.212.73.49 2 2 6241 20170222072324
+107.6.20.200 2 2 3282 20170222125049
+64.233.173.19 2 13 83506 20170206215720
+69.58.178.58 2 2 29237 20170204042335
+109.87.36.111 1 1 14470 20170203091201
+46.101.2.35 1 1 1641 20170228150504
+66.249.82.114 0 10 88097 
+117.216.30.230 1 1 5649 20170201155503
+45.32.130.87 1 1 6538 20170221023651
+85.143.219.211 1 1 1641 20170228063123
+200.163.149.194 1 12 103090 20170206030357
+51.255.83.13 1 1 14259 20170208034430
+176.10.104.240 1 1 6538 20170221202030
+54.219.181.188 1 1 1640 20170220145645
+104.156.230.231 1 1 6538 20170212185124
+46.166.148.142 1 1 1642 20170227180408
+104.168.149.245 0 9 510 
+40.77.167.119 0 2 21826 
+216.55.138.211 2 2 14267 20170202125425
+66.249.82.110 0 10 84616 
+222.164.49.34 2 30 280642 20170223061251
+40.77.167.63 0 3 6872 
+41.220.96.218 1 7 35966 20170227194305
+109.163.234.4 1 1 1641 20170228063120
+207.158.58.79 1 1 6538 20170222165105
+207.46.13.156 0 1 9745 
+35.162.192.80 1 1 6666 20170212162440
+64.233.173.20 2 12 237686 20170206215642
+34.250.133.17 1 1 6538 20170212122215
+91.199.212.132 0 3 159 
+41.212.112.34 2 30 265723 20170216094052
+34.249.107.128 1 1 4522 20170208020503
+52.73.104.152 1 1 1640 20170219060034
+170.239.96.2 2 30 280641 20170222202324
+64.233.173.18 1 8 172101 20170206215641
+186.248.85.194 1 18 145824 20170226193202
+62.24.252.133 2 13 850895 20170208230742
+192.36.27.6 1 1 4501 20170204022319
+36.75.67.154 2 30 280639 20170214094601
+85.248.227.163 1 1 6538 20170228201703
+137.74.167.96 1 1 14433 20170207202133
+52.205.74.100 1 1 0 20170203183612
+104.207.150.177 1 1 14331 20170203202105
+93.100.131.49 1 1 6538 20170219085349
+38.100.21.65 1 10 672563 20170215235442
+84.223.86.154 2 30 280640 20170218003453
+122.114.105.43 1 1 1637 20170222190606
+192.169.151.205 1 1 33872 20170224101729
+157.55.39.220 0 1 1428 
+79.137.85.189 1 1 6538 20170216160622
+122.248.109.209 1 28 203394 20170223052830
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 24
+20170201 77 77 1095122 2
+20170202 21 107 1357127 3
+20170203 16 101 1321778 5
+20170204 9 64 731806 3
+20170205 8 64 1015110 2
+20170206 7 46 600983 5
+20170207 3 3 23630 3
+20170208 10 49 1386365 6
+20170209 4 32 507545 1
+20170212 3 3 19742 3
+20170214 3 31 282278 2
+20170215 12 132 1755391 5
+20170216 8 79 748639 4
+20170217 4 32 273906 3
+20170218 2 30 280640 1
+20170219 2 2 8178 2
+20170220 6 34 272373 3
+20170221 2 2 13076 2
+20170222 9 37 297019 6
+20170223 10 148 1283129 6
+20170224 2 2 35511 2
+20170226 1 25 185695 1
+20170227 6 40 306613 5
+20170228 39 97 756212 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+0s-30s 72
+2mn-5mn 1
+5mn-15mn 2
+1h+ 2
+30mn-1h 1
+30s-2mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 36
+/login 157 1437118 74 50
+/plugins/font-awesome/fonts/fontawesome-webfont.woff2 12 681360 1 6
+/_debugbar/assets/javascript 11 1470934 1 5
+/_debugbar/assets/stylesheets 11 1301605 2 0
+/plugins/font-awesome/fonts/fontawesome-webfont.ttf 9 645264 0 6
+/payroll 7 28855 1 1
+/ 7 44642 1 1
+/payroll/0 7 27246 0 1
+/plugins/simple-line-icons/fonts/Simple-Line-Icons.woff 5 296620 0 2
+/images/WEB5bmi28O1476454355png 5 59855 1 1
+/payroll/create 3 17327 0 0
+/coinage 2 26463 0 1
+/plugins/font-awesome/fonts/fontawesome-webfont.eot 2 121488 0 0
+/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot 2 40100 0 2
+/plugins/font-awesome/fonts/fontawesome-webfont.woff 2 143016 0 2
+/plugins/simple-line-icons/fonts/Simple-Line-Icons.eot 2 42036 0 0
+/payroll/8 1 3536 0 0
+/employees 1 8077 0 0
+/plugins/jquery-file-upload/ 1 407 0 1
+/payroll-pdf/8 1 17734 0 0
+/tax 1 8089 0 0
+/template 1 54 0 0
+/payment-methods 1 8010 0 0
+/payroll/9 1 3546 0 0
+/payroll-pdf/9 1 20679 0 0
+/payroll-generate 1 5867 0 0
+/users 1 8057 0 0
+/coinage/create 1 3845 0 0
+/cpanel 1 33872 1 1
+/payroll-report 1 3749 0 0
+/payment-methods/3/edit 1 8859 0 1
+/employees/3 1 8960 0 1
+/payroll/10 1 3564 0 0
+/policies 1 8615 0 0
+/payment-methods/3 1 7902 0 0
+/payroll-pdf/10 1 17734 0 0
+END_SIDER

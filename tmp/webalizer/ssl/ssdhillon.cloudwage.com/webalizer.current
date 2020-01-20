@@ -1,0 +1,579 @@
+# Webalizer V2.23-08 Incremental Data - 05/18/2019 11:38:33
+2019 5 18 11 38 33
+1689 1430 22 132 62 4 17872365 695 30 0
+1 1 352 2 18
+0 0 0 0 0 0
+490 418 4664133 3 245 6
+902 758 10449532 5 306 6
+117 100 668384 1 69 1
+4 1 904 4 2 2
+2 0 631 2 2 2
+50 45 313579 3 23 4
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+38 33 360746 3 11 2
+0 0 0 0 0 0
+79 74 1412529 1 32 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 1 904 4 2 2
+2 0 631 2 2 2
+1 0 392 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+109 101 1588853 44
+184 123 1150322 87
+352 296 5658980 56
+273 244 2254383 131
+526 462 4381486 260
+0 0 0 0
+188 159 2188241 86
+41 40 642142 22
+2 0 488 1
+2 2 4615 1
+2 1 416 1
+2 1 416 1
+0 0 0 0
+2 1 416 1
+4 0 1119 3
+2 0 488 1
+0
+0
+0
+1430
+0
+0
+0
+0
+0
+2
+0
+10
+151
+0
+93
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+# -urls- 
+/contracts/69/edit
+0 1 8319045105058736492 9911 0 0
+/plugins/moment.min.js
+0 6 0 44516 0 0
+/plugins/datatables/media/js/jquery.dataTables.min.js
+0 6 0 104892 0 0
+/loans/03-2019
+0 1 0 8511 0 0
+/payroll-generate
+0 17 0 177994 0 0
+/admin/pages/scripts/login.js
+0 1 0 1428 0 0
+/loans/04-2019
+0 16 0 132911 0 0
+/employees
+0 20 0 250470 0 2
+/contracts/60/edit
+0 1 0 9936 0 0
+/contracts/66/edit
+0 1 0 9908 0 0
+/payroll-pdfs
+0 9 0 2863649 2 0
+/contracts/71/edit
+0 1 0 9893 0 0
+/contracts/44/edit
+0 1 0 9927 0 0
+/admin/layout4/scripts/layout.js
+0 7 0 17490 0 0
+/employees/64
+0 3 0 28409 0 0
+/admin/layout4/css/custom.css
+0 7 0 915 0 0
+/images/smalllogo.jpg
+0 8 0 12192 0 0
+/payroll-pdf/1193
+0 1 0 32504 0 0
+/plugins/bootstrap-modal/css/bootstrap-modal.css
+0 48 0 54556 0 0
+/loans/22/edit
+0 1 0 10815 0 0
+/loans/17/edit
+0 1 0 10831 0 0
+/plugins/fullcalendar/fullcalendar.min.css
+0 10 0 19904 0 0
+/admin/layout4/scripts/demo.js
+0 1 0 2112 0 0
+/payroll/1193
+0 2 0 16325 0 0
+/payroll
+0 110 0 2043076 0 3
+/css/plugins.css
+0 9 6911900856110428213 60459 0 0
+/contracts/65/edit
+0 1 3329344302944878592 9923 0 0
+/advances
+0 27 7885630523704763762 251705 0 0
+/payroll-report
+0 22 4120848828841865517 178623 0 0
+/assignments
+0 1 8100005404802547712 10448 0 0
+/plugins/bootstrap-toastr/toastr.min.css
+0 21 3343207377014973039 50445 0 0
+/plugins/select2/select2.png
+0 5 0 2930 0 0
+/admin/pages/scripts/tasks.js
+0 7 0 1195 0 0
+/img/portlet-remove-icon-white.png
+0 22 0 5720 0 0
+/plugins/simple-line-icons/simple-line-icons.min.css
+0 80 0 168558 0 0
+/payroll-pdf/1270
+0 1 0 31776 0 0
+/admin/layout4/scripts/quick-sidebar.js
+0 6 0 5864 0 0
+/employees/65/edit
+0 1 0 8844 0 0
+/plugins/jquery.blockui.min.js
+0 7 0 17625 0 0
+/employees/17
+0 1 0 9644 0 0
+/payroll-print
+0 18 0 145133 1 4
+/plugins/uniform/jquery.uniform.min.js
+0 7 0 15175 0 0
+/deductions/1
+0 1 0 20165 0 0
+/contracts/25/edit
+0 2 0 19824 0 0
+/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js
+0 6 0 35072 0 0
+/plugins/jquery-validation/js/jquery.validate.min.js
+0 1 0 6805 0 0
+/favicon.ico
+0 109 0 0 0 0
+/plugins/uniform/css/uniform.default.css
+0 13 0 24233 0 0
+/payroll-pdf/1219
+0 1 0 32495 0 0
+/plugins/respond.min.js
+0 1 0 2058 0 0
+/payroll/0
+0 35 0 417656 1 0
+/contracts/create
+0 2 0 23520 0 0
+/plugins/datatables/media/images/sort_asc.png
+0 16 0 16770 0 0
+/advances/create
+0 10 0 96842 0 0
+/contracts
+0 33 0 418678 2 1
+/plugins/jquery-ui/jquery-ui.min.css
+0 52 0 376900 0 0
+/contracts/31/edit
+0 1 0 9920 0 0
+/payroll/1497
+0 1 0 8178 0 0
+/contracts/68/edit
+0 1 0 9925 0 0
+/plugins/excanvas.min.js
+0 1 0 7567 0 0
+/contracts/66
+0 1 0 8141 0 0
+/payroll/1562
+0 1 0 8167 0 0
+/payroll-pdf/979
+0 1 0 32511 0 0
+/contracts/72/edit
+0 1 0 9933 0 0
+/plugins/datatables/plugins/bootstrap/dataTables.bootstrap.js
+0 6 0 12272 0 0
+/contracts/29/edit
+0 3 0 29736 0 0
+/loans
+0 29 0 253303 0 0
+/payroll/1219
+0 1 0 8170 0 0
+/plugins/datatables/plugins/bootstrap/dataTables.bootstrap.css
+0 8 0 7992 0 0
+/plugins/bootstrap/js/bootstrap.min.js
+0 7 0 48725 0 0
+/plugins/bootstrap-toastr/toastr.min.js
+0 6 0 5768 0 0
+/js/fullcalendar.min.js
+0 6 0 123616 0 0
+/css/style.css
+0 7 0 2935 0 0
+/plugins/datatables/media/images/sort_both.png
+0 30 0 34080 0 0
+/payroll-pdf/1201
+0 5 0 163805 0 1
+/plugins/jquery-migrate.min.js
+0 7 0 15315 0 0
+/admin/pages/css/tasks.css
+0 7 0 2995 0 0
+/plugins/jquery.min.js
+0 7 0 166400 0 0
+/contracts/42/edit
+0 1 0 9917 0 0
+/login
+0 12 0 66021 8 1
+/employees/create
+0 5 0 59681 0 0
+/img/syncfusion-icons-white.png
+0 4 0 22200 0 0
+/plugins/bootstrap-hover-dropdown/bootstrap-hover-dropdown.min.js
+0 7 0 3435 0 0
+/css/components-rounded.css
+0 10 0 339752 0 0
+/js/scripts.js
+0 6 0 6296 0 0
+/plugins/bootstrap/css/bootstrap.min.css
+0 49 0 934501 0 0
+/_debugbar/assets/javascript
+0 7 0 785141 0 0
+/payroll-pdf/1497
+0 1 0 31788 0 0
+/scripts/metronic.js
+0 7 0 41730 0 0
+/loans/create
+0 11 0 118127 0 1
+/payroll/1270
+0 1 0 8179 0 0
+/contracts/64/edit
+0 1 0 9901 0 0
+/plugins/jquery.sparkline.min.js
+0 6 0 52080 0 0
+/loans/details/14
+0 1 0 9145 0 0
+/plugins/uniform/images/sprite.png
+0 10 0 318150 0 0
+/admin/layout4/css/themes/default.css
+0 7 0 12255 0 0
+/admin/pages/css/login3.css
+0 3 0 2700 0 0
+/plugins/datatables/media/images/sort_desc.png
+0 1 0 1127 0 0
+/contracts/70/edit
+0 1 0 9911 0 0
+/payroll/create
+0 21 0 184186 0 0
+/_debugbar/assets/stylesheets
+0 25 0 2768675 0 0
+/
+0 14 0 134504 14 2
+/plugins/font-awesome/fonts/fontawesome-webfont.woff2
+0 8 0 454240 0 0
+/payroll-pdf/1538
+0 1 0 31965 0 0
+/loans/05-2019
+0 11 0 91949 0 1
+/plugins/bootstrap-daterangepicker/daterangepicker-bs3.css
+0 17 0 20505 0 0
+/plugins/simple-line-icons/fonts/Simple-Line-Icons.woff
+0 6 0 355944 0 0
+/admin/layout4/css/layout.css
+0 7 0 43335 0 0
+/plugins/select2/select2-spinner.gif
+0 5 0 9245 0 0
+/plugins/jquery-ui/jquery-ui.min.js
+0 6 0 254684 0 0
+/plugins/jquery-slimscroll/jquery.slimscroll.min.js
+0 6 0 8144 0 0
+/payroll-pdf/1562
+0 1 0 31794 0 0
+/plugins/morris/morris.css
+0 8 0 1512 0 0
+/payroll/979
+0 1 0 8176 0 0
+/plugins/select2/select2.css
+0 10 0 25776 0 0
+/advances/04-2019
+0 14 0 138665 0 0
+/contracts/67/edit
+0 1 0 9937 0 0
+/robots.txt
+0 5 0 120 0 0
+/css/fullcalendar.min.css
+0 28 0 75452 0 0
+/plugins/bootstrap-switch/css/bootstrap-switch.min.css
+0 15 0 18343 0 0
+/employees/29
+0 1 0 9659 0 0
+/payroll/1538
+0 1 0 8215 0 0
+/plugins/bootstrap-switch/js/bootstrap-switch.min.js
+0 6 0 13376 0 0
+/plugins/select2/select2.min.js
+0 7 0 91505 0 0
+/contracts/70
+0 2 0 16254 0 0
+/plugins/bootstrap-modal/css/bootstrap-modal-bs3patch.css
+0 64 0 24490 0 0
+/print-payslips
+0 7 0 56341 0 0
+/plugins/jquery.cokie.min.js
+0 7 0 3870 0 0
+/deductions
+0 1 0 8259 0 0
+/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.min.css
+0 36 0 93160 0 0
+/plugins/font-awesome/css/font-awesome.min.css
+0 91 0 484427 0 0
+/payroll/1201
+0 6 0 49160 0 0
+# End Of Table - urls
+# -sites- (monthly)
+ip-54-36-148-233.a.ahrefs.com
+0 2 0 631 2 1558090023
+/
+ip-54-36-148-201.a.ahrefs.com
+0 1 0 392 1 1558086278
+/
+104.248.4.125
+0 1 0 392 1 1557183228
+/
+ip-54-36-148-255.a.ahrefs.com
+0 1 0 239 1 1556920869
+/
+ip-54-36-148-166.a.ahrefs.com
+0 1 0 249 0 0
+-
+ip-54-36-148-72.a.ahrefs.com
+0 2 2 4615 1 1556904672
+/login
+ip-54-36-149-98.a.ahrefs.com
+0 1 0 249 0 0
+-
+ip-54-36-149-40.a.ahrefs.com
+0 1 0 392 1 1557264286
+/
+ip-54-36-148-158.a.ahrefs.com
+0 1 0 239 1 1557072820
+/
+ip-54-36-148-107.a.ahrefs.com
+0 1 0 249 0 0
+-
+ip-54-36-148-208.a.ahrefs.com
+0 1 0 392 1 1556786719
+-
+ip-54-36-148-209.a.ahrefs.com
+0 1 1 24 0 0
+-
+159.203.104.164
+0 1 0 239 1 1557182716
+/
+ip-54-36-149-99.a.ahrefs.com
+0 1 0 239 1 1557584685
+/
+ip-54-36-148-154.a.ahrefs.com
+0 1 0 392 1 1558035090
+/
+209.17.96.242
+0 1 0 392 1 1558179513
+/
+ip-54-36-149-47.a.ahrefs.com
+0 1 0 239 1 1558048226
+/
+ip-54-36-149-96.a.ahrefs.com
+0 1 0 249 0 0
+-
+ip-54-36-148-204.a.ahrefs.com
+0 1 1 24 0 0
+-
+ip-54-36-148-32.a.ahrefs.com
+0 1 1 24 0 0
+-
+ip-54-36-149-106.a.ahrefs.com
+0 1 1 24 0 0
+-
+197.232.60.130
+0 1666 1426 17862480 16 1557738280
+/login
+# End Of Table - sites (monthly)
+# -sites- (daily)
+209.17.96.242
+0 1 0 392 1 1558179513
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://ssdhillon.cloudwage.com/contracts/create
+0 5
+https://ssdhillon.cloudwage.com/employees/64
+0 5
+https://ssdhillon.cloudwage.com/
+0 44
+https://ssdhillon.cloudwage.com/contracts
+0 103
+https://ssdhillon.cloudwage.com/contracts/71/edit
+0 2
+https://ssdhillon.cloudwage.com/contracts/70/edit
+0 3
+https://ssdhillon.cloudwage.com/css/plugins.css
+0 22
+https://ssdhillon.cloudwage.com/deductions
+0 1
+https://ssdhillon.cloudwage.com/employees/29
+0 4
+https://ssdhillon.cloudwage.com/payroll/1201
+0 251
+https://ssdhillon.cloudwage.com/payroll-report
+0 40
+https://ssdhillon.cloudwage.com/loans/details/14
+0 1
+https://ssdhillon.cloudwage.com/contracts/25/edit
+0 9
+https://ssdhillon.cloudwage.com/advances/create
+0 21
+https://ssdhillon.cloudwage.com/contracts/42/edit
+0 3
+https://ssdhillon.cloudwage.com/contracts/44/edit
+0 5
+https://ssdhillon.cloudwage.com/contracts/31/edit
+0 4
+https://ssdhillon.cloudwage.com/loans/create
+0 25
+https://ssdhillon.cloudwage.com/deductions/1
+0 2
+https://ssdhillon.cloudwage.com/contracts/72/edit
+0 2
+https://ssdhillon.cloudwage.com/contracts/66/edit
+0 4
+https://ssdhillon.cloudwage.com/employees/create
+0 11
+https://ssdhillon.cloudwage.com/contracts/29/edit
+0 12
+https://ssdhillon.cloudwage.com/contracts/67/edit
+0 2
+https://ssdhillon.cloudwage.com/contracts/64/edit
+0 3
+https://ssdhillon.cloudwage.com/loans/03-2019
+0 1
+https://ssdhillon.cloudwage.com/payroll/1193
+0 3
+- (Direct Request)
+0 158
+https://ssdhillon.cloudwage.com/login
+0 66
+https://ssdhillon.cloudwage.com/payroll/1497
+0 2
+https://ssdhillon.cloudwage.com/advances
+0 50
+https://ssdhillon.cloudwage.com/employees/65/edit
+0 1
+https://ssdhillon.cloudwage.com/contracts/60/edit
+0 3
+https://ssdhillon.cloudwage.com/assignments
+0 1
+https://ssdhillon.cloudwage.com/plugins/uniform/css/uniform.default.css
+0 10
+https://ssdhillon.cloudwage.com/payroll/1270
+0 4
+https://ssdhillon.cloudwage.com/payroll/0
+0 67
+https://ssdhillon.cloudwage.com/contracts/65/edit
+0 2
+https://ssdhillon.cloudwage.com/employees
+0 38
+https://ssdhillon.cloudwage.com/payroll/1538
+0 2
+https://ssdhillon.cloudwage.com/loans
+0 57
+https://ssdhillon.cloudwage.com/plugins/font-awesome/css/font-awesome.min.css
+0 8
+https://ssdhillon.cloudwage.com/contracts/66
+0 1
+https://ssdhillon.cloudwage.com/contracts/68/edit
+0 2
+https://ssdhillon.cloudwage.com/payroll/979
+0 2
+https://ssdhillon.cloudwage.com/payroll
+0 276
+https://ssdhillon.cloudwage.com/contracts/69/edit
+0 2
+https://ssdhillon.cloudwage.com/payroll/1562
+0 2
+https://ssdhillon.cloudwage.com/plugins/simple-line-icons/simple-line-icons.min.css
+0 6
+https://ssdhillon.cloudwage.com/payroll/create
+0 60
+https://ssdhillon.cloudwage.com/print-payslips
+0 28
+https://ssdhillon.cloudwage.com/loans/05-2019
+0 68
+https://ssdhillon.cloudwage.com/contracts/70
+0 2
+https://ssdhillon.cloudwage.com/plugins/datatables/plugins/bootstrap/dataTables.bootstrap.css
+0 47
+https://ssdhillon.cloudwage.com/payroll-generate
+0 51
+https://ssdhillon.cloudwage.com/advances/04-2019
+0 32
+https://ssdhillon.cloudwage.com/loans/22/edit
+0 2
+https://ssdhillon.cloudwage.com/payroll/1219
+0 5
+https://ssdhillon.cloudwage.com/css/components-rounded.css
+0 4
+https://ssdhillon.cloudwage.com/employees/17
+0 1
+https://ssdhillon.cloudwage.com/loans/04-2019
+0 31
+https://ssdhillon.cloudwage.com/plugins/select2/select2.css
+0 10
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)
+0 1
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 2
+Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)
+0 20
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+0 1666
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

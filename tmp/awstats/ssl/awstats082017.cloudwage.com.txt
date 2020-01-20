@@ -1,0 +1,352 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201708 will be lost/reset.
+# Last config file used to build this data file was /home/cloudwage/tmp/awstats/ssl/awstats.cloudwage.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2673                
+POS_VISITOR 8880                
+POS_DAY 9319                
+POS_DOMAIN 3293                
+POS_LOGIN 3566                
+POS_ROBOT 3721                
+POS_WORMS 4068                
+POS_EMAILSENDER 4199                
+POS_EMAILRECEIVER 4342                
+POS_SESSION 9493                
+POS_SIDER 9676                
+POS_FILETYPES 4477                
+POS_DOWNLOADS 4737                
+POS_OS 4785                
+POS_BROWSER 4924                
+POS_SCREENSIZE 5081                
+POS_UNKNOWNREFERER 5155                
+POS_UNKNOWNREFERERBROWSER 5392                
+POS_ORIGIN 5624                
+POS_SEREFERRALS 5763                
+POS_PAGEREFS 5907                
+POS_SEARCHWORDS 7333                
+POS_KEYWORDS 7485                
+POS_MISC 2337                
+POS_ERRORS 7544                
+POS_CLUSTER 3422                
+POS_SIDER_404 7680                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170909191126 1 0 9227663520624
+FirstTime 0
+LastTime 20170830101538
+LastUpdate 20170910151555 1 0 0 0 0
+TotalVisits 11                  
+TotalUnique 9                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 9                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 7 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 2 31 203799
+2 0 0 0 6 6 144592
+3 0 0 0 5 5 22500
+4 0 0 0 1 1 0
+5 1 1 1645 2 3 581
+6 0 0 0 4 6 4040
+7 0 0 0 3 33 205466
+8 0 0 0 8 11 6161
+9 0 0 0 11 46 393490
+10 44 165 2107023 10 34 276174
+11 0 0 0 0 0 0
+12 0 0 0 2 3 6946
+13 0 0 0 5 5 22500
+14 0 0 0 0 0 0
+15 4 4 6573 3 3 1056
+16 13 41 283814 10 12 11816
+17 28 115 398282 23 29 35735
+18 29 29 47646 15 15 5280
+19 13 13 21362 7 8 2365
+20 0 0 0 3 17 138721
+21 9 67 596862 6 11 4768
+22 0 0 0 0 27 201754
+23 0 0 0 1 1 122092
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+us 85 172 491950
+ke 48 193 2422353
+za 7 69 547259
+it 1 1 1645
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+bot[\s_+:,\.\;\/\\-] 127 767022 20170823073946 15
+googlebot 48 309876 20170821060451 2
+bingpreview 10 449297 20170820101605 0
+robot 3 1689 20170821082350 2
+crawl 1 1643 20170806170204 0
+checker 1 0 20170821055156 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+tt 1 598 0 0
+gif 5 7400 0 0
+png 92 258217 0 0
+php 18 481692 0 0
+html 5 38208 0 0
+svg 6 171511 0 0
+woff 9 241716 0 0
+css 86 560205 0 0
+js 105 1167933 0 0
+Unknown 103 251827 0 0
+woff2 5 283900 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+Unknown 89 2
+winnt 97 11
+macosx 84 84
+linuxubuntu 92 35
+linuxandroid 73 9
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 5
+chrome60.0.3112.78 92 35
+Unknown 89 2
+safari8.0.3 84 84
+chrome60.0.3112.101 97 11
+chrome36.0.1985.135 73 9
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+redback/v0-570-g26f8c96 20170822055636
+UCWEB/2.0_(MIDP-2.0;_U;_Adr_4.4.4;_id;_GL-Smooth)_U2/1.0.0_UCBrowser/10.9.2.962_U2/1.0.0_Mobile 20170809171322
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+UCWEB/2.0_(MIDP-2.0;_U;_Adr_4.4.4;_id;_GL-Smooth)_U2/1.0.0_UCBrowser/10.9.2.962_U2/1.0.0_Mobile 20170809171322
+redback/v0-570-g26f8c96 20170822055636
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 104 115
+From1 0 0
+From2 0 0
+From3 20 66
+From4 17 254
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 14
+https://cpanel.cloudwage.com/cpsess6305284836/frontend/paper_lantern/index.html 5 24
+https://cpanel.cloudwage.com/cPanel_magic_revision_1503868631/frontend/paper_lantern/_assets/css/master-ltr.cmb.min.css 4 4
+https://cpanel.cloudwage.com/cPanel_magic_revision_1503868632/frontend/paper_lantern/_assets/css/master-legacy-ltr.cmb.min.css 3 3
+https://cpanel.cloudwage.com/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css 3 3
+https://cpanel.cloudwage.com 2 5
+https://wizag.biz/product/payroll-management/ 1 1
+http://wizag.biz/services/payroll-management/ 1 1
+https://cpanel.cloudwage.com/cpsess6305284836/frontend/paper_lantern/sql/PhpMyAdmin.html 1 6
+https://cpanel.cloudwage.com/cpsess6305284836/3rdparty/phpMyAdmin/index.php 0 1
+https://cpanel.cloudwage.com/cPanel_magic_revision_1503868699/unprotected/cpanel/style_v2_optimized.css 0 7
+https://cpanel.cloudwage.com/cPanel_magic_revision_1455824270/frontend/paper_lantern/libraries/chosen/1.5.1/chosen.min.css 0 1
+https://cpanel.cloudwage.com/cpsess6305284836/3rdparty/phpMyAdmin/phpmyadmin.css.php 0 4
+https://cpanel.cloudwage.com/cpsess6305284836/3rdparty/phpMyAdmin/themes/pmahomme/jquery/jquery-ui.css 0 4
+https://cpanel.cloudwage.com/styled/current_style/sprites/icon_spritemap.css 0 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+404 23 103500
+401 8 140280
+400 2 104
+301 3 687
+302 74 25668
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 21
+/news/wp-admin/setup-config.php 1 -
+/main/wp-admin/setup-config.php 1 -
+/protal/wp-admin/setup-config.php 1 -
+/assets/admin/layout7/img/01.jpg 1 https://cloudwage.com/login
+/wordpress/wp-admin/setup-config.php 1 -
+/blog/wp-admin/setup-config.php 1 -
+/assets/admin/layout7/img/06.jpg 1 https://cloudwage.com/login
+/old/wp-admin/setup-config.php 1 -
+/new/wp-admin/setup-config.php 1 -
+/cms/wp-admin/setup-config.php 1 -
+/assets/admin/layout7/img/02.jpg 1 https://cloudwage.com/login
+/site/wp-admin/setup-config.php 1 -
+/test/wp-admin/setup-config.php 1 -
+/register 2 https://cloudwage.com/
+/wp-admin/setup-config.php 2 -
+/assets 1 https://cloudwage.com/login
+/press/wp-admin/setup-config.php 1 -
+/beta/wp-admin/setup-config.php 1 -
+/assets/admin/layout7/img/03.jpg 1 https://cloudwage.com/login
+/assets/admin/layout7/img/04.jpg 1 https://cloudwage.com/login
+/wp/wp-admin/setup-config.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 9
+197.248.207.206 37 122 1783941 20170830101538
+54.67.80.194 35 35 57503 20170820193723
+52.53.68.205 28 28 46020 20170820191003
+13.56.121.42 21 21 34518 20170820192920
+105.230.250.119 9 67 596862 20170820213642
+196.103.158.185 7 69 547259 20170820102616
+105.162.144.59 2 4 41550 20170820102813
+109.236.8.8 1 1 1645 20170822055636
+8.37.225.92 1 88 353909 20170809171321
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20170809 1 88 353909 1
+20170820 102 224 1323712 7
+20170822 1 1 1645 1
+20170823 2 30 265727 1
+20170830 35 92 1518214 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 1
+0s-30s 4
+1h+ 4
+30s-2mn 1
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 41
+/login 89 146257 9 6
+/cpsess6305284836/3rdparty/phpMyAdmin/js/get_scripts.js.php 6 407371 0 0
+/plugins/font-awesome/fonts/fontawesome-webfont.woff2 3 170340 0 1
+/ 2 8244 0 0
+/cpsess6305284836/3rdparty/phpMyAdmin/tbl_replace.php 2 3656 0 1
+/cpsess6305284836/3rdparty/phpMyAdmin/navigation.php 2 5371 0 0
+/cpsess6305284836/3rdparty/phpMyAdmin/index.php 2 14034 0 0
+/images/nrSK0nMbBe1499255440png 2 22838 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 1 22908 0 0
+/cpsess6305284836/3rdparty/phpMyAdmin/phpmyadmin.css.php 1 20155 0 0
+/payment-methods 1 3891 0 0
+/cpsess6305284836/execute/Themes/list 1 97 0 0
+/cpsess6305284836/execute/Notifications/get_notifications_count 1 66 0 0
+/cPanel_magic_revision_1503868632/frontend/paper_lantern/_assets/fonts/glyphicons-halflings-regular.woff 1 23320 0 0
+/cPanel_magic_revision_1503868631/frontend/paper_lantern/_assets/fonts/fontawesome-webfont.woff2 1 56780 0 0
+/tax/p9 1 48719 0 0
+/payroll-report 1 3782 1 0
+/employees 1 4635 0 0
+/cPanel_magic_revision_1503868632/frontend/paper_lantern/_assets/css/OpenSans-Regular-webfont.woff 1 22660 0 0
+/plugins/simple-line-icons/fonts/Simple-Line-Icons.woff 1 59324 0 0
+/cpsess6305284836/3rdparty/phpMyAdmin/js/get_image.js.php 1 1841 0 0
+/cPanel_magic_revision_1503868632/frontend/paper_lantern/_assets/fonts/fontawesome-webfont.woff2 1 56780 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 1 22432 0 0
+/cpsess6305284836/frontend/paper_lantern/ 1 22379 0 0
+/cpsess6305284836/frontend/paper_lantern/sql/PhpMyAdmin.html 1 7424 0 0
+/cPanel_magic_revision_1503868631/frontend/paper_lantern/_assets/css/OpenSans-Bold-webfont.woff 1 22432 0 0
+/cpsess6305284836/3rdparty/phpMyAdmin/js/whitelist.php 1 475 0 0
+/cPanel_magic_revision_1503868631/frontend/paper_lantern/_assets/fonts/glyphicons-halflings-regular.woff 1 23320 0 0
+/tax 1 4094 0 0
+/cpsess6305284836/frontend/paper_lantern/home/views/statistics.html.tt 1 598 0 0
+/cpsess6305284836/3rdparty/phpMyAdmin/db_structure.php 1 12114 0 0
+/cpsess6305284836/execute/Resellers/list_accounts 1 140 0 0
+/cPanel_magic_revision_1503868631/frontend/paper_lantern/_assets/css/OpenSans-Regular-webfont.woff 1 22660 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 1 22660 1 0
+/login/ 1 161 0 0
+/cpsess6305284836/3rdparty/phpMyAdmin/sql.php 1 8051 0 0
+/grades 1 3915 0 1
+/payment-methods/5 1 3707 0 0
+/profile 1 3733 0 1
+/cpsess6305284836/3rdparty/phpMyAdmin/js/messages.php 1 8624 0 0
+/payroll-generate 1 5953 0 1
+END_SIDER

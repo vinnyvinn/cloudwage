@@ -1,0 +1,549 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201701 will be lost/reset.
+# Last config file used to build this data file was /home/cloudwage/tmp/awstats/awstats.cloudwage.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2686                
+POS_VISITOR 8681                
+POS_DAY 12213               
+POS_DOMAIN 3474                
+POS_LOGIN 4077                
+POS_ROBOT 4232                
+POS_WORMS 4696                
+POS_EMAILSENDER 4827                
+POS_EMAILRECEIVER 4970                
+POS_SESSION 12966               
+POS_SIDER 13172               
+POS_FILETYPES 5105                
+POS_DOWNLOADS 5378                
+POS_OS 5426                
+POS_BROWSER 5631                
+POS_SCREENSIZE 6328                
+POS_UNKNOWNREFERER 6402                
+POS_UNKNOWNREFERERBROWSER 6654                
+POS_ORIGIN 6874                
+POS_SEREFERRALS 7013                
+POS_PAGEREFS 7192                
+POS_SEARCHWORDS 7523                
+POS_KEYWORDS 7729                
+POS_MISC 2349                
+POS_ERRORS 7858                
+POS_CLUSTER 3933                
+POS_SIDER_404 8010                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170201000609 8 1349 9950942227211
+FirstTime 20170101103521
+LastTime 20170131235617
+LastUpdate 20170201151347 8 0 7 0 0
+TotalVisits 113                 
+TotalUnique 87                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 88                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 42 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 3 15620 15 53 526771
+1 11 109 1126027 19 27 45730
+2 5 33 509177 6 11 49843
+3 2 2 8179 7 8 3078
+4 3 3 14973 9 17 29751
+5 6 49 478017 13 49 1217356
+6 3 37 301686 9 34 187598
+7 15 81 726731 14 22 73368
+8 23 169 1433876 14 33 123521
+9 17 74 580526 10 14 48677
+10 21 105 874240 18 28 27943
+11 62 232 2073271 22 32 40304
+12 39 226 1919416 32 42 79403
+13 12 69 632230 24 63 285065
+14 15 50 348773 32 82 566679
+15 22 79 600420 18 58 489982
+16 37 263 2265236 26 62 1218249
+17 60 181 1502215 33 60 214545
+18 1 1 1642 13 52 219130
+19 4 32 293716 19 44 294030
+20 9 65 798013 16 19 239514
+21 1 19 155571 8 19 61568
+22 4 32 283919 19 86 1483595
+23 2 2 15980 16 67 371713
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 28
+za 119 374 3243904
+ke 119 434 3676219
+us 50 396 3476284
+br 23 256 2561165
+ru 17 165 1573691
+it 6 90 841920
+nl 5 5 8204
+id 4 36 268792
+ca 3 3 22644
+fr 3 3 9819
+ua 3 3 7795
+de 2 2 5579
+my 2 30 280639
+sr 2 30 280641
+mu 2 30 280641
+sk 2 2 3281
+mx 2 30 265725
+gb 2 2 3281
+se 1 1 1643
+jp 1 1 1145
+ao 1 16 109483
+md 1 1 1641
+lv 1 1 6538
+pl 1 1 1642
+lr 1 1 1640
+ch 1 1 1642
+in 1 1 1640
+ro 1 1 22216
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+bingpreview 210 4929490 20170130234314 0
+bot[\s_+:,\.\;\/\\-] 164 1072719 20170131143547 64
+googlebot 141 1048364 20170130084308 12
+spider 102 496236 20170131190823 3
+unknown 20 480 20170130191440 20
+checker 3 72 20170130064946 3
+no_user_agent 3 6586 20170104101411 2
+netcraft 2 13364 20170111043152 0
+crawl 1 1640 20170103001332 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+gif 5 2683 0 0
+js 713 6133868 0 0
+png 82 347533 0 0
+eot 9 305436 0 0
+Unknown 282 2070058 0 0
+svg 3 179919 0 0
+html 37 137834 0 0
+woff2 20 1135600 0 0
+css 737 4800059 0 0
+ttf 14 1003744 0 0
+woff 14 842720 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+blackberry 2 2
+winnt 113 27
+winxp 97 11
+win7 626 60
+Unknown 3 3
+win8.1 80 23
+macosx8 1 1
+winlong 7 7
+win2003 11 2
+linux 975 239
+macosx 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 32
+chrome55.0.2883.75 595 196
+firefox3.0.4 1 1
+firefox45.0 30 2
+netscape5.0 1 1
+chrome32.0.1700.107 53 4
+chrome36.0.2027.71 1 1
+chrome23.0.1271.97 1 1
+msie6.0 2 2
+chrome31.0.1650.57 1 1
+chrome55.0.2883.87 559 75
+chrome36.0.1985.143 298 22
+chrome27.0.1453.90 2 2
+chrome47.0.2526.111 72 9
+chrome35.0.1916.153 61 5
+msie7.0 10 1
+chrome37.0.2062.120 6 6
+chrome44.0.2403.125 1 1
+firefox43.0 1 1
+chrome52.0.2758.74 1 1
+firefox50.0 31 3
+firefox28.0 2 2
+chrome52.0.2743.116 8 8
+chrome55.0.2883.95 1 1
+msie10.0 1 1
+chrome11.0.696.71 2 2
+firefox31.0 1 1
+firefox34.0 4 4
+chrome34.0.1847.116 1 1
+Unknown 2 2
+blackberry 2 2
+chrome40.0.2214.115 3 3
+msie8.0 162 14
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0 20170103160200
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20170130115502
+WWW-Mechanize/1.73 20170103165029
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20170130115502
+WWW-Mechanize/1.73 20170103165029
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 72 81
+From1 0 0
+From2 6 6
+From3 27 27
+From4 271 1802
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+duckduckgo 1 1
+yandex 4 4
+bing 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+http://top10-way.com/try.php 17 17
+http://pizza-tycoon.com 4 4
+http://1-free-share-buttons.com 3 3
+http://www.cn-aoweite.com 1 1
+http://hvd-store.com 1 1
+http://pizza-imperia.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+no+worries+click+here+to+reset+your+password.+cloud 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 9
+click 1
+to 1
+password. 1
+your 1
+no 1
+here 1
+reset 1
+cloud 1
+worries 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+302 234 80568
+206 6 41943
+301 12 2856
+404 33 162730
+405 3 13455
+500 6 26910
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 13
+//wp-login.php 1 -
+/forum.php 1 -
+/wp-admin 4 http://cloudwage.com/wp-login.php
+/admin.php 4 -
+/administrator 4 -
+/a 1 -
+/apple-app-site-association 2 -
+//admin/imgs/version.js 1 -
+/engine/engine.php 1 -
+/.well-known/apple-app-site-association 2 -
+/administrator/index.php 4 http://cloudwage.com/administrator
+/wp-login.php 6 -
+/.well-known/assetlinks.json 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 88
+196.207.135.6 115 342 2736369 20170106142220
+154.70.38.250 77 194 1421098 20170124154050
+197.248.207.206 19 76 594336 20170123075450
+154.70.38.118 15 73 857321 20170130113749
+66.249.93.50 11 98 847557 20170115122521
+66.249.93.46 8 84 757366 20170110084940
+66.249.93.48 7 70 590434 20170109091642
+154.122.28.14 6 61 537739 20170115161835
+188.255.17.156 4 47 469842 20170123010302
+187.13.26.112 4 32 507554 20170128203150
+170.0.248.162 4 32 507535 20170128021709
+95.221.244.163 4 47 469840 20170110051536
+202.67.40.20 4 36 268792 20170103080437
+94.180.141.199 4 47 469839 20170102081613
+66.249.93.208 3 38 220096 20170119172213
+152.238.64.57 3 30 369326 20170131010055
+66.249.93.210 3 26 252030 20170119172214
+210.186.52.6 2 30 280639 20170121084712
+79.27.3.32 2 30 280639 20170110222301
+93.71.133.29 2 30 280642 20170125144103
+177.102.212.62 2 30 280640 20170111204818
+201.110.224.119 2 30 265725 20170109060223
+93.38.87.113 2 30 280639 20170118012911
+190.98.65.196 2 30 280641 20170110160330
+162.242.156.106 2 2 9116 20170131011042
+178.217.187.39 1 1 1642 20170125181112
+38.100.21.68 1 10 149848 20170116072105
+189.49.220.39 1 8 36864 20170102135641
+103.204.179.151 1 1 1640 20170105152614
+91.211.39.72 1 1 1145 20170107131126
+217.160.140.59 1 1 0 20170109075917
+176.10.104.240 1 1 1642 20170112124328
+66.249.93.18 1 9 106093 20170124103951
+83.217.27.244 1 1 1641 20170114032152
+89.31.57.5 1 1 1641 20170111220957
+66.249.93.19 0 6 55482 
+54.162.173.114 1 1 6538 20170113054955
+191.254.38.66 1 7 39966 20170128171616
+85.248.227.165 1 1 1642 20170105024828
+66.249.93.209 1 26 326984 20170117131643
+187.57.117.200 1 2 11083 20170128003448
+52.91.84.117 1 1 6538 20170108190123
+173.254.216.66 1 1 1641 20170125120152
+66.249.93.20 1 15 104150 20170124103949
+46.105.31.30 1 1 1642 20170119092522
+189.39.134.30 1 19 155571 20170120210417
+197.231.221.211 1 1 1640 20170102083700
+92.222.103.232 1 1 6538 20170117201409
+186.242.213.221 2 30 280639 20170125175812
+47.145.57.182 1 1 6666 20170108112447
+185.38.14.215 1 1 1641 20170110014841
+85.93.31.146 1 1 5579 20170128123534
+52.87.86.158 1 1 1639 20170122123802
+188.165.28.233 1 1 1639 20170102051148
+46.183.218.199 1 1 6538 20170124192408
+179.210.209.252 2 30 280641 20170126161134
+192.36.27.6 1 1 1643 20170125120156
+104.207.150.177 1 1 6538 20170102032518
+88.99.68.199 1 1 1640 20170116102253
+90.189.120.90 1 1 1145 20170107144800
+45.32.128.51 1 1 6538 20170111161033
+187.122.157.118 2 30 280639 20170116173809
+35.167.40.99 1 1 1647 20170103165029
+45.32.129.200 1 1 6538 20170127105041
+95.211.216.24 1 1 1639 20170127084819
+158.69.27.74 1 1 14339 20170131235617
+77.247.181.165 1 1 1642 20170109103350
+78.109.24.109 1 1 4515 20170131140529
+41.60.101.60 2 30 280641 20170117102148
+91.210.145.56 1 1 1640 20170126201706
+45.32.150.212 1 1 4534 20170130115502
+60.47.134.177 1 1 1145 20170107140036
+64.137.178.47 1 1 1639 20170125223139
+83.103.188.10 1 1 22216 20170131171413
+62.212.68.156 1 1 1641 20170101234347
+5.228.39.39 1 20 159094 20170119133610
+109.173.88.245 1 1 1145 20170107122330
+88.99.132.125 1 1 1641 20170106200734
+35.165.65.220 1 1 1645 20170103160200
+176.123.26.27 1 1 1641 20170101103521
+69.58.178.56 2 2 13332 20170104044714
+189.78.241.88 1 7 35961 20170127060629
+41.70.221.215 1 16 109483 20170111082406
+177.64.218.158 2 30 280640 20170113192054
+177.54.51.210 1 1 1641 20170124040639
+41.89.224.2 2 30 265725 20170104101859
+134.249.159.113 1 1 1640 20170126164234
+85.248.227.163 1 1 1639 20170122135942
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20170101 2 2 3282 2
+20170102 8 58 516520 5
+20170103 46 191 1528268 9
+20170104 35 63 416882 6
+20170105 23 186 1776703 7
+20170106 39 103 690418 3
+20170107 4 4 4580 4
+20170108 2 2 13204 2
+20170109 11 96 811440 6
+20170110 11 138 1298484 6
+20170111 5 48 398302 4
+20170112 1 1 1642 1
+20170113 17 102 854029 3
+20170114 1 1 1641 1
+20170115 8 91 803462 2
+20170116 16 55 474437 6
+20170117 41 98 783514 6
+20170118 2 30 280639 1
+20170119 7 81 694121 4
+20170120 1 19 155571 1
+20170121 2 30 280639 1
+20170122 2 2 3278 2
+20170123 17 117 1046725 2
+20170124 25 110 872684 5
+20170125 8 64 567846 6
+20170126 4 32 283921 3
+20170127 3 9 44138 3
+20170128 11 74 1071717 5
+20170130 16 74 861855 2
+20170131 8 35 419512 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 4
+5mn-15mn 3
+2mn-5mn 8
+0s-30s 90
+1h+ 1
+30mn-1h 2
+30s-2mn 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 73
+/login 101 291268 95 55
+/ 31 131021 4 5
+/payroll 21 83023 0 1
+/plugins/font-awesome/fonts/fontawesome-webfont.woff2 20 1135600 5 6
+/plugins/font-awesome/fonts/fontawesome-webfont.ttf 14 1003744 0 13
+/images/WEB5bmi28O1476454355png 13 155623 1 4
+/plugins/simple-line-icons/fonts/Simple-Line-Icons.woff 13 771212 1 2
+/payroll/create 11 47986 0 1
+/deductions 7 26858 0 2
+/payroll/0 7 26556 0 1
+/employees 7 26762 0 0
+/profile 6 25392 0 2
+/deductions/1/edit 5 31481 0 0
+/employee-types 5 22951 0 1
+/contracts 5 19474 0 0
+/payroll-report 5 18590 0 0
+/admin/ 4 4580 4 4
+/deductions/1 4 18364 1 1
+/payroll/1 4 14238 0 0
+/_debugbar/assets/stylesheets 4 413211 0 1
+/policies 4 17231 0 3
+/payroll-generate 4 23516 0 1
+/_debugbar/assets/javascript 4 417459 0 0
+/plugins/font-awesome/fonts/fontawesome-webfont.eot 3 182232 0 2
+/payroll-print 3 61927 0 1
+/payroll/5 1 3550 0 0
+/allowances 1 3761 0 0
+/user-profile 1 3686 0 0
+/loans/12-2016 2 7703 0 0
+/employees/3 2 8702 0 0
+/deductions/2 1 4761 0 0
+/payment-methods/3/edit 1 4668 0 0
+/plugins/ 1 1758 0 0
+/users 2 11742 0 0
+/_debugbar/open 1 3410 0 0
+/employees/1 1 4684 0 0
+/employee-types/1 1 3621 0 0
+/payment-methods 2 7576 0 0
+/plugins/font-awesome/fonts/fontawesome-webfont.woff 1 71508 0 0
+/payment-structures/2/edit 1 3815 0 0
+/grades 1 3864 0 0
+/tax 2 7626 1 0
+/employee-types/2 3 10822 0 0
+/employees/2/edit 1 3981 0 0
+/users/2/edit 1 10161 0 0
+/employees/3/edit 1 3980 0 0
+/payroll-pdf/5 1 13469 0 0
+/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot 3 60150 0 1
+/loans/details/1 2 9432 0 0
+/shifts 1 3753 0 0
+/payment-structures/1 2 7171 0 0
+/worked/12-2016 1 7820 0 1
+/worked 2 11402 0 0
+/coinage/create 3 11477 0 0
+/employee-types/2/edit 2 11826 0 0
+/worked/create 1 4774 0 1
+/holidays 1 3737 0 0
+/departments 1 903 0 0
+/contracts/2/edit 1 5549 0 0
+/units-made 1 3555 0 0
+/payroll-pdf/1 3 42675 0 0
+/plugins/simple-line-icons/fonts/Simple-Line-Icons.eot 3 63054 0 0
+/plugins/jquery-file-upload/ 1 475 0 1
+/coinage 2 29970 0 1
+/loans 2 7124 0 0
+/work-plans 1 3697 0 0
+/users/3/edit 1 5894 0 1
+/payment-structures 2 7532 0 0
+/policies/6/edit 1 4957 1 0
+/employees/2 1 4455 0 0
+/employees/1/edit 1 3992 0 0
+/hours-worked 2 7210 0 0
+/grades/2 1 3661 0 1
+END_SIDER

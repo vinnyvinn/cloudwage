@@ -1,0 +1,429 @@
+# Webalizer V2.23-08 Incremental Data - 05/18/2019 22:03:46
+2019 5 18 22 3 46
+399 287 19 91 31 4 3281755 186 15 0
+2 2 211 1 18
+3 2 5003 3 2 2
+162 131 981233 1 84 1
+218 152 2291388 1 89 1
+4 1 892 4 2 2
+0 0 0 0 0 0
+2 0 621 2 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 0 384 1 1 1
+0 0 0 0 0 0
+3 0 721 3 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 0 1105 4 3 3
+2 1 408 2 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+2 1 408 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 1 4595 1
+0 0 0 0
+0 0 0 0
+2 1 408 1
+1 0 384 1
+370 275 3013757 166
+10 8 258864 7
+0 0 0 0
+3 0 721 2
+0 0 0 0
+0 0 0 0
+2 0 484 1
+0 0 0 0
+2 0 484 1
+1 0 384 1
+1 0 237 1
+4 1 1029 3
+0 0 0 0
+0
+0
+0
+287
+0
+0
+0
+0
+0
+0
+0
+9
+51
+0
+49
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+# -urls- 
+/plugins/moment.min.js
+0 1 8319045105058736492 0 0 0
+/plugins/datatables/media/js/jquery.dataTables.min.js
+0 1 0 0 0 0
+/payroll-generate
+0 4 0 41788 0 0
+/employees
+0 6 0 62502 0 0
+/advances/05-2019
+0 2 0 16426 0 0
+/payroll-pdfs
+0 1 0 116530 0 0
+/admin/layout4/scripts/layout.js
+0 1 0 0 0 0
+/admin/layout4/css/custom.css
+0 2 0 183 0 0
+/images/smalllogo.jpg
+0 1 0 1524 0 0
+/plugins/bootstrap-modal/css/bootstrap-modal.css
+0 32 0 36766 0 0
+/payroll-pdf/91
+0 1 0 31238 0 0
+/plugins/fullcalendar/fullcalendar.min.css
+0 2 0 2488 0 0
+/payroll
+0 38 0 437519 0 0
+/css/plugins.css
+0 1 0 0 0 0
+/advances
+0 11 0 93904 0 0
+/payroll-report
+0 6 0 48622 0 0
+/plugins/bootstrap-toastr/toastr.min.css
+0 2 0 2655 0 0
+/plugins/select2/select2.png
+0 2 0 1172 0 0
+/admin/pages/scripts/tasks.js
+0 2 0 239 0 0
+/img/portlet-remove-icon-white.png
+0 4 0 780 0 0
+/plugins/simple-line-icons/simple-line-icons.min.css
+0 26 0 54025 0 0
+/admin/layout4/scripts/quick-sidebar.js
+0 1 0 0 0 0
+/plugins/font-awesome/fonts/fontawesome-webfont.woff
+0 1 8100005404802547712 71508 0 0
+/plugins/jquery.blockui.min.js
+0 1 3257286899771441152 0 0 0
+/payroll-print
+0 4 6687142807195431986 13790 0 0
+/plugins/uniform/jquery.uniform.min.js
+0 1 102111332204849 0 0 0
+/deductions/1
+0 1 3329905248024461568 11968 0 0
+/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js
+0 1 7307214062254763617 0 0 0
+/favicon.ico
+0 5 3602879701896396800 0 0 0
+/plugins/uniform/css/uniform.default.css
+0 2 7002641321663148589 2203 0 0
+/plugins/respond.min.js
+0 1 1 2058 0 0
+/payroll/0
+0 8 0 77812 0 0
+/policies/1/edit
+0 1 0 9243 0 0
+/payroll/91
+0 1 0 8194 0 0
+/plugins/datatables/media/images/sort_asc.png
+0 4 0 3354 0 0
+/advances/create
+0 6 0 52237 0 0
+/plugins/jquery-ui/jquery-ui.min.css
+0 5 0 30152 0 0
+/plugins/simple-line-icons/fonts/Simple-Line-Icons.ttf
+0 1 1 35304 0 0
+/plugins/datatables/plugins/bootstrap/dataTables.bootstrap.js
+0 1 0 0 0 0
+/plugins/datatables/plugins/bootstrap/dataTables.bootstrap.css
+0 8 0 9324 0 0
+/plugins/bootstrap/js/bootstrap.min.js
+0 1 0 0 0 0
+/plugins/bootstrap-toastr/toastr.min.js
+0 1 0 0 0 0
+/js/fullcalendar.min.js
+0 1 0 0 0 0
+/payroll/90
+0 1 0 8185 0 0
+/css/style.css
+0 1 0 0 0 0
+/plugins/datatables/media/images/sort_both.png
+0 5 0 4544 0 0
+/plugins/jquery-migrate.min.js
+0 1 0 0 0 0
+/admin/pages/css/tasks.css
+0 2 0 599 0 0
+/plugins/jquery.min.js
+0 1 0 0 0 0
+/login
+0 5 0 29456 1 1
+/employees/create
+0 1 0 11907 0 0
+/policies
+0 2 0 18906 0 0
+/img/syncfusion-icons-white.png
+0 2 0 11100 0 0
+/plugins/bootstrap-hover-dropdown/bootstrap-hover-dropdown.min.js
+0 1 0 0 0 0
+/css/components-rounded.css
+0 2 0 42469 0 0
+/js/scripts.js
+0 1 0 0 0 0
+/plugins/bootstrap/css/bootstrap.min.css
+0 3 0 39766 0 0
+/_debugbar/assets/javascript
+0 1 0 112163 0 0
+/scripts/metronic.js
+0 1 0 0 0 0
+/plugins/jquery.sparkline.min.js
+0 1 0 0 0 0
+/plugins/uniform/images/sprite.png
+0 2 3329905248024461568 63630 0 0
+/admin/layout4/css/themes/default.css
+0 2 4121973633498426932 2451 0 0
+/admin/pages/css/login3.css
+0 2 3472607610903014966 1800 0 0
+/payroll/create
+0 5 0 43925 0 0
+/_debugbar/assets/stylesheets
+0 8 3761914163249545216 885976 0 0
+/
+0 3 8315445304038076001 30122 12 1
+/plugins/font-awesome/fonts/fontawesome-webfont.woff2
+0 1 3329905248024461568 56780 0 0
+/plugins/bootstrap-daterangepicker/daterangepicker-bs3.css
+0 3 7307214062254763617 2734 0 0
+/deductions/2
+0 1 3602879701896396800 10152 0 0
+/plugins/simple-line-icons/fonts/Simple-Line-Icons.woff
+0 1 99713 59324 0 0
+/admin/layout4/css/layout.css
+0 1 0 0 0 0
+/plugins/select2/select2-spinner.gif
+0 1 0 1849 0 0
+/plugins/jquery-ui/jquery-ui.min.js
+0 1 0 0 0 0
+/plugins/jquery-slimscroll/jquery.slimscroll.min.js
+0 1 0 0 0 0
+/plugins/morris/morris.css
+0 2 0 252 0 0
+/payroll-pdf/90
+0 1 0 31919 0 0
+/plugins/select2/select2.css
+0 5 0 12888 0 0
+/advances/04-2019
+0 1 0 8200 0 0
+/employees/24/edit
+0 1 0 8859 0 0
+/robots.txt
+0 3 0 72 0 0
+/css/fullcalendar.min.css
+0 9 0 23216 0 0
+/plugins/bootstrap-switch/css/bootstrap-switch.min.css
+0 1 0 0 0 0
+/plugins/bootstrap-switch/js/bootstrap-switch.min.js
+0 1 0 0 0 0
+/plugins/select2/select2.min.js
+0 1 0 0 0 0
+/deductions/3
+0 1 0 11470 0 0
+/plugins/bootstrap-modal/css/bootstrap-modal-bs3patch.css
+0 19 0 7110 0 0
+/print-payslips
+0 2 0 16070 0 0
+/deductions
+0 3 0 24573 0 0
+/plugins/jquery.cokie.min.js
+0 2 0 774 0 0
+/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.min.css
+0 8 0 19180 0 0
+/plugins/font-awesome/css/font-awesome.min.css
+0 11 0 54430 0 0
+# End Of Table - urls
+# -sites- (monthly)
+ip-54-36-148-30.a.ahrefs.com
+0 2 0 474 2 1558113038
+/
+ip-54-36-148-201.a.ahrefs.com
+0 1 1 24 0 0
+-
+ip-54-36-148-72.a.ahrefs.com
+0 1 0 384 1 1556675281
+-
+ip-54-36-149-101.a.ahrefs.com
+0 1 0 247 0 0
+-
+ip-54-36-148-202.a.ahrefs.com
+0 1 1 24 0 0
+-
+ip-54-36-149-33.a.ahrefs.com
+0 1 0 384 1 1557432391
+/
+ip-54-36-148-253.a.ahrefs.com
+0 1 0 237 1 1558128044
+/
+ip-54-36-149-24.a.ahrefs.com
+0 1 0 237 1 1556997773
+/
+ip-54-36-148-130.a.ahrefs.com
+0 1 0 237 1 1557583369
+/
+ip-54-36-148-128.a.ahrefs.com
+0 1 0 247 0 0
+-
+ip-54-36-149-30.a.ahrefs.com
+0 1 1 4595 1 1556691335
+/login
+ip-54-36-148-243.a.ahrefs.com
+0 1 0 384 1 1558217026
+/
+ip-54-36-148-195.a.ahrefs.com
+0 1 0 247 0 0
+-
+node-7.master.homemade.altabering.com
+0 1 0 384 1 1557182426
+/
+209.17.97.18
+0 1 0 384 1 1558088443
+/
+ip-54-36-148-188.a.ahrefs.com
+0 1 0 384 1 1556961170
+/
+ip-54-36-148-218.a.ahrefs.com
+0 1 1 24 0 0
+-
+142.93.190.250
+0 1 0 237 1 1557183256
+/
+197.232.60.130
+0 380 283 3272621 2 1556885184
+/payroll-pdfs
+# End Of Table - sites (monthly)
+# -sites- (daily)
+ip-54-36-148-201.a.ahrefs.com
+0 1 1 24 0 0
+-
+ip-54-36-148-243.a.ahrefs.com
+0 1 0 384 1 1558217026
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://oldonyo.cloudwage.com/plugins/datatables/plugins/bootstrap/dataTables.bootstrap.css
+0 9
+https://oldonyo.cloudwage.com/print-payslips
+0 7
+https://oldonyo.cloudwage.com/
+0 4
+https://oldonyo.cloudwage.com/payroll-report
+0 15
+https://oldonyo.cloudwage.com/payroll/90
+0 2
+https://oldonyo.cloudwage.com/deductions/3
+0 4
+https://oldonyo.cloudwage.com/deductions/1
+0 1
+https://oldonyo.cloudwage.com/css/plugins.css
+0 4
+https://oldonyo.cloudwage.com/payroll/0
+0 22
+https://oldonyo.cloudwage.com/payroll-generate
+0 15
+- (Direct Request)
+0 28
+https://oldonyo.cloudwage.com/policies
+0 3
+https://oldonyo.cloudwage.com/css/components-rounded.css
+0 2
+https://oldonyo.cloudwage.com/employees/24/edit
+0 2
+https://oldonyo.cloudwage.com/plugins/font-awesome/css/font-awesome.min.css
+0 2
+https://oldonyo.cloudwage.com/advances
+0 75
+https://oldonyo.cloudwage.com/policies/1/edit
+0 3
+https://oldonyo.cloudwage.com/deductions
+0 6
+https://oldonyo.cloudwage.com/advances/05-2019
+0 4
+https://oldonyo.cloudwage.com/employees/create
+0 3
+https://oldonyo.cloudwage.com/plugins/simple-line-icons/simple-line-icons.min.css
+0 2
+https://oldonyo.cloudwage.com/employees
+0 17
+https://oldonyo.cloudwage.com/deductions/2
+0 4
+https://oldonyo.cloudwage.com/login
+0 13
+https://oldonyo.cloudwage.com/advances/create
+0 25
+https://oldonyo.cloudwage.com/payroll
+0 100
+https://oldonyo.cloudwage.com/payroll/91
+0 3
+https://oldonyo.cloudwage.com/payroll/create
+0 16
+https://oldonyo.cloudwage.com/plugins/uniform/css/uniform.default.css
+0 2
+https://oldonyo.cloudwage.com/advances/04-2019
+0 3
+https://oldonyo.cloudwage.com/plugins/select2/select2.css
+0 3
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)
+0 1
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 2
+Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)
+0 16
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+0 380
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

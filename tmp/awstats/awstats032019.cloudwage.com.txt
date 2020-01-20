@@ -1,0 +1,1188 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201903 will be lost/reset.
+# Last config file used to build this data file was /home/cloudwage/tmp/awstats/awstats.cloudwage.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2690                
+POS_VISITOR 32008               
+POS_DAY 47407               
+POS_DOMAIN 3554                
+POS_LOGIN 4355                
+POS_ROBOT 4510                
+POS_WORMS 5504                
+POS_EMAILSENDER 5635                
+POS_EMAILRECEIVER 5778                
+POS_SESSION 48231               
+POS_SIDER 48410               
+POS_FILETYPES 5913                
+POS_DOWNLOADS 6143                
+POS_OS 6264                
+POS_BROWSER 6548                
+POS_SCREENSIZE 8860                
+POS_UNKNOWNREFERER 8934                
+POS_UNKNOWNREFERERBROWSER 9863                
+POS_ORIGIN 10158               
+POS_SEREFERRALS 10298               
+POS_PAGEREFS 10485               
+POS_SEARCHWORDS 10926               
+POS_KEYWORDS 11098               
+POS_MISC 2353                
+POS_ERRORS 11177               
+POS_CLUSTER 4211                
+POS_SIDER_404 11328               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190401001237 40 7555 10147984257425
+FirstTime 20190301012633
+LastTime 20190331223918
+LastUpdate 20190401141305 40 0 39 0 0
+TotalVisits 605                 
+TotalUnique 390                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 395                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 52 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 26 28 161797 84 121 1445895
+1 17 17 95608 59 64 752925
+2 19 19 130751 67 82 918024
+3 24 52 636326 159 180 2044102
+4 28 56 669485 122 147 1252289
+5 24 54 579389 85 104 983248
+6 21 21 144592 76 106 1135630
+7 22 50 587557 93 117 1609531
+8 27 55 670141 68 72 820651
+9 13 13 82071 53 77 1048980
+10 24 80 1107510 55 96 721329
+11 29 56 623170 98 108 1197435
+12 29 85 1121406 121 144 2118502
+13 47 142 1690142 122 141 1778491
+14 32 60 696627 103 131 1748360
+15 25 39 366153 78 101 1158792
+16 29 86 1113635 66 91 943581
+17 36 66 683947 122 166 1958708
+18 28 55 585764 96 107 1053142
+19 55 167 2348853 127 145 1672238
+20 31 31 176571 71 109 1310526
+21 48 48 292785 133 144 1433168
+22 37 37 251901 136 170 1823334
+23 32 60 656205 115 125 1461908
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 42
+us 173 340 3977775
+ru 113 143 1157024
+ke 48 284 3890704
+gb 43 43 267490
+de 40 72 704231
+fr 37 93 1184822
+nl 31 31 202491
+md 31 31 173835
+at 30 30 164692
+ca 30 86 1112534
+ch 27 27 151519
+se 14 14 75680
+kr 9 51 996046
+ua 7 7 72726
+ro 6 6 33784
+hu 6 6 33642
+it 5 5 28205
+no 5 5 28129
+au 4 32 492694
+lr 4 4 22514
+nz 3 3 16926
+sk 3 3 14890
+is 3 3 16936
+hk 3 3 16926
+ph 3 30 430402
+pl 1 1 4600
+br 1 1 5649
+gr 2 2 11257
+in 2 2 11276
+lv 2 2 10964
+cn 2 2 29503
+ir 1 1 22320
+fi 1 1 5647
+cr 1 1 5659
+dk 1 1 5563
+pa 2 2 11246
+cl 1 1 4621
+id 2 2 27959
+kn 1 1 5619
+zz 3 3 15911
+bg 1 1 5622
+kg 1 1 22353
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 22
+Googlebot/ 300 3403304 20190331185912 31
+bingbot/ 133 1279040 20190331075029 45
+bot[\s_+:,\.\;\/\\-] 53 722630 20190330054029 3
+YandexBot/ 53 66123 20190330221138 39
+MJ12bot/ 21 150914 20190331062747 11
+AhrefsBot/ 13 312 20190327171727 13
+PhantomJS 12 68646 20190319194652 0
+SeznamBot/ 12 14244 20190331113712 9
+bingpreview 11 716647 20190322153817 0
+SemrushBot/ 11 18607 20190331070225 7
+(firefox/)([0-9]\.|[0-1][0]\.) 10 623809 20190328164031 0
+unknown 6 144 20190331111543 6
+Baiduspider/ 5 11122 20190331200202 3
+Python\-urllib/ 3 67441 20190331234401 0
+BLEXBot/ 3 5546 20190304221121 2
+crawler4j 3 227469 20190320093417 0
+MegaIndex\.ru/ 3 10570 20190311072824 1
+Cliqzbot/ 3 4684 20190314095926 2
+Mail\.RU_Bot/ 3 4721 20190330011459 2
+curl 3 43386 20190321143139 0
+no_user_agent 2 4467 20190326224734 0
+netEstate[\x20]NE[\x20]Crawler 2 4617 20190304054207 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+woff 2 130832 0 0
+png 27 119865 0 0
+css 276 1999719 0 0
+html 1 9892 0 0
+js 369 2833886 0 0
+woff2 14 794920 0 0
+eot 2 121488 0 0
+Unknown 684 9461630 0 0
+txt 2 154 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/.well-known/pki-validation/06115EC6B83B25C943688FEB64B93C27.txt 2 0 154
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+macosx 73 18
+win2003 3 3
+winunknown 64 8
+linux 102 32
+macosx10 8 8
+macosx11 46 18
+winlong 34 34
+winxp 35 35
+win10 482 189
+win7 307 193
+win8.1 54 54
+linuxandroid 34 6
+macosx5 1 1
+win8 30 30
+Unknown 54 24
+macosx12 50 50
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 117
+chrome35.0.1916.153 1 1
+chrome63.0.3239.132 2 2
+firefox66.0 89 21
+chrome62.0.3202.94 6 6
+firefox61.0 3 3
+msie8.0 9 9
+chrome 3 3
+chrome49.0.2623.112 2 2
+firefox50.0 22 22
+firefox40.1 4 4
+chrome61.0.3163.100 30 30
+edge16 5 5
+chrome64.0.3282.186 4 4
+chrome4.0.249.0 1 1
+chrome60.0.3112.90 9 9
+chrome66.0.3359.181 4 4
+chrome57.4.9742.4470 1 1
+firefox53.0 1 1
+chrome60.0.3112.113 11 11
+edge13 21 21
+msie6.0 1 1
+safari9.1 2 2
+chrome68.0.3440.106 2 2
+chrome42.0.2311.135 4 4
+firefox35.0 1 1
+chrome41.0.2272.104 2 2
+safari9.1.1 2 2
+chrome41.0.2226.0 1 1
+chrome63.0.3239.84 6 6
+chrome57.0.2987.133 13 13
+firefox65.0 2 2
+firefox58.0 3 3
+chrome72.0.3626.81 2 2
+chrome71.0.3578.80 1 1
+firefox54.0 11 11
+edge15 15 15
+firefox59.0 6 6
+chrome51.0.2704.63 3 3
+firefox62.0 1 1
+Unknown 44 14
+safari11.0.2 3 3
+chrome72.0.3626.121 256 33
+opera47.0.2631.39 4 4
+chrome5.0.375.99 2 2
+safari10.0.1 7 7
+msie9.0 47 17
+chrome43.0.2357.65 2 2
+chrome57.5.9326.4054 1 1
+msie7.0 3 3
+chrome72.0.3626.119 62 7
+chrome72.0.3626.109 32 4
+opera53.0.2907.99 3 3
+chrome55.0.2883.87 18 18
+chrome61.0.3163.79 7 7
+chrome62.0.3202.89 13 13
+chrome46.0.2490.80 6 6
+firefox49.0 32 4
+firefox44.0 8 8
+mozilla 21 21
+chrome58.0.3029.110 8 8
+edge17 6 6
+chrome41.0.2272.89 23 23
+firefox48.0 10 10
+safari11.1 1 1
+chrome45.0.2454.94 1 1
+chrome65.0.3325.181 4 4
+chrome68.0.3440.84 1 1
+msie6.1 1 1
+opera54.0.2952.51 1 1
+chrome56.0.2924.87 3 3
+firefox15.0 2 2
+chrome51.0.2704.106 5 5
+chrome66.0.3359.117 5 5
+msie11 1 1
+msie11.0 56 27
+firefox41.0 8 8
+firefox46.0 8 8
+firefox39.0 4 4
+safari11.0.3 3 3
+chrome56.0.2924.76 16 2
+chrome52.0.2743.116 4 4
+firefox56.0 7 7
+chrome51.0.2704.103 1 1
+android 1 1
+firefox27.0 1 1
+safari9.0.3 3 3
+chrome35.0.2117.157 1 1
+chrome40.0.2214.93 1 1
+chrome9.0.597.94 14 1
+safari10.1.2 7 7
+chrome39.0.2171.95 6 6
+chrome59.0.3071.115 3 3
+chrome54.0.2840.99 1 1
+safari10.1 1 1
+firefox47.0 3 3
+chrome48.0.2564.109 5 5
+chrome44.0.2403.157 2 2
+firefox33.0 2 2
+safari 55 13
+netscape5.0 1 1
+safari9.1.2 3 3
+opera8.50 1 1
+opera43.0.2442.991 3 3
+opera42.0.2393.94 4 4
+chrome66.0.3359.139 33 3
+safari10.0.3 3 3
+firefox55.0 32 4
+msie10.0 12 12
+chrome71.0.3578.98 1 1
+firefox64.0 1 1
+firefox52.0 19 19
+chrome73.0.3683.86 33 5
+edge12 10 10
+safari10.1.1 1 1
+safari11.1.2 34 6
+firefox57.0 3 3
+edge14 21 21
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 14
+Python/3.6_aiohttp/3.4.4 20190319232231
+}__test|O:21:\ 20190330040113
+COMODO_DCV 20190308001513
+Mozilla/5.0_(compatible;_Dataprovider.com) 20190307100956
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20190302112308
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12sns;__http://researchscan.comsys.rwth-aachen.de) 20190302152943
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20190302140418
+Scrapy/1.6.0_(_https://scrapy.org) 20190329002111
+\ 20190310033712
+Mozilla/5.0_Firefox/35.0 20190324045006
+Mozilla/5.0 20190306070052
+Mozilla/5.0_(compatible;_Tweezler/2.0;_http://tweezler.com) 20190310052257
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12ca;__http://researchscan.comsys.rwth-aachen.de) 20190302190126
+Scrapy/1.5.1_(_https://scrapy.org) 20190325154306
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+Python/3.6_aiohttp/3.4.4 20190319232231
+}__test|O:21:\ 20190330040113
+COMODO_DCV 20190308001513
+Scrapy/1.6.0_(_https://scrapy.org) 20190329002111
+\ 20190310033712
+Scrapy/1.5.1_(_https://scrapy.org) 20190325154306
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 544 559
+From1 2 2
+From2 9 9
+From3 28 28
+From4 120 779
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+aolcom 1 1
+yandexru 1 1
+www_google_com 7 7
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 8
+http://hundejo.com 9 9
+http://pizza-tycoon.com 6 6
+http://pizza-imperia.com 5 5
+http://burger-imperia.com 3 3
+https://www.wizag.biz/services/payroll-software/ 2 2
+https://www.wizag.biz/works/payroll-management-solution/ 1 1
+http://10.220.1.2:8085/redirect.php 1 1
+https://www.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+www.cloudwage.com 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+www.cloudwage.com 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+404 561 11717877
+301 197 50791
+302 916 319612
+405 2 48508
+500 455 12805558
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 279
+/mysite/wp-login.php 1 -
+/.well-known/acme-challenge/gMXUwkfiPXB-ROdP2Gnqwf08nq_PeKQ1JMGkFDTaCqY 1 -
+/.well-known/acme-challenge/OLFhPIJRK0cX3PXhvh95r7WMIB90XTotnv0mtH-aNXc 1 -
+/admin/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/.well-known/acme-challenge/Z1KnnlNKjMCwSRNK81r36Ru8GDWYCAErq9LDIHWMCiI 1 http://www.cloudwage.com/.well-known/acme-challenge/Z1KnnlNKjMCwSRNK81r36Ru8GDWYCAErq9LDIHWMCiI
+/.well-known/acme-challenge/tnxGHNnN9asKx6WtFSBGunPIFx5_Vcp86saokIHTW5I 1 -
+//webconfig.txt.php 2 http://www.google.com.hk
+/site 1 -
+/blog/xmlrpc.php 3 -
+/website/wp-includes/wlwmanifest.xml 10 -
+/.well-known/acme-challenge/w-nxS9F_WiZ1peX2JfHhd76s96Dlun9SmF5Lyuw1ofA 1 -
+/web/wp-includes/wlwmanifest.xml 10 -
+/wp-config.php.old 1 -
+/.well-known/acme-challenge/9CAoTcSIh2dYF49tfu5ILJ8pwpHMRYWrkJq4UWnoTP4 1 -
+/.well-known/acme-challenge/xp59Ys117YbHoZhQsLyDdzmLw7fHJOgMAMdi1vI5TzI 1 -
+/.well-known/acme-challenge/JoyMczHrGEZVtJ4dbM0lnhR-Xovua9OGNjOjeFdkcwI 1 http://www.cloudwage.com/.well-known/acme-challenge/JoyMczHrGEZVtJ4dbM0lnhR-Xovua9OGNjOjeFdkcwI
+/cms 2 -
+/cms/wp-includes/wlwmanifest.xml 11 -
+/ads.txt 1 -
+/media/wp-includes/wlwmanifest.xml 10 -
+/.well-known/acme-challenge/IxClom0Ff2dBrt-c4aG33dC79rvthD3lW8eK8HTe0No 1 http://www.cloudwage.com/.well-known/acme-challenge/IxClom0Ff2dBrt-c4aG33dC79rvthD3lW8eK8HTe0No
+/.well-known/acme-challenge/bEmJS-B0vKAKsndWw-Faz6MkOwyP4FccSLg1hZJJe3c 1 -
+/media/media.php 1 -
+/.well-known/acme-challenge/lkO2h7zpFhsVoqHl1_3uMaqKN0NVq5RlOZswdWMSvQs 1 http://www.cloudwage.com/.well-known/acme-challenge/lkO2h7zpFhsVoqHl1_3uMaqKN0NVq5RlOZswdWMSvQs
+///webconfig.txt.php 2 http://www.google.com.hk
+/admin/images/cal_date_over.gif 1 -
+/.well-known/acme-challenge/KuqFsZTAk5PRYnbw65omyHEfjH1Io3fHAu6nfKoYBoU 1 http://www.cloudwage.com/.well-known/acme-challenge/KuqFsZTAk5PRYnbw65omyHEfjH1Io3fHAu6nfKoYBoU
+/main 1 -
+/.well-known/acme-challenge/gvToHjHIZTKwJdoWAXU7qgazFDKBNjBQjwpZU-EpB78 1 -
+/.well-known/acme-challenge/qc08mUULYB_4FvVbaTFpQWMZGNB7jpvexzHAmm6FmOQ 1 -
+/SHOP/MB004.html 1 -
+/.well-known/acme-challenge/cNY826A3bojfClM2flNXjaihWRe1HP7_Oy0PjhC9tRQ 1 http://www.cloudwage.com/.well-known/acme-challenge/cNY826A3bojfClM2flNXjaihWRe1HP7_Oy0PjhC9tRQ
+/.well-known/acme-challenge/mSs4tu9fvYvAktCqd6MheJPEgdxUFoYzTPT3UkjgZFM 1 http://www.cloudwage.com/.well-known/acme-challenge/mSs4tu9fvYvAktCqd6MheJPEgdxUFoYzTPT3UkjgZFM
+/.well-known/acme-challenge/brWDpDz5eopQqPuXitnWcO4CED9HY_ofY8EX_pvAiRQ 1 http://www.cloudwage.com/.well-known/acme-challenge/brWDpDz5eopQqPuXitnWcO4CED9HY_ofY8EX_pvAiRQ
+/.well-known/acme-challenge/OC8YCXj81QWGEmxzdkytQ7W7c7r25UwlzSi0FUffH3Q 1 http://www.cloudwage.com/.well-known/acme-challenge/OC8YCXj81QWGEmxzdkytQ7W7c7r25UwlzSi0FUffH3Q
+/ivyhqwpsjelwca.html 1 -
+/.well-known/acme-challenge/rQnQzT0lUZrQpEEMYcpRyVqaH0CPFCE73vD9fygW4Sg 1 http://www.cloudwage.com/.well-known/acme-challenge/rQnQzT0lUZrQpEEMYcpRyVqaH0CPFCE73vD9fygW4Sg
+/templates/system/css/system.css 1 -
+/hpgen/HPB/entries/99.html 1 -
+/wp-content/plugins/simple-image-manipulator/controller/download.php 1 -
+/wp2/wp-includes/wlwmanifest.xml 10 -
+//wp-login.php 6 -
+/site/wp-login.php 1 -
+/wp-config.php.new 1 -
+/2018/wp-includes/wlwmanifest.xml 10 -
+/.well-known/acme-challenge/4A1DL5ggVLFfobcgltCRjdFP8iuyOPqQsjLoRme_ySg 1 -
+/contact 1 -
+/wp-includes/css/upload.php 1 -
+/SHOP/PS020-20.html 1 -
+/.well-known/acme-challenge/qhumImAYc1gXRhbQETAu3ZBHLVJDEgiBwmsUW0l_rmk 1 http://www.cloudwage.com/.well-known/acme-challenge/qhumImAYc1gXRhbQETAu3ZBHLVJDEgiBwmsUW0l_rmk
+/.well-known/acme-challenge/UNNpifDYcyG81ZetA4ZZf6-rw4RQWqeq8Qxdm8rqOrM 1 http://www.cloudwage.com/.well-known/acme-challenge/UNNpifDYcyG81ZetA4ZZf6-rw4RQWqeq8Qxdm8rqOrM
+/q168-815dissonant-917-a7b4--barton13811/dissonant16a.html 1 -
+/.well-known/acme-challenge/z0vkI0aBIjNJEHUDBwdewdJgeKM29wXPBFRJ99EU6As 1 http://www.cloudwage.com/.well-known/acme-challenge/z0vkI0aBIjNJEHUDBwdewdJgeKM29wXPBFRJ99EU6As
+/de/wp-login.php 1 -
+/.well-known/acme-challenge/62UC827Qf7CWysXUMtHFouLORNedBfzN9JYOGnfAohs 1 -
+/.well-known/acme-challenge/3eSv79iRgnTUsuKha2TtTuVY1SNnwd3e_O6fOYE7Bqg 1 -
+/.well-known/acme-challenge/zWu0Du9w9pBxAJUDXsXoo9g6meeTY02GMfJlxXQnR68 1 -
+/.well-known/acme-challenge/YMXFjr1Mo6O4CdcMvCbfNgTd7QTaHnO_mIgv_Dw10Xs 1 -
+/SHOP/73868/list.html 1 -
+/com/wp-login.php 1 -
+/SHOP/MB002.html 1 -
+/user/register 4 -
+/.well-known/acme-challenge/rTXJvUfU4FnUmPyrL9s9KPsV4QGcxRgWei6V5ly8AMM 1 -
+/blog/wp-login.php 1 -
+/phpmyadmin/index.php 1 https://google.com
+/.well-known/acme-challenge/py7opOfo8wTMnl7qM90di1q1XPaxL-U9PzkyUKreb_Q 1 -
+/SHOP/13059401S.html 1 -
+/2018/wp-login.php 1 -
+/.well-known/acme-challenge/bnqQiVrXTq9OchT7ANmDV0kCdak8WljFPaSs0jGDMGs 1 http://www.cloudwage.com/.well-known/acme-challenge/bnqQiVrXTq9OchT7ANmDV0kCdak8WljFPaSs0jGDMGs
+/.well-known/acme-challenge/lCDuVjghkEjtOzcCB9rupx6UvA3xHR-QISwCUgvHOBs 1 -
+/.well-known/acme-challenge/tWbXsdH2uTuXa475IbsJHz5Bkff--UHP0awBGifaACY 1 http://www.cloudwage.com/.well-known/acme-challenge/tWbXsdH2uTuXa475IbsJHz5Bkff--UHP0awBGifaACY
+/hpgen/HPB/entries/78.html 1 -
+/news/wp-includes/wlwmanifest.xml 10 -
+/.well-known/acme-challenge/gWuBwZC9rXoo0CLP_MT_su-R0oiVIiUjnHPajmJHNyE 1 http://www.cloudwage.com/.well-known/acme-challenge/gWuBwZC9rXoo0CLP_MT_su-R0oiVIiUjnHPajmJHNyE
+/.well-known/acme-challenge/zAs3P9Kj5ujfZfZDre_340CCzjGLOGVigWF-dzrNlIY 1 -
+/wp-config.php_old 1 -
+/libraries/modules.php 1 -
+/.well-known/acme-challenge/zBEVWTSok3Zy6tG058gz6BNP8AFmWW9VQJdJFXcTmR0 1 -
+/SHOP/73849/list.html 1 -
+/.well-known/acme-challenge/M3GhozVOxbwyL1udAB0jRWs768MltlbHD8TSnUvyGXI 1 http://www.cloudwage.com/.well-known/acme-challenge/M3GhozVOxbwyL1udAB0jRWs768MltlbHD8TSnUvyGXI
+/.well-known/acme-challenge/GnrD3R-d4S0rSSAaTKK_dRBaW4nQuz_-cZ3t1W2v_Cc 1 -
+/.well-known/acme-challenge/eMof8kf0Be4eftp0CoEHFTdCX_EPjnJuzJH4L91fhPg 1 -
+/wp-content/themes/twentyseventeen/404.php 1 -
+/.well-known/acme-challenge/Ol3tS8spcqiSPlI67mNOJyi6qdGEc0NUkS-1zSgHzGw 1 http://www.cloudwage.com/.well-known/acme-challenge/Ol3tS8spcqiSPlI67mNOJyi6qdGEc0NUkS-1zSgHzGw
+/.well-known/acme-challenge/PrnCtevTuG6WJ2X353Cnmo9jf9ps47faBTbuAH99j6o 1 -
+/.well-known/acme-challenge/uCQKb6qg-mPB34MCrySqWHI2SWtdtz8bWw1BlVye880 1 http://www.cloudwage.com/.well-known/acme-challenge/uCQKb6qg-mPB34MCrySqWHI2SWtdtz8bWw1BlVye880
+/.well-known/acme-challenge/1DzhTMoR0_1Sese7X-ImupTjUpjohq2aLdYdF7izIdw 1 http://www.cloudwage.com/.well-known/acme-challenge/1DzhTMoR0_1Sese7X-ImupTjUpjohq2aLdYdF7izIdw
+/info/wp-login.php 1 -
+/.well-known/acme-challenge/jaDZHil4eWUCeHrmyeg-WWLk-fj1QQl56wBdnrWp1CM 1 http://www.cloudwage.com/.well-known/acme-challenge/jaDZHil4eWUCeHrmyeg-WWLk-fj1QQl56wBdnrWp1CM
+/.well-known/acme-challenge/ahjkRopEvuNGTzERhxbCFCYl-0-swOdDuYwVKpIULGs 1 http://www.cloudwage.com/.well-known/acme-challenge/ahjkRopEvuNGTzERhxbCFCYl-0-swOdDuYwVKpIULGs
+/wp/wp-includes/wlwmanifest.xml 11 -
+/.well-known/acme-challenge/b9eGIlQ94p7FRDGDnyiFoYekGg1ERyitogpra10_26s 1 http://www.cloudwage.com/.well-known/acme-challenge/b9eGIlQ94p7FRDGDnyiFoYekGg1ERyitogpra10_26s
+/.well-known/acme-challenge/YfgBq3ileHjhPBVCINylqKl7Ode5daPVuLRYlznJmmE 1 http://www.cloudwage.com/.well-known/acme-challenge/YfgBq3ileHjhPBVCINylqKl7Ode5daPVuLRYlznJmmE
+/.well-known/acme-challenge/Blvc_1yfhg16VHGA8cHJx7L042ccVZWHd-m9Y76RvKw 1 -
+/press 1 -
+/.well-known/acme-challenge/xO1XNdQO8FeYLVw6W-QSWTh9xxxdzBRHU9v-FO-NT3o 1 -
+/shop/wp-includes/wlwmanifest.xml 10 -
+/.well-known/acme-challenge/xVIuu0X6TqDO9Xeen3KJY4k7f2Awu6B3YOTwvhISWJY 1 http://www.cloudwage.com/.well-known/acme-challenge/xVIuu0X6TqDO9Xeen3KJY4k7f2Awu6B3YOTwvhISWJY
+/.well-known/acme-challenge/n6Kjsf6MhRN2FJ_HOSB7cvXjXbi7XymlOhvUNDK1DCw 1 http://www.cloudwage.com/.well-known/acme-challenge/n6Kjsf6MhRN2FJ_HOSB7cvXjXbi7XymlOhvUNDK1DCw
+/.well-known/acme-challenge/VgZJmMx8lcuqnBtR4hjZ6Yo01I03g5XQcSKJ15cYeOs 1 http://www.cloudwage.com/.well-known/acme-challenge/VgZJmMx8lcuqnBtR4hjZ6Yo01I03g5XQcSKJ15cYeOs
+/.well-known/acme-challenge/bwohmN6eLu7_hBytOuofzHvB5WX8fc6O9tc-z8WhpQs 1 -
+/wp-config.bak 1 -
+/.well-known/acme-challenge/Imfo7xU0QptAdhX3fZUyRxTSpPkyjqONP7MyC8MfZvs 1 -
+/.well-known/acme-challenge/d1LciJy45KLty-lTnr9CpocpOu0gS9Qn_AlKmUlj36g 1 http://www.cloudwage.com/.well-known/acme-challenge/d1LciJy45KLty-lTnr9CpocpOu0gS9Qn_AlKmUlj36g
+/fckeditor/editor/filemanager/connectors/php/upload.php 1 -
+/.well-known/acme-challenge/lMUNBWBpF_JtL1X8Sv7ZkWXk4LtyrvkJ4suP9ZrAj-s 1 http://www.cloudwage.com/.well-known/acme-challenge/lMUNBWBpF_JtL1X8Sv7ZkWXk4LtyrvkJ4suP9ZrAj-s
+/wp-config.php_new 1 -
+/.well-known/acme-challenge/pAq4AZXqRCcPjVrkrLWE8TV1MdsM8HJO4td9QayddAI 1 http://www.cloudwage.com/.well-known/acme-challenge/pAq4AZXqRCcPjVrkrLWE8TV1MdsM8HJO4td9QayddAI
+/.well-known/acme-challenge/nVHWBIdW-sffDdObRgpaMOFwDIKi9TPaCgFvA6ptD-8 1 -
+/2015/wp-includes/wlwmanifest.xml 10 -
+/.well-known/acme-challenge/9BFVSG7iJYhgIkjgLLhvngYWkGfvd0zl4b0sdlKjfW8 1 http://www.cloudwage.com/.well-known/acme-challenge/9BFVSG7iJYhgIkjgLLhvngYWkGfvd0zl4b0sdlKjfW8
+/wp 3 -
+/blog 3 http://cloudwage.com/
+/2019/wp-login.php 1 -
+/.well-known/acme-challenge/IWHYNy9DR9iB47W4prHK3L-0s3R8acLfgNC4uXnbqnE 1 http://www.cloudwage.com/.well-known/acme-challenge/IWHYNy9DR9iB47W4prHK3L-0s3R8acLfgNC4uXnbqnE
+/.well-known/acme-challenge/6cjX1VOuaEGE4Ab3db58AbSod--amJ8V6VjzUaWuTCg 1 -
+/q37401-5d8blessed-a6e5-43799--barton13910/blessedf87.html 1 -
+/.well-known/acme-challenge/lIiIxfcqWejIiHT6jVVlapvhqlR7uZLbCCKDSdoNtwA 1 http://www.cloudwage.com/.well-known/acme-challenge/lIiIxfcqWejIiHT6jVVlapvhqlR7uZLbCCKDSdoNtwA
+/yjh.php 1 -
+/javascript: 2 -
+/.well-known/acme-challenge/dunf_HWnm60Cpk_apWtAwguTb0DuwD7pqq1HAAQN7dY 1 -
+/wp-includes/wlwmanifest.xml 12 -
+/mambots/editors/fckeditor/editor/filemanager/upload/php/upload.php 1 -
+/.well-known/acme-challenge/E0BaHEulNl85PCv_NhpUEbuH27GGU65IVi0MGaXNqMU 1 -
+/forum/wp-login.php 1 -
+/wp-includse.php 1 -
+/post.php 1 -
+/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/.well-known/acme-challenge/UDpJkRelI7mYN9s1gu1b4dV3-bdXcXWX1m35FI1w3hM 1 http://www.cloudwage.com/.well-known/acme-challenge/UDpJkRelI7mYN9s1gu1b4dV3-bdXcXWX1m35FI1w3hM
+/.well-known/acme-challenge/DDgieVtyQ43Xiq8OTSJTiq_aI1falJcQQjozFlvv4ho 1 http://www.cloudwage.com/.well-known/acme-challenge/DDgieVtyQ43Xiq8OTSJTiq_aI1falJcQQjozFlvv4ho
+/wp-admin/admin-ajax.php 1 -
+/.well-known/acme-challenge/bM8aGxGLD6giUBJzHdA1HpTNN2UrD8CVHqMUbET4k_s 1 -
+/wp-admin 3 -
+/sitemap.xml 5 -
+/SHOP/73867/list.html 1 -
+/SHOP/1080285/list.html 2 -
+/testblog/wp-login.php 1 -
+/.well-known/acme-challenge/Goi4hXWVqJjn9h3d0a561XHWrHfVm11Kg6ZAZz3fEII 1 -
+/en 1 -
+/.well-known/acme-challenge/y9kLEr496ZtqEhIbDnxC5tgqqSDSAMQYzbiz-_yVySw 1 http://www.cloudwage.com/.well-known/acme-challenge/y9kLEr496ZtqEhIbDnxC5tgqqSDSAMQYzbiz-_yVySw
+/2017/wp-includes/wlwmanifest.xml 10 -
+/myblog/wp-login.php 1 -
+/administrator 5 http://stgeorgeplumbers.com/wp-login.php
+/test/wp-admin/setup-config.php 1 -
+/wordpress 3 -
+/.well-known/acme-challenge/6iLfHDbt6bQlBVOAp4tDdJ16MCJlqKXQPhIXZSHSOyA 1 http://www.cloudwage.com/.well-known/acme-challenge/6iLfHDbt6bQlBVOAp4tDdJ16MCJlqKXQPhIXZSHSOyA
+/wp-content/themes/sketch/wp-console.php 1 -
+/site/wp-includes/wlwmanifest.xml 11 -
+/test 1 -
+/wp1/wp-login.php 1 -
+/sites/default/files/seo_script.php 1 -
+/.well-known/acme-challenge/QSHbTxbghf2R47ler1oPyNxZRSCQNjhDBubDtxkFCAk 1 http://www.cloudwage.com/.well-known/acme-challenge/QSHbTxbghf2R47ler1oPyNxZRSCQNjhDBubDtxkFCAk
+//administrator//webconfig.txt.php 2 http://www.google.com.hk
+/.well-known/acme-challenge/bWSkJr_D8atI5Qc-Mybd9Q3ahZQ-71YJipKGUSU21CE 1 http://www.cloudwage.com/.well-known/acme-challenge/bWSkJr_D8atI5Qc-Mybd9Q3ahZQ-71YJipKGUSU21CE
+/SHOP/89929738A.html 1 -
+/news 1 -
+/.well-known/acme-challenge/jp7TVpKoOy5LC5uQct2oTbbilfzpHKpx_DOsQWZlHEA 1 http://www.cloudwage.com/.well-known/acme-challenge/jp7TVpKoOy5LC5uQct2oTbbilfzpHKpx_DOsQWZlHEA
+/.well-known/acme-challenge/29SmDYQx_HNLSq0vZPBp-jHJrJbLaDDKHTFPB1kWxFg 1 -
+/hpgen/HPB/entries/101.html 1 -
+/shop/wp-login.php 1 -
+/.well-known/acme-challenge/dkJynn0U25958p8dwhbCaQZJOMaOYW76V9Oo7orWlvM 1 -
+/biz/wp-login.php 1 -
+/.well-known/acme-challenge/En57T_0rzeqAjycEmwbbQIbpwgGqfmQdt0jPjNhzkMk 1 -
+/.well-known/acme-challenge/8KfI7AE8D-7GXmpndxxiTuGy-xUhj6el0ZLnW9vXdHw 1 -
+/wp-content/plugins/google-mp3-audio-player/direct_download.php 1 -
+/.well-known/acme-challenge/g1xbBD4nVTLvnggWVILQd-I35HMfDu_eCrDzkGZyw_E 1 http://www.cloudwage.com/.well-known/acme-challenge/g1xbBD4nVTLvnggWVILQd-I35HMfDu_eCrDzkGZyw_E
+/.well-known/acme-challenge/RRPe9q8ONWISqv8Dxs-2tZhecwJXVRKO1--d5mBSUQU 1 http://www.cloudwage.com/.well-known/acme-challenge/RRPe9q8ONWISqv8Dxs-2tZhecwJXVRKO1--d5mBSUQU
+/wp//wp-login.php 1 -
+/XAttacker.php 1 -
+/admin/login.php 1 -
+/.well-known/acme-challenge/E4RJrGPrcDj5S0o2KagYNI3_LdFNVTULwm8FISUCdYc 1 http://www.cloudwage.com/.well-known/acme-challenge/E4RJrGPrcDj5S0o2KagYNI3_LdFNVTULwm8FISUCdYc
+/2016/wp-includes/wlwmanifest.xml 10 -
+/.well-known/acme-challenge/6sta0Wtp7nf6gM67o4o3SBbgTWOvwojnv-XCyOZ97G8 1 http://www.cloudwage.com/.well-known/acme-challenge/6sta0Wtp7nf6gM67o4o3SBbgTWOvwojnv-XCyOZ97G8
+/wp-sbb.php 1 -
+/test/wp-login.php 1 -
+/.well-known/acme-challenge/kMEvKHmSM3Sx7wwRgERxVOcE0sgWUf4zNhSB0eh7QAg 1 http://www.cloudwage.com/.well-known/acme-challenge/kMEvKHmSM3Sx7wwRgERxVOcE0sgWUf4zNhSB0eh7QAg
+/.well-known/acme-challenge/uht9XET1NSSqi5ULpLyVjqagf8IaQEP2lz0t6Vl2nxE 1 http://www.cloudwage.com/.well-known/acme-challenge/uht9XET1NSSqi5ULpLyVjqagf8IaQEP2lz0t6Vl2nxE
+/website 1 -
+/blog//wp-login.php 1 -
+/www 1 -
+/wp1/wp-includes/wlwmanifest.xml 10 -
+/.well-known/acme-challenge/WFhEVHwnrgANfOLMKUYK_Xr--YlZE_riRMkq01Aup9A 1 http://www.cloudwage.com/.well-known/acme-challenge/WFhEVHwnrgANfOLMKUYK_Xr--YlZE_riRMkq01Aup9A
+/.well-known/acme-challenge/E2rjaWV-Pm20K_WENPnhXprRCT8iGV1CohByjQ7yb_0 1 http://www.cloudwage.com/.well-known/acme-challenge/E2rjaWV-Pm20K_WENPnhXprRCT8iGV1CohByjQ7yb_0
+/.well-known/acme-challenge/Cp9wUQ8-XvaUZvmv5oa-RBxQjL4AREa9sqkoXqYUi6M 1 -
+/oihfoe09fposf.php 1 cloudwage.com
+/wp-config.php_bak 1 -
+/wp-content/themes/mTheme-Unus/css/css.php 1 -
+/wordpress//wp-login.php 1 -
+/.well-known/acme-challenge/5e1Qs2RqD5V806UmqGU83D6D-fO6-R7giTBdDciLHKQ 1 -
+/pma/index.php 1 https://google.com
+/demo 1 -
+/q4837-0d56-3ceblessed-26227--barton13851/blesseddb4.html 2 -
+/wp/wp-login.php 2 -
+/wp-login.php 34 -
+/st.php 1 -
+/wordpress/wp-includes/wlwmanifest.xml 11 -
+/.well-known/acme-challenge/TBjU27uYqVikh2T35_nOg1zytgt0_qlko1nywRFbPsE 1 -
+/wp-content/plugins/way2register.php 1 -
+/home 1 -
+/.well-known/acme-challenge/OIYTybqcW3xyG0LsNsPnFqtqB7PUxlSr2u3w-b_BtUM 1 -
+/wp-includes/LICENSE.php 1 -
+/.well-known/acme-challenge/sZw51cZH-l8nzb-6bbhB9l9lim4Xa4-bly3WHtKNQME 1 -
+/news/wp-login.php 1 -
+/.well-known/acme-challenge/pQqhjgZVyyNU8RUkhclLl08-EQFUzi_DUoxXDUQbMcY 1 http://www.cloudwage.com/.well-known/acme-challenge/pQqhjgZVyyNU8RUkhclLl08-EQFUzi_DUoxXDUQbMcY
+/.well-known/acme-challenge/7DHG3dkNjIMcOF1PwA-IbZ2M8nUBkHHzWjoiegLmRbc 1 -
+/.well-known/acme-challenge/Ug9aLfEDYMNt_yPR3Acx0RrzYf-vPiQKfLJdFVwBeZI 1 http://www.cloudwage.com/.well-known/acme-challenge/Ug9aLfEDYMNt_yPR3Acx0RrzYf-vPiQKfLJdFVwBeZI
+/.well-known/acme-challenge/4roUcYi3r6EUZH8PZaiRKmwOt3pdM3Lyr8BCeibrWgI 1 http://www.cloudwage.com/.well-known/acme-challenge/4roUcYi3r6EUZH8PZaiRKmwOt3pdM3Lyr8BCeibrWgI
+/wp-content/plugins/wptf-image-gallery/lib-mbox/ajax_load.php 1 -
+/.well-known/acme-challenge/rct2G-O0HvJXGjsXln3el7tCJ9y_emQvGv3mJjgMNgE 1 -
+/.well-known/acme-challenge/glwiYM466_wZsZnMCFMYkx3mbBMzfG07NX45kRMD9z4 1 -
+/wp-content/plugins/index.php 1 -
+/.well-known/acme-challenge/gwu_h5ZYq7I9bcn_-bmJ86ldvZ_H4eRS11mOz1jyuao 1 -
+/.well-known/acme-challenge/F48_f87d22v3ASHwI3rRrI46PyJRZEd7nzL0qpK0eio 1 http://www.cloudwage.com/.well-known/acme-challenge/F48_f87d22v3ASHwI3rRrI46PyJRZEd7nzL0qpK0eio
+/.well-known/acme-challenge/BukykDuY4Nyt3nlwBxwCC3RfrVIpYaKMOsIM2DW_F6I 1 -
+/q4081-77fa-562blessed-86843--barton13946/blessedab1.html 1 -
+/admin/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/mambots/editors/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+//wp-admin/admin-post.php 2 http://www.google.com.hk
+/hpgen/HPB/entries/3.html 2 -
+/p_img.php 1 -
+/.well-known/acme-challenge/GRykjbyZaM7pXGZ8tu0e8RBk1-Ga17gAKyKWrSWNz_Y 1 -
+/.well-known/acme-challenge/AXx3Ujr_hCk8QHkbQSayIFfPfHlP6g-phU7Qho5TA9U 1 -
+/.well-known/acme-challenge/f7wnyHdZm6cUSo78y0WSIQLlpWQPAywGSrLEa4GvdJ8 1 -
+/teststite/wp-login.php 1 -
+/wp-config.php_Old 1 -
+/.well-known/acme-challenge/_0dTqNHZEU67WNwdMpz05BCMffXU2vGUpIZISiD2jCY 1 -
+/myforum/wp-login.php 1 -
+/.well-known/acme-challenge/da55_-ZLCA1EyuShh_Gm_wC5a0Xe32unWPGnn1qjjdw 1 -
+/.well-known/acme-challenge/0vKmHysMBOjUSI0QK2UsBMexKisq7IQSQitN5nm8bt0 1 -
+/xmlrpc.php 16 -
+/.well-known/acme-challenge/mxiMYsFeZiVSvSkag47DwpwYTXhAQxmXx66W9F7Yf18 1 http://www.cloudwage.com/.well-known/acme-challenge/mxiMYsFeZiVSvSkag47DwpwYTXhAQxmXx66W9F7Yf18
+/.well-known/acme-challenge/8WtL5pAUm8gUWc1CtT60zxdLr81utDMK6O6sgsrS7Bk 1 http://www.cloudwage.com/.well-known/acme-challenge/8WtL5pAUm8gUWc1CtT60zxdLr81utDMK6O6sgsrS7Bk
+/.well-known/acme-challenge/q95RRUHHzIcNE-nzexAyOr-J1MqT9pNjUAcnj-l2VFE 1 -
+/.well-known/acme-challenge/OMCQhcpDOkoGgRahuW_BwvhfQBcPzpH1pvEtCfUeZFI 1 http://www.cloudwage.com/.well-known/acme-challenge/OMCQhcpDOkoGgRahuW_BwvhfQBcPzpH1pvEtCfUeZFI
+/wp-content/themes/twentythirteen/404.php 1 -
+/test/wp-includes/wlwmanifest.xml 10 -
+/register 2 -
+/SHOP/P-F.html 1 -
+/.well-known/acme-challenge/q8KLdIU4TVvlkpR2JG5ZEIO6y2-N0xGe_cOhvTQJr5w 1 http://www.cloudwage.com/.well-known/acme-challenge/q8KLdIU4TVvlkpR2JG5ZEIO6y2-N0xGe_cOhvTQJr5w
+/.well-known/acme-challenge/Fm53HAh0l727p-YfhA68sOAxrNPZ8OOFnnXZZZRLI2o 1 http://www.cloudwage.com/.well-known/acme-challenge/Fm53HAh0l727p-YfhA68sOAxrNPZ8OOFnnXZZZRLI2o
+/.well-known/acme-challenge/plBvaFT7JoPabaxmqSfzOn1tzQjPiUJLeggSL9_uyTI 1 http://www.cloudwage.com/.well-known/acme-challenge/plBvaFT7JoPabaxmqSfzOn1tzQjPiUJLeggSL9_uyTI
+/.well-known/acme-challenge/3fqd63gOOAtFBNOPK1xNahNv34eLeBH_d6Rzi9kWMhw 1 -
+/.well-known/acme-challenge/s8ZcZYLuXwuRQBrTchN7xe81Ad5K9eBGkQSs-ZWIhns 1 -
+/wp-content/plugins/all-in-one-seo/aioseop_class.php 1 -
+/hpgen/HPB/shop/policy.html 1 -
+/.well-known/acme-challenge/EP5gK5J3njNNQN8zkAgNjsBh_Sse2fE8a-qgFIfxapY 1 -
+/.well-known/acme-challenge/Y-1Yz9ISjdYSTI_kcWQHjXOFzdR83UsNKGLmKe-0lro 1 -
+/.well-known/acme-challenge/NR-PabhgUkusuuxqopfsG82lmezEnc1QGyR14mWyE7I 1 -
+/.well-known/acme-challenge/GaK2RArDR9rk9JLmyhf4w1eSkDrT0IC4hNwFrmQ-lCg 1 -
+/1/wp-login.php 1 -
+/wp-cahce.php 1 -
+/usb-memory.html 1 -
+/wp-config.php 2 -
+/sotsugyo.html 1 -
+/wordpress/wp-admin/setup-config.php 1 -
+/.well-known/acme-challenge/5gm58QGwj_jaex_qE-9PUkD-Q92y6U2SrhDTMSAN_U0 1 -
+/.well-known/acme-challenge/MujJ9h3mf0llBXxaNhJ0zIeWHsGcFu95e1XvNbF0Q_k 1 http://www.cloudwage.com/.well-known/acme-challenge/MujJ9h3mf0llBXxaNhJ0zIeWHsGcFu95e1XvNbF0Q_k
+/.well-known/acme-challenge/_rlDiknTZvL-7OmFhFez1F9QB7N88yDleJvCexhY3OQ 1 -
+/.well-known/acme-challenge/euv7TxRQNiFyKNqoTvS_lCicTPmA1t669N6oAkkqjio 1 -
+/wp-config.php.bak 1 -
+/.well-known/acme-challenge/TliPPNkqL8oVgQYj8gY1VS_NtQOL1Ct1m5YDJrIrtSg 1 http://www.cloudwage.com/.well-known/acme-challenge/TliPPNkqL8oVgQYj8gY1VS_NtQOL1Ct1m5YDJrIrtSg
+/SHOP/73855/list.html 1 -
+/.well-known/acme-challenge/L9zMLz1eQQzHL1gEwxRTQb5xOoLcHX5wSLQymawlU4I 1 http://www.cloudwage.com/.well-known/acme-challenge/L9zMLz1eQQzHL1gEwxRTQb5xOoLcHX5wSLQymawlU4I
+/wp-config.php-bak 1 -
+/.well-known/acme-challenge/0kZlX5_3pgqydpO3ET4XIKAojn5Cnj_hLj1tnwDmVns 1 http://www.cloudwage.com/.well-known/acme-challenge/0kZlX5_3pgqydpO3ET4XIKAojn5Cnj_hLj1tnwDmVns
+/wp-admin/setup-config.php 2 -
+/.well-known/acme-challenge/9KSrCIhWUOpteg_kwMDJqSufWVsr_RAmiwRaJDmYAsk 1 -
+/blog/wp-includes/wlwmanifest.xml 11 -
+/administrator/index.php 11 -
+/putty.exe 7 -
+/wordpress/wp-login.php 2 -
+/new 1 -
+/shunen.html 1 -
+/.env 1 -
+/sito/wp-includes/wlwmanifest.xml 10 -
+/.well-known/acme-challenge/v2T5x5gOwdTqUfcYNUEK2mi-Zx8_oL5syPdEaB_My1U 1 -
+/wp-content/plugins/recent-backups/download-file.php 1 -
+/.well-known/acme-challenge/rU25PWJo0gx2E_znQjZWZNHiqk8fTnO25iqxKs2QeIY 1 http://www.cloudwage.com/.well-known/acme-challenge/rU25PWJo0gx2E_znQjZWZNHiqk8fTnO25iqxKs2QeIY
+/.well-known/acme-challenge/hLt8KyyowqDF7ZBQE6OCvlfFxj54A3zDsuySyakLP-A 1 http://www.cloudwage.com/.well-known/acme-challenge/hLt8KyyowqDF7ZBQE6OCvlfFxj54A3zDsuySyakLP-A
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 395
+105.54.31.155 21 89 915451 20190326132836
+197.248.207.206 15 99 1497174 20190329122356
+52.53.201.78 13 13 60073 20190329235923
+13.57.233.99 9 9 41560 20190328233048
+81.17.27.138 8 8 47717 20190307215431
+176.126.83.211 7 37 521660 20190329175618
+203.133.169.113 6 34 664030 20190319194622
+109.70.100.24 6 6 33770 20190331223918
+195.176.3.23 6 6 31750 20190329234445
+176.10.99.200 6 6 33735 20190330150914
+89.234.157.254 6 6 32748 20190326142625
+109.70.100.19 5 5 28096 20190328094330
+185.220.102.4 5 5 28078 20190319113400
+185.220.101.27 5 5 28080 20190330191617
+94.230.208.148 4 4 21516 20190322025042
+45.32.152.141 4 32 491686 20190318195904
+130.149.80.199 4 4 22597 20190326074836
+18.85.192.253 4 4 22507 20190325235316
+185.92.220.150 4 32 491684 20190318195903
+96.58.186.28 4 32 507407 20190329083556
+163.172.66.247 4 4 22969 20190331194057
+185.220.100.253 4 4 22536 20190328212809
+64.180.96.164 4 33 496772 20190309160352
+185.220.101.20 4 4 22561 20190321081916
+41.212.122.180 4 32 492685 20190314102114
+185.129.62.63 1 1 5661 20190329214113
+178.175.143.164 2 2 11283 20190331104401
+192.160.102.165 1 1 5631 20190301182733
+145.239.209.12 1 1 14992 20190312111459
+185.100.87.206 1 1 5654 20190328122854
+138.197.177.62 2 2 11202 20190320041030
+193.90.12.118 2 2 11301 20190328073443
+77.247.181.162 3 3 16798 20190322144227
+185.220.101.33 3 3 16934 20190330115630
+185.4.132.183 1 1 5626 20190307220635
+185.220.102.7 3 3 15841 20190314210605
+37.220.36.240 3 3 17756 20190327013416
+192.42.116.19 2 2 11251 20190328004629
+172.98.193.43 1 1 5634 20190328072736
+158.69.192.200 1 1 5672 20190326223223
+34.244.17.51 1 1 5404 20190319232231
+185.220.100.254 1 1 5630 20190301183449
+51.15.48.204 1 1 5663 20190319183335
+91.219.238.95 3 3 16811 20190330004600
+95.128.43.164 1 1 5607 20190321190315
+171.25.193.20 2 2 10249 20190311145751
+185.100.87.129 1 1 5603 20190305071309
+82.221.131.5 1 1 5660 20190320170836
+178.175.143.166 2 2 11282 20190315231021
+51.75.253.147 1 1 5652 20190311174824
+67.137.36.66 1 1 5539 20190309150121
+209.95.51.11 3 3 16846 20190322160639
+128.72.28.133 3 33 443934 20190301051424
+185.72.244.24 1 1 5613 20190305170811
+185.220.101.44 1 1 5608 20190330003055
+198.98.56.149 2 2 11248 20190330040509
+144.217.161.119 1 1 5645 20190313144522
+178.171.7.64 1 1 4632 20190307041936
+95.216.145.1 1 1 5660 20190303204936
+178.154.148.110 1 1 14694 20190329201646
+54.36.222.37 1 1 5619 20190327061452
+178.17.170.196 1 1 6028 20190329195533
+78.109.23.2 1 1 5595 20190307001039
+179.43.134.157 2 2 11246 20190322101357
+134.209.42.110 1 1 15371 20190302112308
+185.217.0.138 1 1 5492 20190329002111
+46.166.139.35 1 1 5656 20190319085737
+5.79.86.16 1 1 5592 20190304125827
+144.217.90.68 1 1 5658 20190327033956
+71.19.144.148 1 1 5620 20190320081211
+185.248.160.231 2 2 11220 20190321190916
+158.174.122.199 1 1 5643 20190328033027
+178.175.148.227 2 2 11319 20190330203651
+185.234.219.111 1 1 5649 20190321042222
+51.15.92.212 1 1 5609 20190321071013
+178.175.143.156 1 1 5651 20190330013037
+184.94.240.92 1 1 21372 20190306045801
+162.247.74.202 3 3 16941 20190326084827
+162.244.80.228 1 1 5588 20190328040845
+185.104.120.7 1 1 4619 20190310214859
+178.175.131.194 1 1 5617 20190328180238
+85.248.227.164 1 1 4631 20190310224112
+64.246.165.180 1 1 5731 20190312172818
+84.200.12.61 2 2 11266 20190328212511
+198.98.62.49 2 2 11242 20190331000014
+46.41.149.140 1 1 4600 20190315023128
+144.217.164.104 1 1 5610 20190304115412
+185.177.151.34 1 1 5655 20190326234609
+103.208.220.122 2 2 11276 20190322010114
+208.87.233.140 1 14 213642 20190309134738
+199.249.230.78 3 3 16841 20190327224441
+199.249.230.71 3 3 16915 20190322052937
+137.226.113.27 1 1 4600 20190302190126
+198.98.54.34 1 1 5606 20190314190836
+114.57.188.88 1 1 22338 20190322225430
+194.99.106.148 1 1 5648 20190321163547
+23.129.64.105 1 1 4630 20190320212430
+198.98.50.112 2 2 11300 20190312194421
+95.213.184.224 2 2 29562 20190302060809
+203.133.170.13 3 17 332016 20190302135303
+192.160.102.164 1 1 5624 20190320044602
+205.185.126.56 1 1 5647 20190321035443
+178.175.143.165 1 1 5606 20190315191841
+94.102.51.78 2 2 11238 20190329203104
+185.253.97.248 1 1 22306 20190325084024
+185.220.101.34 2 2 11221 20190321005907
+185.220.101.70 1 1 5673 20190316073518
+178.175.132.212 2 2 11234 20190321044827
+62.210.116.201 2 2 11255 20190305165748
+208.110.66.34 1 1 5484 20190325154306
+82.221.131.102 1 1 5628 20190319171132
+185.220.101.13 1 1 5648 20190302182611
+64.113.32.29 2 2 11296 20190329222550
+54.39.148.232 1 1 5587 20190328144850
+178.165.72.177 1 1 5580 20190326122747
+162.247.74.201 1 1 5609 20190306051943
+185.127.25.192 1 1 5650 20190314083540
+178.17.171.197 2 2 11264 20190330141605
+139.28.36.234 1 1 5602 20190325215206
+185.220.101.53 1 1 5618 20190318051405
+188.92.72.129 1 1 5480 20190325125923
+182.140.168.118 1 1 14887 20190309211614
+185.220.101.50 2 2 11226 20190328143115
+198.167.223.111 1 1 5619 20190314152323
+185.220.101.24 1 1 5593 20190304080448
+194.71.109.44 2 2 11180 20190303220429
+193.128.114.36 1 1 14809 20190302035146
+51.15.75.133 2 2 11196 20190324094629
+62.210.83.78 1 1 5654 20190318164704
+185.220.101.67 3 3 16917 20190325112201
+94.19.150.216 1 1 14744 20190304232301
+188.65.144.2 1 1 5649 20190306014841
+173.252.95.14 1 7 78512 20190319074955
+178.154.148.105 1 1 14698 20190306054505
+64.74.215.154 2 16 221274 20190309151225
+204.85.191.30 1 1 5619 20190318221619
+95.211.209.158 1 1 14803 20190315062639
+185.234.219.117 1 1 5631 20190331190137
+199.249.230.68 1 1 5660 20190324014300
+65.19.167.131 3 3 16903 20190322185032
+5.200.52.112 1 1 5621 20190318164836
+195.181.169.104 1 1 5563 20190327033613
+124.206.180.180 1 1 14616 20190324045006
+89.236.112.99 1 1 5647 20190306203833
+193.9.114.139 1 1 5653 20190326081912
+185.125.33.114 1 1 5615 20190328045248
+52.59.102.42 1 1 5491 20190309134359
+51.75.73.65 1 1 4620 20190310233116
+209.141.45.212 2 2 10254 20190310202733
+185.220.101.57 1 1 5628 20190326024502
+185.234.219.116 1 1 5650 20190327125219
+217.170.197.89 2 2 11213 20190328211600
+164.132.51.91 2 2 11261 20190327163745
+158.69.225.37 3 3 51963 20190307100957
+195.206.105.217 2 2 11275 20190320205929
+185.104.120.5 2 2 10279 20190320160617
+185.220.101.60 1 1 5561 20190327220609
+173.252.95.11 1 3 119519 20190319074958
+199.195.248.177 1 1 5646 20190327115501
+51.15.59.175 1 1 5653 20190319213348
+189.84.21.44 1 1 5649 20190312152343
+62.102.148.68 1 1 5595 20190306062311
+173.252.95.6 0 5 26015 
+204.11.50.131 1 1 5617 20190312194821
+54.38.159.90 1 1 4625 20190310202019
+51.68.214.45 1 1 5639 20190325152230
+173.252.95.13 2 7 219012 20190319074959
+51.15.106.67 1 1 5637 20190319234554
+102.165.54.56 1 1 5621 20190313200541
+192.3.251.207 1 1 5501 20190308165226
+181.215.64.150 1 1 4621 20190321104558
+178.175.135.99 1 1 5616 20190318020806
+64.233.173.177 2 9 233979 20190314044256
+192.99.15.139 1 1 26615 20190328214107
+193.90.12.119 1 1 5615 20190314141320
+80.127.116.96 2 2 11222 20190307041206
+109.69.67.17 2 2 11238 20190331212315
+54.39.148.234 1 1 5633 20190321203102
+62.210.37.82 1 1 5625 20190304082134
+199.195.250.77 2 2 10688 20190329195532
+204.13.201.138 2 2 116842 20190309133803
+185.220.102.6 3 3 16881 20190318215651
+178.175.143.242 1 1 5612 20190319124216
+192.42.116.18 1 1 5610 20190304002541
+54.188.215.33 1 1 21101 20190309144427
+199.249.230.84 1 1 5604 20190314123837
+173.193.191.200 1 1 4617 20190301052516
+199.249.230.79 2 2 11262 20190307193752
+51.15.59.9 2 2 11292 20190331191733
+134.209.32.40 1 1 15566 20190302092754
+204.85.191.31 1 1 5606 20190307160419
+45.62.250.175 2 2 11237 20190328233303
+195.176.3.19 1 1 5612 20190321230709
+199.249.230.66 1 1 5603 20190324132135
+213.61.215.54 2 2 11233 20190327202021
+51.15.117.50 1 1 5607 20190322063527
+109.70.100.18 2 2 11252 20190315205632
+158.69.241.134 1 1 5583 20190320093416
+178.175.143.163 2 2 11261 20190322063626
+51.254.15.86 1 1 14803 20190305112115
+192.42.116.28 1 1 5610 20190303224831
+173.208.219.58 1 1 5486 20190321035840
+178.17.171.39 1 1 5640 20190319161530
+5.79.86.15 1 1 5636 20190329222339
+69.164.111.198 3 3 44573 20190331144220
+46.165.254.166 2 2 11239 20190325232750
+185.220.101.54 3 3 16877 20190321232315
+209.141.61.45 1 1 5637 20190330113658
+104.218.63.76 1 1 5648 20190329223706
+185.248.160.65 1 1 5615 20190307145436
+185.4.132.135 1 1 5631 20190304172313
+109.70.100.21 2 2 11227 20190312003217
+54.39.98.106 1 1 5582 20190331211212
+185.220.101.31 1 1 5680 20190327081422
+137.226.113.26 1 1 4576 20190302140418
+173.244.209.5 1 1 5588 20190306120944
+162.247.74.7 1 1 5625 20190320171011
+162.247.74.204 1 1 5623 20190308081753
+24.80.144.208 3 30 430381 20190305114708
+185.220.101.69 2 2 11262 20190318140648
+169.197.112.26 2 2 11281 20190329195527
+185.147.80.155 1 1 5617 20190313224505
+185.100.86.182 2 2 11251 20190326170410
+185.220.101.46 3 3 16883 20190317224822
+137.74.169.241 2 2 11272 20190328051606
+192.42.116.17 2 2 11209 20190311095435
+178.17.174.196 2 2 11213 20190331213507
+178.175.132.214 1 1 5603 20190318184825
+199.249.230.89 2 2 11214 20190322135750
+213.166.70.121 1 1 15190 20190310141130
+34.240.185.82 1 1 5441 20190312113402
+54.39.151.216 1 1 5649 20190331212042
+54.183.197.226 1 1 14902 20190325113345
+31.184.238.190 1 1 22365 20190301080855
+185.220.101.3 1 1 5645 20190306135420
+46.38.235.14 1 1 5638 20190307002917
+89.234.190.157 1 1 5655 20190320174158
+185.220.101.0 3 3 16835 20190325035934
+91.203.145.116 2 2 11231 20190311131056
+82.221.128.191 1 1 5648 20190325014112
+51.15.43.205 1 1 5608 20190322211314
+46.173.214.3 1 1 5615 20190305025842
+31.220.40.54 1 1 5607 20190320112458
+54.145.147.40 1 1 15139 20190328124820
+77.247.181.163 1 1 5613 20190322225310
+46.165.230.5 1 1 5598 20190330175345
+85.248.227.165 2 2 10259 20190325211740
+178.159.37.34 1 1 22376 20190319000255
+163.172.151.47 3 3 16819 20190306153914
+192.160.102.169 2 2 11302 20190313174506
+104.218.63.75 2 2 11233 20190328215824
+212.47.226.52 1 1 5592 20190304191436
+38.117.96.154 1 1 5622 20190313222933
+163.172.12.160 1 1 5628 20190306123618
+91.206.14.10 1 1 4587 20190301023012
+95.211.186.147 2 2 29177 20190305153750
+178.17.170.23 1 1 4641 20190310212255
+199.249.230.77 1 1 5638 20190305170211
+185.220.101.29 1 1 5644 20190328190749
+41.80.153.211 4 32 492692 20190302195754
+104.244.76.13 2 2 11255 20190328051721
+178.175.135.100 1 1 5624 20190314210318
+198.255.44.98 1 1 5613 20190307124932
+64.137.162.34 2 2 11267 20190328154046
+120.29.73.205 3 30 430402 20190314185025
+104.218.63.72 1 1 5664 20190303231004
+178.175.132.209 1 1 5591 20190311205251
+107.155.49.126 1 1 5641 20190319054134
+198.96.155.3 1 1 5610 20190323000000
+37.187.129.166 4 4 22442 20190319195821
+37.187.180.18 1 1 5607 20190318172952
+64.233.173.179 2 14 185927 20190314044254
+173.252.95.8 0 6 29393 
+178.159.127.39 1 1 22284 20190321181806
+198.98.54.28 1 1 5600 20190308113101
+178.239.176.73 3 3 16944 20190313170622
+197.231.221.211 4 4 22514 20190327061518
+144.217.60.211 1 1 5620 20190328021107
+23.226.211.112 1 1 22079 20190308223120
+185.100.87.207 1 1 5632 20190321152505
+139.81.40.50 1 1 4611 20190314104128
+209.141.37.237 1 1 5612 20190306232905
+149.202.170.60 1 1 5672 20190314034758
+54.36.189.105 2 2 11269 20190330135149
+192.42.116.13 1 1 5652 20190307035702
+185.244.151.149 1 1 5629 20190301211947
+62.210.111.56 1 1 4626 20190327181659
+92.245.104.154 1 1 22353 20190326021236
+185.100.86.154 1 1 5644 20190331052649
+199.249.230.73 1 1 5638 20190328201009
+178.17.166.146 2 2 11228 20190308144328
+139.99.96.114 1 1 5606 20190313182002
+185.220.101.48 2 2 11283 20190326003701
+62.210.251.40 1 1 14813 20190328121154
+185.220.101.1 1 1 5622 20190328155508
+185.222.202.125 1 1 5603 20190311142428
+109.70.100.23 3 3 15853 20190328161218
+173.252.95.18 0 4 20359 
+149.202.238.204 2 2 11310 20190328205135
+5.135.158.101 1 1 5633 20190316183951
+212.21.66.6 1 1 5639 20190330034217
+62.102.148.67 3 3 16869 20190328080526
+178.175.143.158 2 2 11248 20190328162750
+192.42.116.20 1 1 5618 20190311183927
+137.226.113.28 1 1 4590 20190302152943
+212.47.248.66 1 1 5595 20190329225137
+159.203.70.71 1 1 14690 20190310052257
+185.220.101.62 2 2 11257 20190320033750
+34.219.36.191 1 1 21093 20190309144134
+199.249.230.67 3 3 16902 20190322151836
+185.233.100.23 1 1 5627 20190320221934
+87.118.110.27 1 1 5611 20190308111350
+109.70.100.22 4 4 22547 20190328114856
+198.98.52.93 2 2 11262 20190314011238
+185.104.120.60 1 1 5634 20190322231602
+185.220.101.68 1 1 5642 20190321055033
+91.121.222.157 2 2 32223 20190330040113
+209.141.58.114 1 1 5637 20190321114543
+51.15.68.66 1 1 5657 20190325181538
+185.220.101.5 1 1 5655 20190320001906
+199.249.230.82 2 2 11215 20190326175630
+145.239.91.37 1 1 5612 20190327185104
+158.69.192.239 1 1 5605 20190320145505
+104.237.130.93 4 32 492642 20190310033712
+51.15.187.209 1 1 5638 20190306225902
+185.16.85.152 2 2 11241 20190321220051
+87.120.36.157 1 1 5622 20190307212414
+195.176.3.20 1 1 5600 20190330215901
+51.15.233.253 1 1 5632 20190310232033
+46.165.245.154 4 4 22389 20190326133427
+195.176.3.24 1 1 5589 20190319010103
+199.249.230.88 3 3 15875 20190328153830
+171.25.193.78 3 3 14893 20190331085053
+51.77.177.194 1 1 5602 20190307104846
+51.159.1.114 1 1 5590 20190330192632
+199.249.230.81 1 1 5604 20190301190703
+192.34.53.19 1 1 5677 20190320235006
+144.217.80.80 2 2 11240 20190312215956
+206.180.165.147 1 1 4689 20190303140512
+178.154.148.125 2 2 29534 20190322022032
+80.67.172.162 1 1 5620 20190320172413
+185.220.101.65 1 1 5641 20190321194901
+31.220.0.225 1 1 5660 20190316012307
+51.38.134.189 3 3 16910 20190326093702
+195.154.107.16 4 32 492621 20190319230350
+87.118.116.90 1 1 5637 20190320125213
+94.242.57.161 1 1 5604 20190330201849
+139.81.200.23 1 1 4618 20190328044648
+195.3.144.185 1 1 5484 20190315080616
+73.253.254.129 1 1 20550 20190312034001
+118.67.217.41 4 32 492694 20190312101128
+45.66.32.220 3 3 16926 20190326085132
+104.129.128.155 1 1 4638 20190313040442
+185.220.101.26 1 1 5668 20190318185023
+185.220.101.52 1 1 5641 20190318195616
+178.162.216.48 1 1 5550 20190304032216
+91.219.236.171 2 2 11247 20190323121007
+31.185.104.21 1 1 5606 20190313061256
+178.175.143.234 1 1 5641 20190305064205
+205.185.127.219 1 1 5628 20190313171114
+109.70.100.26 3 3 13835 20190310224237
+178.173.164.65 1 1 22320 20190308224557
+185.255.112.148 2 2 11285 20190328052356
+185.220.101.22 2 2 11266 20190316094331
+137.74.167.96 1 1 5654 20190322033749
+87.118.122.30 1 1 5631 20190302153819
+199.249.230.64 1 1 5642 20190322110937
+192.42.116.16 1 1 6029 20190329195529
+51.15.53.83 4 4 22484 20190328114310
+185.220.102.8 4 4 22532 20190322192956
+91.236.116.14 1 1 5475 20190322020403
+213.136.80.121 0 2 154 
+185.234.219.112 1 1 5650 20190328162329
+204.17.56.42 1 1 5616 20190314024810
+195.228.45.176 1 1 5584 20190325185138
+185.234.219.119 1 1 5620 20190330113427
+5.188.62.5 1 1 5505 20190312152558
+179.48.251.188 1 1 5659 20190305224227
+185.227.68.78 1 1 5595 20190327160950
+47.244.144.39 1 1 5433 20190304211144
+199.249.230.86 2 2 11287 20190322125810
+159.65.97.94 1 1 0 20190306070052
+185.220.101.25 2 2 11319 20190313170919
+192.42.116.15 1 1 5632 20190311121901
+198.98.59.240 3 3 16863 20190321003204
+185.220.101.49 1 1 5573 20190321140022
+93.174.93.6 1 1 5646 20190301230540
+176.31.45.3 1 1 5644 20190328010710
+144.217.7.33 1 1 5610 20190325134219
+178.175.132.213 1 1 5633 20190308070709
+197.232.61.204 4 32 492702 20190309160726
+192.42.116.26 2 2 11268 20190322185132
+74.82.47.194 1 1 5646 20190315045820
+64.233.173.175 0 9 72924 
+109.70.100.25 3 3 16837 20190328193656
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20190301 23 53 571206 21
+20190302 27 69 980171 21
+20190303 11 11 59973 11
+20190304 26 54 625034 21
+20190305 19 46 547496 16
+20190306 22 22 140798 22
+20190307 38 38 250506 30
+20190308 14 16 111777 14
+20190309 21 105 1624208 13
+20190310 31 59 652348 27
+20190311 15 15 83290 15
+20190312 24 52 628409 21
+20190313 24 52 603317 21
+20190314 24 107 1488121 17
+20190315 11 11 78005 11
+20190316 7 7 38516 7
+20190317 4 4 22589 4
+20190318 24 80 1072357 18
+20190319 40 124 1811417 30
+20190320 29 29 159279 29
+20190321 31 31 189852 31
+20190322 35 35 221519 35
+20190323 5 5 27027 5
+20190324 8 8 54029 8
+20190325 19 19 130584 19
+20190326 41 109 1044726 21
+20190327 23 23 128355 21
+20190328 43 43 279523 42
+20190329 29 115 1611565 19
+20190330 19 19 127824 19
+20190331 16 16 108565 16
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+30s-2mn 3
+5mn-15mn 1
+30mn-1h 3
+0s-30s 598
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 17
+/login 618 3918305 601 579
+/_debugbar/assets/javascript 26 2916238 2 12
+/_debugbar/assets/stylesheets 23 2547181 1 5
+/plugins/font-awesome/fonts/fontawesome-webfont.woff2 14 794920 1 4
+/_debugbar/open 5 17501 0 0
+/plugins/font-awesome/fonts/fontawesome-webfont.eot 2 121488 0 2
+/payment-methods 2 16434 0 0
+/profile 2 14899 0 1
+/index.php/login 2 12264 0 1
+/departments 2 2276 0 0
+/plugins/font-awesome/fonts/fontawesome-webfont.woff 1 71508 0 1
+/images/XKRp4oTpIv1515409809png 1 6536 0 0
+/plugins/simple-line-icons/fonts/Simple-Line-Icons.woff 1 59324 0 0
+/departments/7 1 888 0 0
+/departments/9/edit 1 1015 0 0
+/payment-methods/2 1 8093 0 0
+/ 1 9892 0 0
+END_SIDER

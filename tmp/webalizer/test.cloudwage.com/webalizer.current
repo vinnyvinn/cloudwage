@@ -1,0 +1,239 @@
+# Webalizer V2.23-08 Incremental Data - 05/19/2019 08:18:58
+2019 5 19 8 18 58
+46 30 22 16 4 8 205531 20 12 0
+1 1 18 2 19
+0 0 0 0 0 0
+5 3 5040 4 2 2
+2 1 258 2 1 1
+2 1 6406 1 2 1
+2 1 6374 1 2 1
+0 0 0 0 0 0
+9 4 25264 8 4 4
+0 0 0 0 0 0
+1 1 24 1 0 0
+3 1 18393 1 3 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 1 15446 1 2 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 1 24 1 0 0
+18 15 128278 1 4 1
+1 1 24 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+3 1 15680 3
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 1 24 0
+3 1 502 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+3 1 18393 3
+0 0 0 0
+2 2 48 0
+2 1 392 1
+20 17 132809 5
+0 0 0 0
+4 1 26213 3
+6 3 6932 3
+0 0 0 0
+0 0 0 0
+2 2 4538 1
+0
+0
+0
+30
+0
+0
+0
+0
+0
+0
+0
+8
+6
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/admin/pages/scripts/login.js
+0 1 37283936 1428 0 0
+/admin/layout4/scripts/layout.js
+0 1 37284272 3498 0 0
+/admin/layout4/scripts/demo.js
+0 1 37283808 2112 0 0
+/plugins/jquery.blockui.min.js
+0 1 37284896 3525 0 0
+/plugins/uniform/jquery.uniform.min.js
+0 1 37283488 3035 0 0
+/plugins/jquery-validation/js/jquery.validate.min.js
+0 1 37285024 6805 0 0
+/plugins/respond.min.js
+0 1 37284400 2058 0 0
+/plugins/excanvas.min.js
+0 1 37284512 7567 0 0
+/plugins/bootstrap/js/bootstrap.min.js
+0 1 37284768 9745 0 0
+/plugins/jquery-migrate.min.js
+0 1 37284640 3063 0 0
+/plugins/jquery.min.js
+0 1 37285168 33280 0 0
+/login
+0 7 7310520263504456044 47913 2 0
+/scripts/metronic.js
+0 1 37284192 8346 0 0
+/robots.txt
+0 9 0 216 0 0
+/plugins/select2/select2.min.js
+0 1 37284064 18301 0 0
+/plugins/jquery.cokie.min.js
+0 1 37285280 774 0 0
+# End Of Table - urls
+# -sites- (monthly)
+46.246.65.131
+0 2 1 6406 1 1557001811
+/login
+ip-54-36-149-83.a.ahrefs.com
+0 1 0 234 1 1556788824
+-
+ns3061207.ip-193-70-34.eu
+0 3 1 18393 1 1557494372
+/login
+ip-54-36-148-177.a.ahrefs.com
+0 1 1 24 0 0
+-
+ip-54-36-148-95.a.ahrefs.com
+0 1 1 24 0 0
+-
+ip-54-36-149-34.a.ahrefs.com
+0 1 1 24 0 0
+-
+ip-54-36-148-65.a.ahrefs.com
+0 2 1 268 0 0
+-
+69.12.65.83.static.quadranet.com
+0 1 0 19605 0 0
+-
+ip-54-36-148-73.a.ahrefs.com
+0 1 0 234 1 1557259942
+-
+ip-54-36-149-37.a.ahrefs.com
+0 1 1 24 0 0
+-
+62-210-201-91.rev.poneytelecom.eu
+0 18 15 128278 1 1558199901
+-
+ip-54-36-148-101.a.ahrefs.com
+0 1 1 4514 1 1556840941
+/login
+89.238.165.10
+0 2 1 6374 1 1557084025
+/login
+ip-54-36-148-68.a.ahrefs.com
+0 1 1 24 0 0
+-
+209.17.97.18
+0 1 0 234 1 1556912710
+-
+209.17.97.50
+0 1 0 234 1 1557194324
+-
+ip-54-36-148-190.a.ahrefs.com
+0 1 1 4507 1 1557250990
+/login
+ip-54-36-149-9.a.ahrefs.com
+0 1 1 24 0 0
+-
+ip-54-36-148-204.a.ahrefs.com
+0 2 1 268 0 0
+-
+144.168.162.250
+0 2 1 15446 1 1557798826
+/login
+ip-54-36-148-69.a.ahrefs.com
+0 1 1 24 0 0
+-
+ip-54-36-148-28.a.ahrefs.com
+0 1 0 368 1 1557245635
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+ip-54-36-148-68.a.ahrefs.com
+0 1 1 24 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 40
+http://www.cloudwage.com/
+0 4
+http://test.cloudwage.com/
+0 1
+http://www.test.cloudwage.com
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_27_74) AppleWebKit/531.78.25 (KHTML, like Gecko) Chrome/55.1.6673.1301 Safari/532.0
+0 2
+Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)
+0 16
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.64.27) Gecko/20176599 Firefox/45.64.27
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/6.0;)
+0 18
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

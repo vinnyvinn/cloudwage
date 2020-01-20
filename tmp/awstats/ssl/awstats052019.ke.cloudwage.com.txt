@@ -1,0 +1,286 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201905 will be lost/reset.
+# Last config file used to build this data file was /home/cloudwage/tmp/awstats/ssl/awstats.ke.cloudwage.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2018                
+POS_TIME 2700                
+POS_VISITOR 6526                
+POS_DAY 6954                
+POS_DOMAIN 3245                
+POS_LOGIN 3502                
+POS_ROBOT 3657                
+POS_WORMS 3925                
+POS_EMAILSENDER 4056                
+POS_EMAILRECEIVER 4199                
+POS_SESSION 7112                
+POS_SIDER 7281                
+POS_FILETYPES 4334                
+POS_DOWNLOADS 4616                
+POS_OS 4664                
+POS_BROWSER 4814                
+POS_SCREENSIZE 5002                
+POS_UNKNOWNREFERER 5076                
+POS_UNKNOWNREFERERBROWSER 5272                
+POS_ORIGIN 5463                
+POS_SEREFERRALS 5596                
+POS_PAGEREFS 5774                
+POS_SEARCHWORDS 5922                
+POS_KEYWORDS 6074                
+POS_MISC 2364                
+POS_ERRORS 6133                
+POS_CLUSTER 3358                
+POS_SIDER_404 6217                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190518195842 218 62400 30376890114239
+FirstTime 20190515091135
+LastTime 20190518195753
+LastUpdate 20190519141253 218 0 218 0 0
+TotalVisits 17                  
+TotalUnique 8                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 8                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 37 288 3052332 10 86 1583237
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 7 57 1216984 0 0 0
+13 0 0 0 7 65 1174158
+14 0 0 0 0 0 0
+15 13 152 3082619 0 0 0
+16 13 152 3082620 0 0 0
+17 0 0 0 0 0 0
+18 3 3 297 14 123 2263288
+19 1 1 99 7 65 1174446
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+ke 58 602 9486990
+de 11 11 891
+us 5 40 947070
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+AdsBot\-Google[\x20]\( 178 3152493 20190518195823 0
+bot[\s_+:,\.\;\/\\-] 157 3042499 20190518195842 0
+Googlebot/ 2 137 20190517185722 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+gif 18 44332 0 0
+svg 4 3162 0 0
+php 35 325640 0 0
+html 10 128372 0 0
+css 121 988040 0 0
+ttf 1 7464 0 0
+png 142 1580800 0 0
+js 219 3166471 0 0
+eot 6 450774 0 0
+woff2 14 1080240 0 0
+jpg 75 2212844 0 0
+woff 8 446812 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+ios_iphone 100 8
+linuxandroid 100 8
+win7 102 8
+win10 300 34
+Unknown 11 11
+linux 40 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 7
+Unknown 11 11
+safari12.1 100 8
+chrome73.0.3683.90 50 4
+msie11.0 102 8
+chrome67.0.3396.87 50 4
+chrome41.0.2272.118 40 5
+firefox66.0 300 34
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+WordPress/5.2;_http://ke.cloudwage.com 20190515095031
+WordPress/5.2;_https://ke.cloudwage.com 20190518195753
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WordPress/5.2;_https://ke.cloudwage.com 20190518195753
+WordPress/5.2;_http://ke.cloudwage.com 20190515095031
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 2 7
+From1 0 0
+From2 8 8
+From3 0 0
+From4 64 638
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 6 6
+google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+302 2 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 8
+197.248.207.206 34 300 3321949 20190516125904
+62.8.95.71 12 152 3092444 20190518164148
+213.136.80.121 11 11 891 20190518195753 20190518195753 /wp-cron.php
+62.8.95.70 8 100 2048398 20190518164145
+62.8.95.69 4 50 1024199 20190517153952
+66.249.88.160 2 9 127740 20190516121711
+66.249.88.163 2 19 663970 20190516121649
+66.249.88.190 1 12 155360 20190516121644
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 4
+20190515 37 288 3052332 2
+20190516 9 59 1217182 6
+20190517 14 153 3082718 5
+20190518 14 153 3082719 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30mn-1h 2
+0s-30s 13
+15mn-30mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 16
+/wp-admin/admin-ajax.php 18 1206 0 1
+/wp-cron.php 11 891 7 6
+/ 10 128372 9 2
+/wp-content/plugins/goodlayers-core/plugins/combine/elegant/ElegantIcons.woff 7 445648 0 3
+/wp-content/plugins/revslider/public/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff2 7 540120 0 3
+/wp-content/plugins/goodlayers-core/plugins/combine/fontawesome/fontawesome-webfont.woff2 6 462960 1 0
+/wp-admin/load-styles.php 2 92202 0 0
+/wp-content/plugins/goodlayers-core/plugins/combine/elegant/ElegantIcons.eot 2 56830 0 0
+/wp-content/plugins/goodlayers-core/plugins/combine/fontawesome/fontawesome-webfont.eot 2 196972 0 0
+/wp-content/plugins/revslider/public/assets/fonts/font-awesome/fonts/fontawesome-webfont.eot 2 196972 0 1
+/wp-admin/load-scripts.php 2 97650 0 0
+/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf 1 7464 0 0
+/wp-content/plugins/envato-market/fonts/envato-market.woff 1 1164 0 0
+/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff2 1 77160 0 0
+/wp-login.php 1 1245 0 0
+/wp-admin/post-new.php 1 132446 0 0
+END_SIDER

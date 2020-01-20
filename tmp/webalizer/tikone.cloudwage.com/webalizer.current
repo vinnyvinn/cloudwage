@@ -1,0 +1,323 @@
+# Webalizer V2.23-08 Incremental Data - 05/16/2019 16:07:21
+2019 5 16 16 7 21
+195 182 14 67 9 3 2329414 33 9 0
+3 2 103 2 16
+0 0 0 0 0 0
+1 1 24 1 0 0
+3 1 506 2 1 1
+3 2 4908 3 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+3 1 6240 1 3 1
+5 3 29196 4 3 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+177 172 2288116 1 23 2
+3 2 424 3 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+3 3 4556 1
+0 0 0 0
+2 1 18197 2
+0 0 0 0
+77 73 948248 11
+1 1 24 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+105 101 1351349 14
+2 1 400 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 376 1
+1 1 24 0
+3 1 6240 3
+0
+0
+0
+182
+0
+0
+0
+0
+0
+0
+0
+3
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/plugins/moment.min.js
+0 2 7598750639656167788 22258 0 0
+/plugins/datatables/media/js/jquery.dataTables.min.js
+0 2 0 52446 0 0
+/admin/pages/scripts/login.js
+0 3 0 4284 0 0
+/admin/layout4/scripts/layout.js
+0 3 0 10494 0 0
+/admin/layout4/css/custom.css
+0 3 0 549 0 0
+/plugins/bootstrap-modal/css/bootstrap-modal.css
+0 2 0 2372 0 0
+/plugins/fullcalendar/fullcalendar.min.css
+0 2 0 4976 0 0
+/admin/layout4/scripts/demo.js
+0 3 0 6336 0 0
+/css/plugins.css
+0 3 0 25911 0 0
+/plugins/bootstrap-toastr/toastr.min.css
+0 2 0 5310 0 0
+/plugins/select2/select2.png
+0 2 0 1172 0 0
+/admin/pages/scripts/tasks.js
+0 2 0 478 0 0
+/img/portlet-remove-icon-white.png
+0 2 0 520 0 0
+/plugins/simple-line-icons/simple-line-icons.min.css
+0 4 0 8644 0 0
+/admin/layout4/scripts/quick-sidebar.js
+0 2 0 2932 0 0
+/plugins/jquery.blockui.min.js
+0 3 0 10575 0 0
+/plugins/uniform/jquery.uniform.min.js
+0 3 0 9105 0 0
+/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js
+0 2 0 17536 0 0
+/plugins/jquery-validation/js/jquery.validate.min.js
+0 3 0 20415 0 0
+/favicon.ico
+0 6 0 0 0 0
+/plugins/uniform/css/uniform.default.css
+0 3 0 6609 0 0
+/plugins/respond.min.js
+0 3 0 6174 0 0
+/plugins/jquery-ui/jquery-ui.min.css
+0 2 0 15076 0 0
+/images/vqqv243h7c1488193138png
+0 2 0 22838 0 0
+/plugins/excanvas.min.js
+0 3 0 22701 0 0
+/plugins/datatables/plugins/bootstrap/dataTables.bootstrap.js
+0 2 0 6136 0 0
+/plugins/datatables/plugins/bootstrap/dataTables.bootstrap.css
+0 2 0 2664 0 0
+/plugins/bootstrap/js/bootstrap.min.js
+0 3 0 29235 0 0
+/plugins/bootstrap-toastr/toastr.min.js
+0 2 0 2884 0 0
+/js/fullcalendar.min.js
+0 2 0 61808 0 0
+/css/style.css
+0 3 0 1761 0 0
+/plugins/jquery-migrate.min.js
+0 3 0 9189 0 0
+/admin/pages/css/tasks.css
+0 2 0 1198 0 0
+/plugins/jquery.min.js
+0 3 0 99840 0 0
+/login
+0 6 0 33366 1 1
+/img/syncfusion-icons-white.png
+0 3 0 16650 0 0
+/plugins/bootstrap-hover-dropdown/bootstrap-hover-dropdown.min.js
+0 2 0 1374 0 0
+/css/components-rounded.css
+0 3 0 127407 0 0
+/js/scripts.js
+0 2 0 3148 0 0
+/plugins/bootstrap/css/bootstrap.min.css
+0 4 0 79532 0 0
+/_debugbar/assets/javascript
+0 3 0 336489 0 0
+/scripts/metronic.js
+0 3 0 25038 0 0
+/tax
+0 2 0 17343 0 0
+/plugins/jquery.sparkline.min.js
+0 2 0 26040 0 0
+/admin/layout4/css/themes/default.css
+0 3 0 7353 0 0
+/admin/pages/css/login3.css
+0 3 0 2700 0 0
+/_debugbar/assets/stylesheets
+0 3 0 332241 0 0
+/
+0 2 0 19883 2 0
+/plugins/font-awesome/fonts/fontawesome-webfont.woff2
+0 3 0 170340 0 0
+/plugins/bootstrap-daterangepicker/daterangepicker-bs3.css
+0 2 0 2734 0 0
+/plugins/simple-line-icons/fonts/Simple-Line-Icons.woff
+0 2 0 118648 0 0
+/admin/layout4/css/layout.css
+0 3 0 26001 0 0
+/plugins/select2/select2-spinner.gif
+0 2 0 3698 0 0
+/plugins/jquery-ui/jquery-ui.min.js
+0 2 3617015269860861233 127342 0 0
+/plugins/jquery-slimscroll/jquery.slimscroll.min.js
+0 2 8028899388307237220 4072 0 0
+/plugins/morris/morris.css
+0 2 8028899388307237220 504 0 0
+/plugins/select2/select2.css
+0 3 7377303436089716270 9666 0 0
+/robots.txt
+0 7 3346848997912638313 168 0 0
+/css/fullcalendar.min.css
+0 2 8391162093259420974 5804 0 0
+/plugins/bootstrap-switch/css/bootstrap-switch.min.css
+0 3 7093004486364364800 4233 0 0
+/plugins/bootstrap-switch/js/bootstrap-switch.min.js
+0 2 7002641321696637229 6688 0 0
+/plugins/select2/select2.min.js
+0 3 0 54903 0 0
+/plugins/bootstrap-modal/css/bootstrap-modal-bs3patch.css
+0 2 0 790 0 0
+/tax/p9
+0 3 0 215679 0 1
+/plugins/jquery.cokie.min.js
+0 3 0 2322 0 0
+/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.min.css
+0 2 0 5480 0 0
+/plugins/font-awesome/css/font-awesome.min.css
+0 4 0 21772 0 0
+# End Of Table - urls
+# -sites- (monthly)
+ip-54-36-148-135.a.ahrefs.com
+0 1 1 24 0 0
+-
+197-248-207-206.safaricombusiness.co.ke
+0 177 172 2288116 2 1557933174
+/_debugbar/assets/javascript
+ns3061207.ip-193-70-34.eu
+0 5 2 24437 2 1557474846
+/login
+ip-54-36-148-95.a.ahrefs.com
+0 1 1 24 0 0
+-
+ip-54-36-148-80.a.ahrefs.com
+0 1 0 10951 1 1557503932
+-
+ip-54-36-149-62.a.ahrefs.com
+0 2 1 270 0 0
+-
+ip-54-36-149-103.a.ahrefs.com
+0 1 1 24 0 0
+-
+ip-54-36-149-48.a.ahrefs.com
+0 1 0 376 1 1557005404
+-
+ip-54-36-148-37.a.ahrefs.com
+0 1 1 24 0 0
+-
+ip-54-36-148-248.a.ahrefs.com
+0 1 1 24 0 0
+-
+ip-54-36-148-212.a.ahrefs.com
+0 1 0 236 1 1556875687
+-
+ip-54-36-149-19.a.ahrefs.com
+0 1 1 4508 1 1556946583
+/login
+ip-54-36-148-169.a.ahrefs.com
+0 1 0 376 1 1558022841
+/
+ip-54-36-148-92.a.ahrefs.com
+0 1 1 24 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+ip-54-36-148-135.a.ahrefs.com
+0 1 1 24 0 0
+-
+ip-54-36-148-169.a.ahrefs.com
+0 1 0 376 1 1558022841
+/
+ip-54-36-148-92.a.ahrefs.com
+0 1 1 24 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://tikone.cloudwage.com/plugins/simple-line-icons/simple-line-icons.min.css
+0 2
+http://tikone.cloudwage.com/plugins/select2/select2.css
+0 4
+http://tikone.cloudwage.com/css/components-rounded.css
+0 3
+http://tikone.cloudwage.com/login
+0 91
+http://tikone.cloudwage.com/tax
+0 3
+http://tikone.cloudwage.com/
+0 57
+- (Direct Request)
+0 30
+http://tikone.cloudwage.com/css/plugins.css
+0 2
+http://tikone.cloudwage.com/plugins/font-awesome/css/font-awesome.min.css
+0 3
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+0 177
+Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)
+0 13
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 5
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

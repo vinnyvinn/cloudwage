@@ -1,0 +1,360 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201611 will be lost/reset.
+# Last config file used to build this data file was /home/cloudwage/tmp/awstats/awstats.demo.cloudwage.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2688                
+POS_VISITOR 7176                
+POS_DAY 7562                
+POS_DOMAIN 3233                
+POS_LOGIN 3503                
+POS_ROBOT 3658                
+POS_WORMS 3790                
+POS_EMAILSENDER 3921                
+POS_EMAILRECEIVER 4064                
+POS_SESSION 7925                
+POS_SIDER 8111                
+POS_FILETYPES 4199                
+POS_DOWNLOADS 4427                
+POS_OS 5477                
+POS_BROWSER 5594                
+POS_SCREENSIZE 5759                
+POS_UNKNOWNREFERER 5833                
+POS_UNKNOWNREFERERBROWSER 5984                
+POS_ORIGIN 6130                
+POS_SEREFERRALS 6266                
+POS_PAGEREFS 6410                
+POS_SEARCHWORDS 6558                
+POS_KEYWORDS 6710                
+POS_MISC 2352                
+POS_ERRORS 6769                
+POS_CLUSTER 3359                
+POS_SIDER_404 6867                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20161201141455 1 0 10920320416278
+FirstTime 20161101171840
+LastTime 20161128125659
+LastUpdate 20161201151419 1 0 0 0 0
+TotalVisits 23                  
+TotalUnique 7                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 8                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+AddToFavourites 0 8 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 16 41 2349 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 26 172 1432461 4 7 1456
+10 17 93 777905 2 3 712
+11 34 103 809466 2 4 712
+12 5 33 277957 1 1 368
+13 6 55 521200 2 3 642
+14 0 0 0 0 0 0
+15 7 7 23675 2 2 712
+16 0 0 0 0 0 0
+17 34 37 162560 8 9 3032
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+ke 86 389 3314387
+us 55 91 161674
+za 4 60 531459
+gb 0 1 53
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 157 901206 0 0
+gif 1 1849 0 0
+Unknown 127 555129 0 0
+woff 5 296620 0 0
+png 32 149306 0 0
+woff2 8 454240 0 0
+txt 34 1802 0 0
+html 5 21210 0 0
+js 172 1626211 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 22
+/4D089DFF2979DC4AA00705C03A927879.txt 3 0 159
+/AB120DE3C27E2C6E5F4103099B71754C.txt 2 0 106
+/E450569E68555124BDD945A7BE5D119C.txt 2 0 106
+/E725D1B7AB3CD8815F069EEB3E454F77.txt 2 0 106
+/8EF50954E6FF97A7EC5AD18C32086054.txt 2 0 106
+/EBCF69328F7B3D6695DA4DACA6EC48A5.txt 2 0 106
+/5782A137A87D03EF2D3AB274961562B8.txt 2 0 106
+/BEECA24FCB71F14884B67181756F2ACF.txt 2 0 106
+/731ED9E1B5F108F9E382CE5E9B8123B5.txt 2 0 106
+/FC711919F5A21E2A26B6962ACF621B90.txt 2 0 106
+/47304A9DA90E2605B45AAFD227B04F80.txt 2 0 106
+/40C568D30B8F9D333A7C8D152C58DAB1.txt 1 0 53
+/FBDC78F95EE8159DA304A5D2DD6064A7.txt 1 0 53
+/FCFDD86E41F34534130C15ACEC1CA656.txt 1 0 53
+/9B6A0F8B1B58120317BA708193DB2263.txt 1 0 53
+/CA1349DEF4E472F1643D353CE1A36A23.txt 1 0 53
+/3E6E46F027A3BF01FA7CF463E37C78FE.txt 1 0 53
+/1FC9EC0CBB9DBB499644414FBC4F9734.txt 1 0 53
+/B7A6573F28842393BE96C07E2AB2AC98.txt 1 0 53
+/71AD1B86BD5C27F90664937F519DFFA1.txt 1 0 53
+/84AD8F6135AB6458664ECA2DA47A86A2.txt 1 0 53
+/440082843B5B69113862CB2F38AEB281.txt 1 0 53
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+Unknown 56 22
+linux 177 66
+win7 183 39
+winnt 125 18
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 5
+chrome54.0.2840.71 36 33
+chrome54.0.2840.90 141 33
+Unknown 56 22
+chrome54.0.2840.99 243 43
+opera41.0.2353.46 65 14
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Cpanel-HTTP-Client/1.0 20161122004012
+COMODO_DCV 20161122004211
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+COMODO_DCV 20161122004211
+Cpanel-HTTP-Client/1.0 20161122004012
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 34 68
+From1 0 0
+From2 0 0
+From3 0 0
+From4 111 473
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 2 642
+302 19 6992
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 8
+197.248.207.206 84 359 3048659 20161124104645
+104.168.149.245 22 55 3157 20161122004012
+66.249.93.15 12 12 60267 20161101175423
+66.249.93.16 11 13 51912 20161101175307
+66.249.93.17 10 11 46338 20161101175356
+196.207.135.48 4 60 531459 20161117112006
+154.70.33.152 2 30 265728 20161128125659
+91.199.212.132 0 1 53 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 14
+20161101 33 36 158517 3
+20161102 14 65 599969 2
+20161114 6 15 861 1
+20161115 2 5 287 1
+20161116 4 35 266017 2
+20161117 4 35 266016 2
+20161118 27 88 653814 4
+20161119 2 5 287 1
+20161120 2 5 287 1
+20161121 2 5 287 1
+20161122 2 6 340 1
+20161123 33 141 1192092 2
+20161124 12 70 603071 1
+20161128 2 30 265728 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+30mn-1h 3
+15mn-30mn 3
+5mn-15mn 1
+0s-30s 13
+1h+ 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 66
+/users 10 39308 1 0
+/plugins/font-awesome/fonts/fontawesome-webfont.woff2 8 454240 0 3
+/login 8 13161 8 0
+/employees 7 28266 2 2
+/users/create 7 39870 0 1
+/grades 6 24706 0 1
+/payment-structures 6 24100 0 0
+/plugins/simple-line-icons/fonts/Simple-Line-Icons.woff 5 296620 0 0
+/profile 5 18710 0 0
+/ 5 21210 1 0
+/images/WEB5bmi28O1476454355png 5 59855 0 0
+/grades/1 4 16044 0 0
+/payroll 4 16959 1 0
+/payment-methods 3 11941 0 0
+/grades/create 3 20831 1 1
+/units-made 3 11354 0 0
+/users/2/edit 3 18448 0 1
+/policies 2 9151 0 0
+/payroll-report 2 7939 0 1
+/payroll/create 2 9180 0 0
+/employees/create 2 13223 0 1
+/policies/6/edit 1 5174 0 0
+/3082.BIN_AUTOSSL_CHECK_PL__.5pCEpQZk.cpaneldcv 1 64 0 0
+/departments 1 911 0 0
+/loans 1 3744 0 0
+/3573.BIN_AUTOSSL_CHECK_PL__.WvA4nULW.cpaneldcv 1 64 0 1
+/9616.BIN_AUTOSSL_CHECK_PL__.RnY4SPDf.cpaneldcv 1 64 1 0
+/3082.BIN_AUTOSSL_CHECK_PL__.qUljb7nk.cpaneldcv 1 64 0 0
+/employees/1/edit 1 4234 0 0
+/worked/create 1 4892 0 0
+/19877.BIN_AUTOSSL_CHECK_PL__.AU30pags.cpaneldcv 1 64 0 1
+/13227.BIN_AUTOSSL_CHECK_PL__.ra7WsgFy.cpaneldcv 1 64 1 0
+/459.BIN_AUTOSSL_CHECK_PL__.AJDBpzXC.cpaneldcv 1 64 0 1
+/loans/create 1 5066 0 0
+/payment-structures/3 1 3832 0 0
+/2511.BIN_AUTOSSL_CHECK_PL__.wF8rJPbp.cpaneldcv 1 64 1 0
+/allowances/1 1 4232 0 0
+/8386.BIN_AUTOSSL_CHECK_PL__.Fgs62EdJ.cpaneldcv 1 64 1 0
+/3573.BIN_AUTOSSL_CHECK_PL__.LxtoAD_V.cpaneldcv 1 64 0 0
+/payroll-pdf/3 1 13475 0 1
+/payment-structures/create 1 4016 0 0
+/13227.BIN_AUTOSSL_CHECK_PL__.EWyYc50Y.cpaneldcv 1 64 0 1
+/9616.BIN_AUTOSSL_CHECK_PL__.O7LG3elX.cpaneldcv 1 64 0 1
+/29081.BIN_AUTOSSL_CHECK_PL__.g9l9OP5Z.cpaneldcv 1 64 0 1
+/deductions/1 1 4839 0 0
+/29081.BIN_AUTOSSL_CHECK_PL__.gZl_Vg6v.cpaneldcv 1 64 1 0
+/8386.BIN_AUTOSSL_CHECK_PL__.zYYOHA9V.cpaneldcv 1 64 0 1
+/shifts 1 3948 0 0
+/2154.BIN_AUTOSSL_CHECK_PL__.Vd0suEDZ.cpaneldcv 1 64 1 0
+/employees/1 1 4839 0 0
+/payroll/3 1 3793 0 0
+/allowances/create 1 7145 0 0
+/tax/p9 1 48042 0 0
+/worked 1 3732 0 0
+/2511.BIN_AUTOSSL_CHECK_PL__.vgIVWjrV.cpaneldcv 1 64 0 1
+/payroll-print 1 20620 0 0
+/allowances 1 4008 0 0
+/14190.BIN_AUTOSSL_CHECK_PL__.gP5KjBB0.cpaneldcv 1 64 1 0
+/payment-methods/create 1 5208 0 1
+/459.BIN_AUTOSSL_CHECK_PL__.As22WVyl.cpaneldcv 1 64 1 0
+/tax 1 4046 0 0
+/payroll-generate 1 5997 0 0
+/19877.BIN_AUTOSSL_CHECK_PL__.VTDD9UP7.cpaneldcv 1 64 1 0
+/2154.BIN_AUTOSSL_CHECK_PL__.eZyie4x1.cpaneldcv 1 64 0 0
+/units-made/create 1 4882 0 1
+/14190.BIN_AUTOSSL_CHECK_PL__.lUw1xReL.cpaneldcv 1 64 0 1
+END_SIDER

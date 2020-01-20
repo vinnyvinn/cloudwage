@@ -1,0 +1,337 @@
+# Webalizer V2.23-08 Incremental Data - 05/17/2019 02:20:45
+2019 5 17 2 20 45
+169 142 27 46 17 5 1512626 97 23 0
+2 3 72 1 17
+2 2 4705 1 1 1
+5 5 29638 3 1 1
+113 98 1371396 6 74 3
+10 6 26222 7 6 4
+5 4 5144 5 2 2
+2 2 4722 2 1 1
+2 2 4715 2 1 1
+0 0 0 0 0 0
+1 1 24 1 0 0
+4 2 512 3 1 1
+5 4 5154 5 2 2
+2 2 4715 2 1 1
+2 2 4703 2 1 1
+5 4 20564 3 3 2
+4 4 24909 2 0 0
+4 3 4991 4 2 2
+3 1 512 2 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+7 4 5639 3
+0 0 0 0
+0 0 0 0
+3 1 16413 3
+2 2 4718 1
+4 4 9451 2
+75 67 941961 42
+24 21 241711 17
+27 19 214732 19
+2 2 4574 1
+0 0 0 0
+2 1 412 1
+6 6 29648 1
+1 1 8303 0
+3 3 4747 1
+1 1 0 0
+6 4 20987 4
+1 1 24 0
+1 1 4555 1
+2 2 4703 1
+1 1 24 0
+1 1 24 0
+0
+0
+0
+142
+0
+0
+0
+0
+0
+0
+0
+7
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+9
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+# -urls- 
+/plugins/moment.min.js
+0 1 8319045105058736492 11129 0 0
+/plugins/datatables/media/js/jquery.dataTables.min.js
+0 1 0 26223 0 0
+/payroll-generate
+0 2 0 21121 0 0
+/images/kra.jpg
+0 6 0 49818 0 0
+/employees
+0 2 0 23511 0 0
+/admin/layout4/img/sidebar-toggle-light.png
+0 1 0 965 0 0
+/admin/layout4/scripts/layout.js
+0 1 0 3498 0 0
+/images/smalllogo.jpg
+0 1 0 1524 0 0
+/payroll
+0 10 0 164428 0 0
+/payroll-report
+0 4 0 32392 0 0
+/admin/pages/scripts/tasks.js
+0 1 0 239 0 0
+/admin/layout4/scripts/quick-sidebar.js
+0 1 0 1466 0 0
+/payroll/1106
+0 2 0 16254 0 0
+/plugins/jquery.blockui.min.js
+0 1 0 3525 0 0
+/payroll-print
+0 14 0 87019 0 0
+/plugins/uniform/jquery.uniform.min.js
+0 1 0 3035 0 0
+/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js
+0 1 0 8768 0 0
+/favicon.ico
+0 21 0 0 0 0
+/payroll/0
+0 10 0 114729 0 0
+/plugins/datatables/media/images/sort_asc.png
+0 1 0 1118 0 0
+/plugins/datatables/plugins/bootstrap/dataTables.bootstrap.js
+0 1 0 3068 0 0
+/plugins/bootstrap/js/bootstrap.min.js
+0 1 0 9745 0 0
+/plugins/bootstrap-toastr/toastr.min.js
+0 1 0 1442 0 0
+/js/fullcalendar.min.js
+0 1 0 30904 0 0
+/plugins/datatables/media/images/sort_both.png
+0 1 0 1136 0 0
+/plugins/jquery-migrate.min.js
+0 1 0 3063 0 0
+/plugins/jquery.min.js
+0 1 0 33280 0 0
+/login
+0 19 0 115380 13 9
+/plugins/bootstrap-hover-dropdown/bootstrap-hover-dropdown.min.js
+0 1 0 687 0 0
+/js/scripts.js
+0 1 0 1574 0 0
+/_debugbar/assets/javascript
+0 1 0 112163 0 0
+/scripts/metronic.js
+0 1 0 8346 0 0
+/plugins/jquery.sparkline.min.js
+0 1 0 13020 0 0
+/plugins/uniform/images/sprite.png
+0 1 0 31815 0 0
+/payroll/create
+0 2 0 17476 0 0
+/
+0 4 0 35348 9 0
+/plugins/font-awesome/fonts/fontawesome-webfont.woff2
+0 1 0 56780 0 0
+/plugins/simple-line-icons/fonts/Simple-Line-Icons.woff
+0 1 0 59324 0 0
+/plugins/jquery-ui/jquery-ui.min.js
+0 1 0 63671 0 0
+/plugins/jquery-slimscroll/jquery.slimscroll.min.js
+0 1 0 2036 0 0
+/robots.txt
+0 12 0 288 0 0
+/plugins/bootstrap-switch/js/bootstrap-switch.min.js
+0 1 0 3344 0 0
+/plugins/select2/select2.min.js
+0 1 0 18301 0 0
+/deductions
+0 2 0 16460 0 0
+/plugins/jquery.cokie.min.js
+0 1 0 774 0 0
+/payroll-pdf/1106
+0 1 0 32683 0 0
+# End Of Table - urls
+# -sites- (monthly)
+ip-54-36-148-36.a.ahrefs.com
+0 1 1 24 0 0
+-
+ip-54-36-149-88.a.ahrefs.com
+0 1 1 4550 1 1556970159
+/login
+197-248-207-206.safaricombusiness.co.ke
+0 70 64 936733 1 1556871810
+/payroll-print
+ip-54-36-148-166.a.ahrefs.com
+0 1 1 24 0 0
+-
+ip-54-36-149-98.a.ahrefs.com
+0 1 1 24 0 0
+-
+ip-54-36-148-107.a.ahrefs.com
+0 1 1 24 0 0
+-
+ip-54-36-148-84.a.ahrefs.com
+0 1 0 388 1 1558031562
+/
+google-proxy-66-249-93-11.google.com
+0 11 11 33006 7 1557826395
+/login
+google-proxy-66-249-93-16.google.com
+0 1 1 0 0 0
+-
+ip-54-36-148-87.a.ahrefs.com
+0 1 0 388 1 1557063665
+/
+ip-54-36-148-228.a.ahrefs.com
+0 2 1 273 0 0
+-
+transport.wizag.biz
+0 6 6 49818 0 0
+-
+ip-54-36-149-68.a.ahrefs.com
+0 1 1 24 0 0
+-
+ip-54-36-149-100.a.ahrefs.com
+0 1 1 24 0 0
+-
+google-proxy-66-249-93-13.google.com
+0 11 11 18845 4 1557782218
+/login
+google-proxy-66-249-93-9.google.com
+0 3 3 0 0 0
+-
+ip-54-36-149-96.a.ahrefs.com
+0 2 1 263 1 1556959243
+/
+ip-54-36-149-8.a.ahrefs.com
+0 1 1 24 0 0
+-
+ip-54-36-148-34.a.ahrefs.com
+0 2 1 273 0 0
+-
+ip-54-36-148-215.a.ahrefs.com
+0 1 0 388 1 1557540959
+/
+ip-54-36-148-29.a.ahrefs.com
+0 1 0 239 1 1557485075
+/
+144.168.162.250
+0 2 1 15867 1 1557859004
+/login
+ip-54-36-148-56.a.ahrefs.com
+0 1 0 239 1 1558059645
+/
+ip-54-36-148-113.a.ahrefs.com
+0 1 1 24 0 0
+-
+jobqueue-listener.jobqueue.netcraft.com-ua426da9a6d9e11e9b2e7b74d838d6ab1u-digitalocean-2gb
+0 3 1 16413 1 1556946689
+/login
+197.232.60.130
+0 39 30 429923 1 1556879536
+/payroll-print
+ip-54-36-149-70.a.ahrefs.com
+0 3 2 4828 1 1558037617
+/login
+# End Of Table - sites (monthly)
+# -sites- (daily)
+ip-54-36-148-56.a.ahrefs.com
+0 1 0 239 1 1558059645
+/
+ip-54-36-149-70.a.ahrefs.com
+0 2 1 273 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://ssdhillon.cloudwage.com/plugins/uniform/css/uniform.default.css
+0 1
+http://ssdhillon.cloudwage.com/deductions
+0 1
+http://ssdhillon.cloudwage.com/payroll-report
+0 2
+http://ssdhillon.cloudwage.com/payroll/1106
+0 2
+http://ssdhillon.cloudwage.com/payroll/create
+0 2
+http://ssdhillon.cloudwage.com/payroll/0
+0 6
+- (Direct Request)
+0 92
+http://ssdhillon.cloudwage.com/login
+0 14
+http://ssdhillon.cloudwage.com/payroll-generate
+0 15
+http://ssdhillon.cloudwage.com/
+0 17
+http://ssdhillon.cloudwage.com/plugins/font-awesome/css/font-awesome.min.css
+0 1
+http://ssdhillon.cloudwage.com/payroll
+0 5
+http://ssdhillon.cloudwage.com/admin/layout4/css/themes/default.css
+0 1
+http://ssdhillon.cloudwage.com/payroll-print
+0 6
+http://ssdhillon.cloudwage.com/plugins/datatables/plugins/bootstrap/dataTables.bootstrap.css
+0 2
+http://ssdhillon.cloudwage.com/employees
+0 1
+http://ssdhillon.cloudwage.com/plugins/simple-line-icons/simple-line-icons.min.css
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)
+0 23
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+0 109
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 26
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,388 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201709 will be lost/reset.
+# Last config file used to build this data file was /home/cloudwage/tmp/awstats/awstats.demo.cloudwage.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2688                
+POS_VISITOR 6474                
+POS_DAY 6926                
+POS_DOMAIN 3265                
+POS_LOGIN 3532                
+POS_ROBOT 3687                
+POS_WORMS 3852                
+POS_EMAILSENDER 3983                
+POS_EMAILRECEIVER 4126                
+POS_SESSION 7121                
+POS_SIDER 7293                
+POS_FILETYPES 4261                
+POS_DOWNLOADS 4484                
+POS_OS 4821                
+POS_BROWSER 4949                
+POS_SCREENSIZE 5120                
+POS_UNKNOWNREFERER 5194                
+POS_UNKNOWNREFERERBROWSER 5307                
+POS_ORIGIN 5415                
+POS_SEREFERRALS 5551                
+POS_PAGEREFS 5695                
+POS_SEARCHWORDS 5843                
+POS_KEYWORDS 5995                
+POS_MISC 2352                
+POS_ERRORS 6054                
+POS_CLUSTER 3388                
+POS_SIDER_404 6165                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20171011021837 1 0 11420826571365
+FirstTime 20170901171402
+LastTime 20170921142037
+LastUpdate 20171011151505 1 0 0 0 0
+TotalVisits 9                   
+TotalUnique 5                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 12                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 3 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 4 59 565470 2 2 736
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 1 1 1645 1 1 368
+9 56 56 284590 19 19 7108
+10 29 29 210649 0 0 0
+11 1 1 1646 1 1 368
+12 0 0 0 0 0 0
+13 3 4 5899 2 3 712
+14 2 29 279960 1 1 368
+15 1 1 4157 1 1 344
+16 76 135 982621 16 17 6184
+17 176 208 1228576 51 52 45897
+18 56 56 372687 10 10 3780
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 7 521 0 0 0
+22 0 2 154 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+ke 399 491 3092470
+cn 6 88 845430
+gb 0 2 162
+us 0 7 513
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+netcraft 1 6698 20170907174102 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+png 15 50652 0 0
+Unknown 387 2264413 0 0
+woff 5 333172 0 0
+js 84 749290 0 0
+gif 1 1849 0 0
+txt 9 675 0 0
+html 10 41968 0 0
+woff2 3 56780 0 0
+css 74 439776 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 4
+/.well-known/pki-validation/E7CE623D52067225FAAFFF8D3A459759.txt 6 0 470
+/.well-known/pki-validation/1A0CAA43689DB64102AF6D476F38C69D.txt 1 0 77
+/.well-known/pki-validation/2F9931D0B22DFA4783EB6375F18F551C.txt 1 0 64
+/.well-known/pki-validation/7D179A780AB4A1A5D43402E322743801.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+Unknown 9 0
+win8.1 5 4
+win7 60 5
+ios_iphone 29 2
+winnt 485 394
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 6
+firefox55.0 5 4
+chrome36.0.1985.125 29 2
+Unknown 9 0
+safari5.1 29 2
+chrome50.0.2661.102 30 2
+chrome60.0.3112.113 486 395
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+COMODO_DCV 20170921225903
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+COMODO_DCV 20170921225903
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 13 22
+From1 0 0
+From2 0 0
+From3 0 0
+From4 392 566
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+301 1 234
+302 97 36508
+500 5 22425
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 12
+154.70.14.145 322 355 2105692 20170913083053
+41.212.6.143 77 136 986778 20170906165612
+106.120.162.109 2 30 285510 20170921011721
+101.199.112.53 2 29 279960 20170921011714
+171.13.14.35 2 8 122816 20170921142037
+171.13.14.48 0 3 47616 
+171.13.14.47 0 4 22447 
+171.13.14.46 0 5 22709 
+171.13.14.45 0 4 20359 
+91.199.212.132 0 2 162 
+23.254.153.210 0 7 513 
+171.13.14.51 0 5 44013 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 6
+20170901 232 264 1601263 1
+20170904 85 85 495239 1
+20170905 1 1 1646 1
+20170906 80 140 992677 2
+20170913 1 1 1645 1
+20170921 6 97 846105 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+1h+ 1
+30s-2mn 1
+30mn-1h 2
+0s-30s 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 115
+/payroll/0 95 431575 0 0
+/payroll 77 391739 0 1
+/payroll/create 38 181527 0 0
+/ 10 41968 1 1
+/login 9 29962 8 2
+/employees 9 44412 0 0
+/allowances 7 28817 0 0
+/allowances/1 5 26078 0 0
+/policies 5 22827 0 0
+/deductions 4 16303 0 0
+/loans 4 15369 0 0
+/advances 4 15520 0 0
+/employee-types/6/edit 4 16396 0 0
+/employees/create 3 21775 0 0
+/employee-types 3 12120 0 0
+/grades 3 12601 0 0
+/plugins/font-awesome/fonts/fontawesome-webfont.woff2 3 56780 0 0
+/employee-allowances/34/edit 3 11750 0 0
+/plugins/font-awesome/fonts/fontawesome-webfont.woff 3 214524 0 3
+/holidays 3 12007 0 0
+/payroll/199 2 7650 0 0
+/employees/1/edit 2 9174 0 0
+/loans/create 2 10804 0 0
+/images/nrSK0nMbBe1499255440png 2 22838 0 0
+/payroll/164 2 7654 0 0
+/payroll-pdf/70 1 18937 0 0
+/departments/6 1 930 0 0
+/loans/07-2017 1 4081 0 0
+/payroll/33 1 3806 0 0
+/departments/3 1 1054 0 0
+/shifts 1 4004 0 0
+/payroll-pdf/164 1 19164 0 0
+/payroll-pdf/192 1 18452 0 0
+/payroll-pdf/13 1 18904 0 0
+/payroll/248 1 3825 0 0
+/payroll-pdf/88 1 18937 0 0
+/payroll-pdf/149 1 19164 0 0
+/allowances/5 1 4190 0 0
+/payroll-pdf/15 1 17645 0 0
+/employees/1 1 5133 0 0
+/payroll-pdf/207 1 18452 0 0
+/payroll-pdf/114 1 18937 0 0
+/payroll-pdf/171 1 19164 0 0
+/policies/1/edit 1 5115 0 0
+/payroll-pdf/122 1 19174 0 0
+/payroll-pdf/234 1 18452 0 0
+/payroll/234 1 3825 0 0
+/payroll/226 1 3826 0 0
+/deductions/1/edit 1 6527 0 0
+/payroll/30 1 3793 0 0
+/payroll/241 1 3824 0 0
+/work-plans 2 8141 0 0
+/payroll-pdf/226 1 18452 0 0
+/plugins/simple-line-icons/fonts/Simple-Line-Icons.woff 2 118648 0 0
+/payroll/149 2 7654 0 0
+/payroll/70 1 3807 0 0
+/advances/09-2017 1 4041 0 0
+/worked 1 3931 0 0
+/payroll-pdf/130 1 19164 0 0
+/payroll/157 1 3827 0 0
+/payroll-pdf/40 1 18898 0 0
+/payroll/40 1 3795 0 0
+/employee-deductions/47/edit 1 3949 0 0
+/payroll-pdf/178 1 19164 0 0
+/profile 2 10718 0 0
+/payroll/185 1 3828 0 0
+/payroll/15 1 3805 0 0
+/payroll-pdf/199 1 18452 0 0
+/payroll/41 1 3807 0 0
+/payroll/171 1 3827 0 0
+/payroll-pdf/248 1 18452 0 0
+/work-plans/3/edit 1 4394 0 0
+/payroll-pdf/217 1 18452 0 0
+/payroll-pdf/41 1 18223 0 0
+/payroll-pdf/157 1 19164 0 0
+/payroll-pdf/185 1 19164 0 1
+/allowances/1/edit 1 7233 0 0
+/hours-worked/create 1 4902 0 0
+/payroll/178 1 3827 0 0
+/payroll/57 1 3801 0 0
+/employees/21/edit 1 4584 0 0
+/payroll-pdf/57 1 18211 0 0
+/contracts/1/edit 1 5892 0 0
+/payment-structures 2 8038 0 0
+/employees/8/edit 1 4581 0 0
+/payroll/192 2 7648 0 1
+/grades/create 1 6990 0 0
+/advances-bulk 1 5606 0 0
+/deductions/2/edit 1 7222 0 0
+/payroll-pdf/140 1 19164 0 0
+/contracts 2 9912 0 0
+/payroll/217 1 3824 0 0
+/holidays/create 2 8890 0 0
+/payroll/244 1 3811 0 0
+/payroll-pdf/241 1 18452 0 0
+/payroll/122 1 3827 0 0
+/payment-methods 1 4136 0 0
+/payroll/114 1 3808 0 0
+/departments 2 2290 0 0
+/hours-worked 1 3795 0 0
+/payroll-generate 1 6070 0 0
+/deductions/2 1 5966 0 0
+/payroll/140 1 3827 0 0
+/payroll-pdf/244 2 35470 0 0
+/payroll-pdfs 1 73728 0 0
+/policies/6/edit 1 5185 0 0
+/payroll/88 2 7614 0 0
+/payroll/207 1 3823 0 0
+/payroll-report 2 8074 0 0
+/payroll-pdf/33 1 20437 0 0
+/employee-types/create 1 4001 0 0
+/payroll/130 2 7638 0 0
+/payroll/13 1 3807 0 0
+/payroll-pdf/30 1 18179 0 0
+/employees/8 1 4828 0 0
+END_SIDER

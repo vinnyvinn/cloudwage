@@ -1,0 +1,10 @@
+suites:
+  somafunds_suite:
+    namespace: Payroll
+    psr4_prefix: Payroll
+    src_path: Payroll
+    spec_path: Payroll
+    spec_prefix: spec
+
+extensions:
+    - PhpSpec\Laravel\Extension\LaravelExtension
